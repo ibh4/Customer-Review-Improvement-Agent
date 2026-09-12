@@ -1,4 +1,4 @@
-# Review2Product — Customer Review Improvement Agent
+# Review2Product — 商品评价反馈改进Agent
 
 <p align="center">
   <b>Voice of Customer · Pain Point Mining · Product Evolution</b><br>
@@ -13,8 +13,10 @@
   <img alt="Status" src="https://img.shields.io/badge/Status-Submission%20Ready-22C55E?style=for-the-badge">
 </p>
 
-<p align="center">
-  <img src="shots/15_mri_final.png" alt="Product MRI Dashboard" width="100%">
+<p align="center"><img width="1672" height="941" alt="ChatGPT Image 2026年9月12日 23_13_31" src="https://github.com/user-attachments/assets/e391c60e-ee3c-4b4f-a66d-5bfbd4024d21" />
+
+  <img width="2880" height="1270" alt="image" src="https://github.com/user-attachments/assets/6b6fdcf5-1168-4e4a-8cbd-99c2190e4fb4" />
+
 </p>
 <p align="center"><b>Product MRI — 痛点分布 / 评分趋势 / 3D 痛点地形</b></p>
 
@@ -65,22 +67,33 @@
   "lineColor": "#94A3B8"
 }}}%%
 flowchart LR
-    A(["18,167 条<br/>真实评论"]):::data --> B(["清洗 · 去重<br/>负面筛选"]):::prep
-    B --> C(["痛点聚类<br/>TF-IDF + KMeans"]):::mine
-    C --> D(["PainScore<br/>可解释评分"]):::score
-    D --> E(["三 Agent<br/>根因 → 参数 → 文案"]):::agent
-    E --> F(["Product V2<br/>参数级改进表"]):::v2
-    E --> G(["Listing<br/>上架素材"]):::listing
-    D -. 每条结论挂 12 条原始评论 .-> H(["Evidence<br/>一键回溯"]):::evidence
 
-    classDef data fill:#E0F2FE,stroke:#38BDF8,color:#0C4A6E,stroke-width:2px;
-    classDef prep fill:#FEF3C7,stroke:#F59E0B,color:#78350F,stroke-width:2px;
-    classDef mine fill:#DCFCE7,stroke:#22C55E,color:#14532D,stroke-width:2px;
-    classDef score fill:#FCE7F3,stroke:#EC4899,color:#831843,stroke-width:2px;
-    classDef agent fill:#EDE9FE,stroke:#8B5CF6,color:#4C1D95,stroke-width:3px;
-    classDef v2 fill:#CFFAFE,stroke:#06B6D4,color:#164E63,stroke-width:2px;
-    classDef listing fill:#ECFCCB,stroke:#84CC16,color:#365314,stroke-width:2px;
-    classDef evidence fill:#FFEDD5,stroke:#FB923C,color:#7C2D12,stroke-width:2px;
+A["18,167 条真实评论"] --> B["清洗与负面筛选"]
+B --> C["痛点聚类<br/>TF-IDF + KMeans"]
+C --> D["PainScore<br/>可解释评分"]
+D --> E["Agent分析<br/>根因定位"]
+E --> F["Product V2<br/>参数改进"]
+E --> G["Listing<br/>上架素材"]
+
+D --> H["Evidence<br/>原始评论回溯"]
+
+class A data
+class B prep
+class C mine
+class D score
+class E agent
+class F v2
+class G listing
+class H evidence
+
+classDef data fill:#E0F2FE,stroke:#38BDF8
+classDef prep fill:#FEF3C7,stroke:#F59E0B
+classDef mine fill:#DCFCE7,stroke:#22C55E
+classDef score fill:#FCE7F3,stroke:#EC4899
+classDef agent fill:#EDE9FE,stroke:#8B5CF6
+classDef v2 fill:#CFFAFE,stroke:#06B6D4
+classDef listing fill:#ECFCCB,stroke:#84CC16
+classDef evidence fill:#FFEDD5,stroke:#FB923C
 ```
 
 > 这条链路的意义不是「跑通一个 pipeline」，而是把 **噪声评论 → 可解释评分 → 工程参数 → 上架素材** 的整条翻译链组织成可追溯、可复现、失败可诊断的 Agent 系统。
@@ -147,16 +160,27 @@ shots/              # 16 张 1600×900 演示截图
   "lineColor": "#94A3B8"
 }}}%%
 flowchart LR
-    A(["01 OBSERVE<br/>Product MRI"]):::s1 --> B(["02 UNDERSTAND<br/>Pain Galaxy"]):::s2
-    B --> C(["03 EVIDENCE<br/>Evidence Explorer"]):::s3
-    C --> D(["04 EVOLVE<br/>Product V2"]):::s4
-    D --> E(["05 LAUNCH<br/>Listing Assets"]):::s5
 
-    classDef s1 fill:#E0F2FE,stroke:#38BDF8,color:#0C4A6E,stroke-width:2px;
-    classDef s2 fill:#FCE7F3,stroke:#EC4899,color:#831843,stroke-width:2px;
-    classDef s3 fill:#FFEDD5,stroke:#FB923C,color:#7C2D12,stroke-width:2px;
-    classDef s4 fill:#DCFCE7,stroke:#22C55E,color:#14532D,stroke-width:2px;
-    classDef s5 fill:#EDE9FE,stroke:#8B5CF6,color:#4C1D95,stroke-width:2px;
+A["01 产品总览<br/>Product MRI"]
+--> B["02 痛点分析<br/>Pain Galaxy"]
+
+B --> C["03 证据追溯<br/>Evidence Explorer"]
+
+C --> D["04 产品进化<br/>Product V2"]
+
+D --> E["05 上架素材<br/>Listing Assets"]
+
+class A s1
+class B s2
+class C s3
+class D s4
+class E s5
+
+classDef s1 fill:#E0F2FE,stroke:#38BDF8
+classDef s2 fill:#FCE7F3,stroke:#EC4899
+classDef s3 fill:#FFEDD5,stroke:#FB923C
+classDef s4 fill:#DCFCE7,stroke:#22C55E
+classDef s5 fill:#EDE9FE,stroke:#8B5CF6
 ```
 
 ### 核心页面截图
