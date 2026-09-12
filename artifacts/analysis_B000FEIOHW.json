@@ -1,0 +1,445 @@
+{
+  "product_id": "B000FEIOHW",
+  "product_title": "Philips Sonicare HX3351/02 Xtreme Battery Operated Toothbrush",
+  "category": "All_Beauty",
+  "data_source": "amazon_reviews_2023",
+  "generated_at": "2026-08-17T16:43:12",
+  "llm_mode": "mock",
+  "stats": {
+    "total_reviews": 493,
+    "negative_reviews": 120,
+    "avg_rating": 4.05,
+    "rating_distribution": {
+      "1": 66,
+      "2": 22,
+      "3": 32,
+      "4": 73,
+      "5": 300
+    },
+    "date_range": [
+      "1158811908",
+      "1523399203"
+    ],
+    "cluster_method": "tfidf_kmeans",
+    "n_clusters_raw": 4
+  },
+  "pain_points": [
+    {
+      "name": "Power & Battery",
+      "display_name": "动力/续航不足",
+      "label_source": "lexicon",
+      "cluster_ids": [
+        2,
+        3
+      ],
+      "review_count": 81,
+      "total_negative": 120,
+      "share": 0.675,
+      "avg_rating": 1.7,
+      "keywords": [
+        "batteries",
+        "toothbrush",
+        "battery",
+        "water",
+        "brush",
+        "sonicare",
+        "months",
+        "just",
+        "power",
+        "powerful",
+        "weak",
+        "charge"
+      ],
+      "frequency": 0.675,
+      "severity": 0.825,
+      "helpfulness": 1.0,
+      "recency": 0.5,
+      "pain_score": 100.0,
+      "score_components": {
+        "frequency": 0.675,
+        "severity": 0.825,
+        "helpfulness": 1.0,
+        "recency": 0.5
+      },
+      "cluster_id": 2,
+      "evidence_review_ids": [
+        "B000FEIOHW-426",
+        "B000FEIOHW-466",
+        "B000FEIOHW-365",
+        "B000FEIOHW-224",
+        "B000FEIOHW-336",
+        "B000FEIOHW-355",
+        "B000FEIOHW-446",
+        "B000FEIOHW-437",
+        "B000FEIOHW-387",
+        "B000FEIOHW-226",
+        "B000FEIOHW-37",
+        "B000FEIOHW-171",
+        "B000FEIOHW-465",
+        "B000FEIOHW-198",
+        "B000FEIOHW-460",
+        "B000FEIOHW-45",
+        "B000FEIOHW-363",
+        "B000FEIOHW-49",
+        "B000FEIOHW-348",
+        "B000FEIOHW-244",
+        "B000FEIOHW-249",
+        "B000FEIOHW-116",
+        "B000FEIOHW-325",
+        "B000FEIOHW-470",
+        "B000FEIOHW-169",
+        "B000FEIOHW-397",
+        "B000FEIOHW-106",
+        "B000FEIOHW-329",
+        "B000FEIOHW-204",
+        "B000FEIOHW-357",
+        "B000FEIOHW-322",
+        "B000FEIOHW-467",
+        "B000FEIOHW-2",
+        "B000FEIOHW-443",
+        "B000FEIOHW-113",
+        "B000FEIOHW-331",
+        "B000FEIOHW-485",
+        "B000FEIOHW-282",
+        "B000FEIOHW-261",
+        "B000FEIOHW-368",
+        "B000FEIOHW-183",
+        "B000FEIOHW-162",
+        "B000FEIOHW-76",
+        "B000FEIOHW-129",
+        "B000FEIOHW-225",
+        "B000FEIOHW-297",
+        "B000FEIOHW-462",
+        "B000FEIOHW-270",
+        "B000FEIOHW-473",
+        "B000FEIOHW-170"
+      ],
+      "representative_review_ids": [
+        "B000FEIOHW-365",
+        "B000FEIOHW-426",
+        "B000FEIOHW-466"
+      ],
+      "evidence_status": "ok"
+    },
+    {
+      "name": "Functional Failure",
+      "display_name": "功能失效 / 无法工作",
+      "label_source": "lexicon",
+      "cluster_ids": [
+        0
+      ],
+      "review_count": 20,
+      "total_negative": 120,
+      "share": 0.1667,
+      "avg_rating": 2.1,
+      "keywords": [
+        "toothbrush",
+        "battery",
+        "like",
+        "sonicare",
+        "batteries",
+        "used",
+        "operated",
+        "work",
+        "stopped working",
+        "stopped spraying",
+        "quit working",
+        "quit spraying"
+      ],
+      "frequency": 0.1667,
+      "severity": 0.725,
+      "helpfulness": 0.3,
+      "recency": 1.0,
+      "pain_score": 13.0,
+      "score_components": {
+        "frequency": 0.167,
+        "severity": 0.725,
+        "helpfulness": 0.3,
+        "recency": 1.0
+      },
+      "cluster_id": 0,
+      "evidence_review_ids": [
+        "B000FEIOHW-205",
+        "B000FEIOHW-227",
+        "B000FEIOHW-267",
+        "B000FEIOHW-415",
+        "B000FEIOHW-447",
+        "B000FEIOHW-8",
+        "B000FEIOHW-383",
+        "B000FEIOHW-495",
+        "B000FEIOHW-379",
+        "B000FEIOHW-453",
+        "B000FEIOHW-25",
+        "B000FEIOHW-302",
+        "B000FEIOHW-401",
+        "B000FEIOHW-97",
+        "B000FEIOHW-123",
+        "B000FEIOHW-371",
+        "B000FEIOHW-3",
+        "B000FEIOHW-483",
+        "B000FEIOHW-439",
+        "B000FEIOHW-492"
+      ],
+      "representative_review_ids": [
+        "B000FEIOHW-205",
+        "B000FEIOHW-227",
+        "B000FEIOHW-267"
+      ],
+      "evidence_status": "ok"
+    },
+    {
+      "name": "Value & Price",
+      "display_name": "性价比质疑",
+      "label_source": "lexicon",
+      "cluster_ids": [
+        1
+      ],
+      "review_count": 19,
+      "total_negative": 120,
+      "share": 0.1583,
+      "avg_rating": 1.37,
+      "keywords": [
+        "money",
+        "product",
+        "don't",
+        "toothbrush",
+        "waste",
+        "sonicare",
+        "like",
+        "philips",
+        "price",
+        "expensive",
+        "overpriced",
+        "worth it"
+      ],
+      "frequency": 0.1583,
+      "severity": 0.9075,
+      "helpfulness": 0.3063,
+      "recency": 0.7687,
+      "pain_score": 12.2,
+      "score_components": {
+        "frequency": 0.158,
+        "severity": 0.907,
+        "helpfulness": 0.306,
+        "recency": 0.769
+      },
+      "cluster_id": 1,
+      "evidence_review_ids": [
+        "B000FEIOHW-298",
+        "B000FEIOHW-480",
+        "B000FEIOHW-433",
+        "B000FEIOHW-217",
+        "B000FEIOHW-158",
+        "B000FEIOHW-73",
+        "B000FEIOHW-17",
+        "B000FEIOHW-323",
+        "B000FEIOHW-66",
+        "B000FEIOHW-245",
+        "B000FEIOHW-64",
+        "B000FEIOHW-400",
+        "B000FEIOHW-46",
+        "B000FEIOHW-458",
+        "B000FEIOHW-390",
+        "B000FEIOHW-342",
+        "B000FEIOHW-461",
+        "B000FEIOHW-203",
+        "B000FEIOHW-121"
+      ],
+      "representative_review_ids": [
+        "B000FEIOHW-298",
+        "B000FEIOHW-433",
+        "B000FEIOHW-480"
+      ],
+      "evidence_status": "ok"
+    }
+  ],
+  "root_causes": {
+    "Power & Battery": {
+      "pain_point": "Power & Battery",
+      "root_cause": "电机功率与电池容量定位偏低：为控制成本采用低功率方案，连续负载下动力衰减与续航缩水明显",
+      "affected_scenario": "连续使用 / 无线使用场景",
+      "affected_users": "高频无线使用人群",
+      "severity": 0.825,
+      "evidence_ids": [
+        "B000FEIOHW-426",
+        "B000FEIOHW-466",
+        "B000FEIOHW-365",
+        "B000FEIOHW-224",
+        "B000FEIOHW-336"
+      ],
+      "source": "heuristic"
+    },
+    "Functional Failure": {
+      "pain_point": "Functional Failure",
+      "root_cause": "核心机构（泵芯/电机/联动结构）可靠性不足：缺乏出厂寿命测试与批次抽检",
+      "affected_scenario": "正常使用数天至数月后失效",
+      "affected_users": "所有用户（直接导致退货与差评）",
+      "severity": 0.725,
+      "evidence_ids": [
+        "B000FEIOHW-205",
+        "B000FEIOHW-227",
+        "B000FEIOHW-267",
+        "B000FEIOHW-415",
+        "B000FEIOHW-447"
+      ],
+      "source": "heuristic"
+    },
+    "Value & Price": {
+      "pain_point": "Value & Price",
+      "root_cause": "价格带与感知质量错位：核心痛点（漏水/清洁）拉低价值感知",
+      "affected_scenario": "比价 / 复购决策",
+      "affected_users": "价格敏感型用户",
+      "severity": 0.9075,
+      "evidence_ids": [
+        "B000FEIOHW-298",
+        "B000FEIOHW-480",
+        "B000FEIOHW-433",
+        "B000FEIOHW-217",
+        "B000FEIOHW-158"
+      ],
+      "source": "heuristic"
+    }
+  },
+  "product_v2": {
+    "positioning": "针对 V1 差评中 Top 痛点（动力/续航不足、功能失效 / 无法工作、性价比质疑）全面重构的 V2 版本：以真实评论证据驱动参数级改进，主打「痛点清零 + 可验证升级」，面向高频通勤/户外场景用户，用 Evidence 营销建立信任壁垒。",
+    "parameters": [
+      {
+        "parameter": "motor_power",
+        "current_state": "低功率电机",
+        "recommended_state": "升级功率档位 + 负载测试（工程验证 required）",
+        "pain_point": "Power & Battery",
+        "reason": "根因：电机功率与电池容量定位偏低：为控制成本采用低功率方案，连续负载下动力衰减与续航缩水明显。该痛点 81 条负面评论 (占比 67.5%)，平均 1.7 星",
+        "evidence_ids": [
+          "B000FEIOHW-426",
+          "B000FEIOHW-466",
+          "B000FEIOHW-365",
+          "B000FEIOHW-224",
+          "B000FEIOHW-336",
+          "B000FEIOHW-355"
+        ],
+        "confidence": 0.95,
+        "source": "heuristic"
+      },
+      {
+        "parameter": "battery_capacity",
+        "current_state": "小容量电池",
+        "recommended_state": "大容量电芯 + 低电量提醒",
+        "pain_point": "Power & Battery",
+        "reason": "根因：电机功率与电池容量定位偏低：为控制成本采用低功率方案，连续负载下动力衰减与续航缩水明显。该痛点 81 条负面评论 (占比 67.5%)，平均 1.7 星",
+        "evidence_ids": [
+          "B000FEIOHW-426",
+          "B000FEIOHW-466",
+          "B000FEIOHW-365",
+          "B000FEIOHW-224",
+          "B000FEIOHW-336",
+          "B000FEIOHW-355"
+        ],
+        "confidence": 0.95,
+        "source": "heuristic"
+      },
+      {
+        "parameter": "mechanism_reliability",
+        "current_state": "泵芯/机构无寿命强化设计",
+        "recommended_state": "加强机构寿命设计与开合疲劳测试（engineering validation required）",
+        "pain_point": "Functional Failure",
+        "reason": "根因：核心机构（泵芯/电机/联动结构）可靠性不足：缺乏出厂寿命测试与批次抽检。该痛点 20 条负面评论 (占比 16.7%)，平均 2.1 星",
+        "evidence_ids": [
+          "B000FEIOHW-205",
+          "B000FEIOHW-227",
+          "B000FEIOHW-267",
+          "B000FEIOHW-415",
+          "B000FEIOHW-447",
+          "B000FEIOHW-8"
+        ],
+        "confidence": 0.88,
+        "source": "heuristic"
+      },
+      {
+        "parameter": "qc_sampling",
+        "current_state": "无功能全检/抽检标准",
+        "recommended_state": "出厂功能全检 + 批次抽检可靠性测试",
+        "pain_point": "Functional Failure",
+        "reason": "根因：核心机构（泵芯/电机/联动结构）可靠性不足：缺乏出厂寿命测试与批次抽检。该痛点 20 条负面评论 (占比 16.7%)，平均 2.1 星",
+        "evidence_ids": [
+          "B000FEIOHW-205",
+          "B000FEIOHW-227",
+          "B000FEIOHW-267",
+          "B000FEIOHW-415",
+          "B000FEIOHW-447",
+          "B000FEIOHW-8"
+        ],
+        "confidence": 0.88,
+        "source": "heuristic"
+      },
+      {
+        "parameter": "cost_engineering",
+        "current_state": "定价高于同类且痛点未解决",
+        "recommended_state": "优先解决 Top 痛点以支撑价格带；推出以旧换新留存策略",
+        "pain_point": "Value & Price",
+        "reason": "根因：价格带与感知质量错位：核心痛点（漏水/清洁）拉低价值感知。该痛点 19 条负面评论 (占比 15.8%)，平均 1.37 星",
+        "evidence_ids": [
+          "B000FEIOHW-298",
+          "B000FEIOHW-480",
+          "B000FEIOHW-433",
+          "B000FEIOHW-217",
+          "B000FEIOHW-158",
+          "B000FEIOHW-73"
+        ],
+        "confidence": 0.88,
+        "source": "heuristic"
+      }
+    ],
+    "selling_points": [
+      "彻底解决动力/续航不足：升级功率档位 + 负载测试（依据 81 条真实差评）",
+      "彻底解决功能失效 / 无法工作：加强机构寿命设计与开合疲劳测试（依据 20 条真实差评）",
+      "彻底解决性价比质疑：优先解决 Top 痛点以支撑价格带；推出以旧换新留存策略（依据 19 条真实差评）"
+    ],
+    "before_after_profile": {
+      "metrics": [
+        "动力/续航不足",
+        "功能失效 / 无法工作",
+        "性价比质疑"
+      ],
+      "v1": [
+        38.0,
+        91.9,
+        92.4
+      ],
+      "v2": [
+        92.9,
+        96.5,
+        96.6
+      ]
+    }
+  },
+  "listing": {
+    "title": "Philips V2 – upgraded core design, factory-tested long-life mechanism | Redesigned from Real Customer Reviews",
+    "bullets": [
+      "[SOLVED: Power & Battery] Upgraded to a fully redesigned structure — based on 81 real reviews (50 verifiable evidence quotes), avg 1.7 -> target 4.5+",
+      "[SOLVED: Stops Working] Upgraded to factory-tested long-life mechanism — based on 20 real reviews (20 verifiable evidence quotes), avg 2.1 -> target 4.5+",
+      "[SOLVED: Value Concerns] Upgraded to upgrades that justify every cent — based on 19 real reviews (19 verifiable evidence quotes), avg 1.37 -> target 4.5+"
+    ],
+    "faq": [
+      {
+        "q": "Customers reported 'Power & Battery' on V1 — is it fixed?",
+        "a": "Yes. V2 addresses it with a fully redesigned structure (engineering validation required)."
+      },
+      {
+        "q": "Customers reported 'Stops Working' on V1 — is it fixed?",
+        "a": "Yes. V2 addresses it with factory-tested long-life mechanism (engineering validation required)."
+      },
+      {
+        "q": "Customers reported 'Value Concerns' on V1 — is it fixed?",
+        "a": "Yes. V2 addresses it with upgrades that justify every cent (engineering validation required)."
+      }
+    ],
+    "main_image_strategy": [
+      "主图1：白底产品主视觉（V2 双密封结构局部剖面光效）",
+      "场景图：针对「动力/续航不足」的 Before/After 对比",
+      "场景图：针对「功能失效 / 无法工作」的 Before/After 对比",
+      "场景图：针对「性价比质疑」的 Before/After 对比"
+    ],
+    "marketing_message": "Every V2 upgrade is backed by real customer reviews — 120 negative voices turned into 5 engineering changes.",
+    "source": "heuristic"
+  }
+}

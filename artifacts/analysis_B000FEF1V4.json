@@ -1,0 +1,483 @@
+{
+  "product_id": "B000FEF1V4",
+  "product_title": "Philips Norelco T980 Turbo Vacuum Trimmer",
+  "category": "All_Beauty",
+  "data_source": "amazon_reviews_2023",
+  "generated_at": "2026-08-17T16:42:51",
+  "llm_mode": "mock",
+  "stats": {
+    "total_reviews": 607,
+    "negative_reviews": 119,
+    "avg_rating": 4.13,
+    "rating_distribution": {
+      "1": 31,
+      "2": 41,
+      "3": 47,
+      "4": 187,
+      "5": 301
+    },
+    "date_range": [
+      "1160607958",
+      "1600926348"
+    ],
+    "cluster_method": "tfidf_kmeans",
+    "n_clusters_raw": 4
+  },
+  "pain_points": [
+    {
+      "name": "Size & Capacity",
+      "display_name": "尺寸/容量不合适",
+      "label_source": "lexicon",
+      "cluster_ids": [
+        3
+      ],
+      "review_count": 46,
+      "total_negative": 119,
+      "share": 0.3866,
+      "avg_rating": 2.09,
+      "keywords": [
+        "trimmer",
+        "beard",
+        "norelco",
+        "vacuum",
+        "setting",
+        "good",
+        "really",
+        "length",
+        "size",
+        "too big",
+        "too small",
+        "bulky"
+      ],
+      "frequency": 0.3866,
+      "severity": 0.7275,
+      "helpfulness": 1.0,
+      "recency": 0.5,
+      "pain_score": 100.0,
+      "score_components": {
+        "frequency": 0.387,
+        "severity": 0.728,
+        "helpfulness": 1.0,
+        "recency": 0.5
+      },
+      "cluster_id": 3,
+      "evidence_review_ids": [
+        "B000FEF1V4-344",
+        "B000FEF1V4-316",
+        "B000FEF1V4-492",
+        "B000FEF1V4-134",
+        "B000FEF1V4-9",
+        "B000FEF1V4-330",
+        "B000FEF1V4-484",
+        "B000FEF1V4-33",
+        "B000FEF1V4-40",
+        "B000FEF1V4-278",
+        "B000FEF1V4-347",
+        "B000FEF1V4-241",
+        "B000FEF1V4-319",
+        "B000FEF1V4-608",
+        "B000FEF1V4-304",
+        "B000FEF1V4-320",
+        "B000FEF1V4-437",
+        "B000FEF1V4-481",
+        "B000FEF1V4-563",
+        "B000FEF1V4-333",
+        "B000FEF1V4-394",
+        "B000FEF1V4-14",
+        "B000FEF1V4-433",
+        "B000FEF1V4-147",
+        "B000FEF1V4-472",
+        "B000FEF1V4-141",
+        "B000FEF1V4-303",
+        "B000FEF1V4-195",
+        "B000FEF1V4-417",
+        "B000FEF1V4-557",
+        "B000FEF1V4-201",
+        "B000FEF1V4-170",
+        "B000FEF1V4-70",
+        "B000FEF1V4-491",
+        "B000FEF1V4-60",
+        "B000FEF1V4-196",
+        "B000FEF1V4-360",
+        "B000FEF1V4-251",
+        "B000FEF1V4-286",
+        "B000FEF1V4-517",
+        "B000FEF1V4-318",
+        "B000FEF1V4-165",
+        "B000FEF1V4-87",
+        "B000FEF1V4-275",
+        "B000FEF1V4-56",
+        "B000FEF1V4-190"
+      ],
+      "representative_review_ids": [
+        "B000FEF1V4-316",
+        "B000FEF1V4-344",
+        "B000FEF1V4-492"
+      ],
+      "evidence_status": "ok"
+    },
+    {
+      "name": "Power & Battery",
+      "display_name": "动力/续航不足",
+      "label_source": "lexicon",
+      "cluster_ids": [
+        0,
+        1
+      ],
+      "review_count": 59,
+      "total_negative": 119,
+      "share": 0.4958,
+      "avg_rating": 2.08,
+      "keywords": [
+        "trimmer",
+        "hair",
+        "vacuum",
+        "beard",
+        "does",
+        "norelco",
+        "trim",
+        "just",
+        "power",
+        "powerful",
+        "weak",
+        "battery"
+      ],
+      "frequency": 0.4958,
+      "severity": 0.73,
+      "helpfulness": 0.547,
+      "recency": 0.5032,
+      "pain_score": 70.9,
+      "score_components": {
+        "frequency": 0.496,
+        "severity": 0.73,
+        "helpfulness": 0.547,
+        "recency": 0.503
+      },
+      "cluster_id": 0,
+      "evidence_review_ids": [
+        "B000FEF1V4-226",
+        "B000FEF1V4-605",
+        "B000FEF1V4-533",
+        "B000FEF1V4-418",
+        "B000FEF1V4-392",
+        "B000FEF1V4-339",
+        "B000FEF1V4-157",
+        "B000FEF1V4-480",
+        "B000FEF1V4-560",
+        "B000FEF1V4-372",
+        "B000FEF1V4-43",
+        "B000FEF1V4-294",
+        "B000FEF1V4-371",
+        "B000FEF1V4-404",
+        "B000FEF1V4-114",
+        "B000FEF1V4-306",
+        "B000FEF1V4-552",
+        "B000FEF1V4-573",
+        "B000FEF1V4-273",
+        "B000FEF1V4-146",
+        "B000FEF1V4-276",
+        "B000FEF1V4-368",
+        "B000FEF1V4-176",
+        "B000FEF1V4-108",
+        "B000FEF1V4-202",
+        "B000FEF1V4-13",
+        "B000FEF1V4-461",
+        "B000FEF1V4-283",
+        "B000FEF1V4-555",
+        "B000FEF1V4-22",
+        "B000FEF1V4-162",
+        "B000FEF1V4-67",
+        "B000FEF1V4-483",
+        "B000FEF1V4-98",
+        "B000FEF1V4-167",
+        "B000FEF1V4-279",
+        "B000FEF1V4-532",
+        "B000FEF1V4-338",
+        "B000FEF1V4-512",
+        "B000FEF1V4-238",
+        "B000FEF1V4-148",
+        "B000FEF1V4-184",
+        "B000FEF1V4-522",
+        "B000FEF1V4-255",
+        "B000FEF1V4-488",
+        "B000FEF1V4-564",
+        "B000FEF1V4-361",
+        "B000FEF1V4-383",
+        "B000FEF1V4-346",
+        "B000FEF1V4-388"
+      ],
+      "representative_review_ids": [
+        "B000FEF1V4-226",
+        "B000FEF1V4-533",
+        "B000FEF1V4-605"
+      ],
+      "evidence_status": "ok"
+    },
+    {
+      "name": "Functional Failure",
+      "display_name": "功能失效 / 无法工作",
+      "label_source": "lexicon",
+      "cluster_ids": [
+        2
+      ],
+      "review_count": 14,
+      "total_negative": 119,
+      "share": 0.1176,
+      "avg_rating": 2.5,
+      "keywords": [
+        "worked",
+        "great",
+        "just",
+        "vacuum",
+        "year",
+        "trimmer",
+        "battery",
+        "hair",
+        "stopped working",
+        "stopped spraying",
+        "quit working",
+        "quit spraying"
+      ],
+      "frequency": 0.1176,
+      "severity": 0.625,
+      "helpfulness": 0.3,
+      "recency": 1.0,
+      "pain_score": 15.7,
+      "score_components": {
+        "frequency": 0.118,
+        "severity": 0.625,
+        "helpfulness": 0.3,
+        "recency": 1.0
+      },
+      "cluster_id": 2,
+      "evidence_review_ids": [
+        "B000FEF1V4-514",
+        "B000FEF1V4-301",
+        "B000FEF1V4-90",
+        "B000FEF1V4-544",
+        "B000FEF1V4-470",
+        "B000FEF1V4-112",
+        "B000FEF1V4-77",
+        "B000FEF1V4-124",
+        "B000FEF1V4-89",
+        "B000FEF1V4-163",
+        "B000FEF1V4-69",
+        "B000FEF1V4-3",
+        "B000FEF1V4-75",
+        "B000FEF1V4-502"
+      ],
+      "representative_review_ids": [
+        "B000FEF1V4-90",
+        "B000FEF1V4-301",
+        "B000FEF1V4-514"
+      ],
+      "evidence_status": "ok"
+    }
+  ],
+  "root_causes": {
+    "Size & Capacity": {
+      "pain_point": "Size & Capacity",
+      "root_cause": "单一容量 SKU 覆盖场景有限，尺寸信息在 Listing 中呈现不清晰",
+      "affected_scenario": "书包侧袋 / 短途出行",
+      "affected_users": "学生 / 轻量化出行人群",
+      "severity": 0.7275,
+      "evidence_ids": [
+        "B000FEF1V4-344",
+        "B000FEF1V4-316",
+        "B000FEF1V4-492",
+        "B000FEF1V4-134",
+        "B000FEF1V4-9"
+      ],
+      "source": "heuristic"
+    },
+    "Power & Battery": {
+      "pain_point": "Power & Battery",
+      "root_cause": "电机功率与电池容量定位偏低：为控制成本采用低功率方案，连续负载下动力衰减与续航缩水明显",
+      "affected_scenario": "连续使用 / 无线使用场景",
+      "affected_users": "高频无线使用人群",
+      "severity": 0.73,
+      "evidence_ids": [
+        "B000FEF1V4-226",
+        "B000FEF1V4-605",
+        "B000FEF1V4-533",
+        "B000FEF1V4-418",
+        "B000FEF1V4-392"
+      ],
+      "source": "heuristic"
+    },
+    "Functional Failure": {
+      "pain_point": "Functional Failure",
+      "root_cause": "核心机构（泵芯/电机/联动结构）可靠性不足：缺乏出厂寿命测试与批次抽检",
+      "affected_scenario": "正常使用数天至数月后失效",
+      "affected_users": "所有用户（直接导致退货与差评）",
+      "severity": 0.625,
+      "evidence_ids": [
+        "B000FEF1V4-514",
+        "B000FEF1V4-301",
+        "B000FEF1V4-90",
+        "B000FEF1V4-544",
+        "B000FEF1V4-470"
+      ],
+      "source": "heuristic"
+    }
+  },
+  "product_v2": {
+    "positioning": "针对 V1 差评中 Top 痛点（尺寸/容量不合适、动力/续航不足、功能失效 / 无法工作）全面重构的 V2 版本：以真实评论证据驱动参数级改进，主打「痛点清零 + 可验证升级」，面向高频通勤/户外场景用户，用 Evidence 营销建立信任壁垒。",
+    "parameters": [
+      {
+        "parameter": "sku_matrix",
+        "current_state": "单一 24oz 规格",
+        "recommended_state": "多容量矩阵（如 18/24/32oz）+ 场景化推荐",
+        "pain_point": "Size & Capacity",
+        "reason": "根因：单一容量 SKU 覆盖场景有限，尺寸信息在 Listing 中呈现不清晰。该痛点 46 条负面评论 (占比 38.7%)，平均 2.09 星",
+        "evidence_ids": [
+          "B000FEF1V4-344",
+          "B000FEF1V4-316",
+          "B000FEF1V4-492",
+          "B000FEF1V4-134",
+          "B000FEF1V4-9",
+          "B000FEF1V4-330"
+        ],
+        "confidence": 0.95,
+        "source": "heuristic"
+      },
+      {
+        "parameter": "listing_dimensions",
+        "current_state": "尺寸信息不突出",
+        "recommended_state": "Listing 增加实物对比图与精确尺寸表",
+        "pain_point": "Size & Capacity",
+        "reason": "根因：单一容量 SKU 覆盖场景有限，尺寸信息在 Listing 中呈现不清晰。该痛点 46 条负面评论 (占比 38.7%)，平均 2.09 星",
+        "evidence_ids": [
+          "B000FEF1V4-344",
+          "B000FEF1V4-316",
+          "B000FEF1V4-492",
+          "B000FEF1V4-134",
+          "B000FEF1V4-9",
+          "B000FEF1V4-330"
+        ],
+        "confidence": 0.95,
+        "source": "heuristic"
+      },
+      {
+        "parameter": "motor_power",
+        "current_state": "低功率电机",
+        "recommended_state": "升级功率档位 + 负载测试（工程验证 required）",
+        "pain_point": "Power & Battery",
+        "reason": "根因：电机功率与电池容量定位偏低：为控制成本采用低功率方案，连续负载下动力衰减与续航缩水明显。该痛点 59 条负面评论 (占比 49.6%)，平均 2.08 星",
+        "evidence_ids": [
+          "B000FEF1V4-226",
+          "B000FEF1V4-605",
+          "B000FEF1V4-533",
+          "B000FEF1V4-418",
+          "B000FEF1V4-392",
+          "B000FEF1V4-339"
+        ],
+        "confidence": 0.95,
+        "source": "heuristic"
+      },
+      {
+        "parameter": "battery_capacity",
+        "current_state": "小容量电池",
+        "recommended_state": "大容量电芯 + 低电量提醒",
+        "pain_point": "Power & Battery",
+        "reason": "根因：电机功率与电池容量定位偏低：为控制成本采用低功率方案，连续负载下动力衰减与续航缩水明显。该痛点 59 条负面评论 (占比 49.6%)，平均 2.08 星",
+        "evidence_ids": [
+          "B000FEF1V4-226",
+          "B000FEF1V4-605",
+          "B000FEF1V4-533",
+          "B000FEF1V4-418",
+          "B000FEF1V4-392",
+          "B000FEF1V4-339"
+        ],
+        "confidence": 0.95,
+        "source": "heuristic"
+      },
+      {
+        "parameter": "mechanism_reliability",
+        "current_state": "泵芯/机构无寿命强化设计",
+        "recommended_state": "加强机构寿命设计与开合疲劳测试（engineering validation required）",
+        "pain_point": "Functional Failure",
+        "reason": "根因：核心机构（泵芯/电机/联动结构）可靠性不足：缺乏出厂寿命测试与批次抽检。该痛点 14 条负面评论 (占比 11.8%)，平均 2.5 星",
+        "evidence_ids": [
+          "B000FEF1V4-514",
+          "B000FEF1V4-301",
+          "B000FEF1V4-90",
+          "B000FEF1V4-544",
+          "B000FEF1V4-470",
+          "B000FEF1V4-112"
+        ],
+        "confidence": 0.84,
+        "source": "heuristic"
+      },
+      {
+        "parameter": "qc_sampling",
+        "current_state": "无功能全检/抽检标准",
+        "recommended_state": "出厂功能全检 + 批次抽检可靠性测试",
+        "pain_point": "Functional Failure",
+        "reason": "根因：核心机构（泵芯/电机/联动结构）可靠性不足：缺乏出厂寿命测试与批次抽检。该痛点 14 条负面评论 (占比 11.8%)，平均 2.5 星",
+        "evidence_ids": [
+          "B000FEF1V4-514",
+          "B000FEF1V4-301",
+          "B000FEF1V4-90",
+          "B000FEF1V4-544",
+          "B000FEF1V4-470",
+          "B000FEF1V4-112"
+        ],
+        "confidence": 0.84,
+        "source": "heuristic"
+      }
+    ],
+    "selling_points": [
+      "彻底解决尺寸/容量不合适：多容量矩阵（依据 46 条真实差评）",
+      "彻底解决动力/续航不足：升级功率档位 + 负载测试（依据 59 条真实差评）",
+      "彻底解决功能失效 / 无法工作：加强机构寿命设计与开合疲劳测试（依据 14 条真实差评）"
+    ],
+    "before_after_profile": {
+      "metrics": [
+        "尺寸/容量不合适",
+        "动力/续航不足",
+        "功能失效 / 无法工作"
+      ],
+      "v1": [
+        38.0,
+        56.0,
+        90.3
+      ],
+      "v2": [
+        92.9,
+        94.1,
+        96.2
+      ]
+    }
+  },
+  "listing": {
+    "title": "Philips V2 – multi-size capacity options, upgraded core design | Redesigned from Real Customer Reviews",
+    "bullets": [
+      "[SOLVED: Wrong Size] Upgraded to multi-size capacity options — based on 46 real reviews (46 verifiable evidence quotes), avg 2.09 -> target 4.5+",
+      "[SOLVED: Power & Battery] Upgraded to a fully redesigned structure — based on 59 real reviews (50 verifiable evidence quotes), avg 2.08 -> target 4.5+",
+      "[SOLVED: Stops Working] Upgraded to factory-tested long-life mechanism — based on 14 real reviews (14 verifiable evidence quotes), avg 2.5 -> target 4.5+"
+    ],
+    "faq": [
+      {
+        "q": "Customers reported 'Wrong Size' on V1 — is it fixed?",
+        "a": "Yes. V2 addresses it with multi-size capacity options (engineering validation required)."
+      },
+      {
+        "q": "Customers reported 'Power & Battery' on V1 — is it fixed?",
+        "a": "Yes. V2 addresses it with a fully redesigned structure (engineering validation required)."
+      },
+      {
+        "q": "Customers reported 'Stops Working' on V1 — is it fixed?",
+        "a": "Yes. V2 addresses it with factory-tested long-life mechanism (engineering validation required)."
+      }
+    ],
+    "main_image_strategy": [
+      "主图1：白底产品主视觉（V2 双密封结构局部剖面光效）",
+      "场景图：针对「尺寸/容量不合适」的 Before/After 对比",
+      "场景图：针对「动力/续航不足」的 Before/After 对比",
+      "场景图：针对「功能失效 / 无法工作」的 Before/After 对比"
+    ],
+    "marketing_message": "Every V2 upgrade is backed by real customer reviews — 119 negative voices turned into 6 engineering changes.",
+    "source": "heuristic"
+  }
+}

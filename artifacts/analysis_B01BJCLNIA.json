@@ -1,0 +1,406 @@
+{
+  "product_id": "B01BJCLNIA",
+  "product_title": "Organic Castor Oil - Boost Hair Growth for Hair, Eyelashes & Eyebrows. USDA Certified Organic, 100% Pure, Cold Pressed, Hexane Free. Eyelash Growth Serum & Brow Treatment with Appl",
+  "category": "All_Beauty",
+  "data_source": "amazon_reviews_2023",
+  "generated_at": "2026-08-17T16:44:37",
+  "llm_mode": "mock",
+  "stats": {
+    "total_reviews": 512,
+    "negative_reviews": 54,
+    "avg_rating": 4.58,
+    "rating_distribution": {
+      "1": 18,
+      "2": 15,
+      "3": 21,
+      "4": 58,
+      "5": 400
+    },
+    "date_range": [
+      "1459624038",
+      "1647027077"
+    ],
+    "cluster_method": "tfidf_kmeans",
+    "n_clusters_raw": 4
+  },
+  "pain_points": [
+    {
+      "name": "Effectiveness",
+      "display_name": "见效慢/效果不符",
+      "label_source": "lexicon",
+      "cluster_ids": [
+        2,
+        3
+      ],
+      "review_count": 26,
+      "total_negative": 54,
+      "share": 0.4815,
+      "avg_rating": 1.85,
+      "keywords": [
+        "like",
+        "eyes",
+        "using",
+        "product",
+        "really",
+        "bottle",
+        "bought",
+        "good",
+        "no results",
+        "no difference",
+        "didn't help",
+        "didn't remove"
+      ],
+      "frequency": 0.4815,
+      "severity": 0.7875,
+      "helpfulness": 0.8319,
+      "recency": 0.8636,
+      "pain_score": 100.0,
+      "score_components": {
+        "frequency": 0.481,
+        "severity": 0.787,
+        "helpfulness": 0.832,
+        "recency": 0.864
+      },
+      "cluster_id": 2,
+      "evidence_review_ids": [
+        "B01BJCLNIA-308",
+        "B01BJCLNIA-356",
+        "B01BJCLNIA-222",
+        "B01BJCLNIA-250",
+        "B01BJCLNIA-305",
+        "B01BJCLNIA-28",
+        "B01BJCLNIA-121",
+        "B01BJCLNIA-312",
+        "B01BJCLNIA-267",
+        "B01BJCLNIA-366",
+        "B01BJCLNIA-386",
+        "B01BJCLNIA-241",
+        "B01BJCLNIA-273",
+        "B01BJCLNIA-22",
+        "B01BJCLNIA-95",
+        "B01BJCLNIA-213",
+        "B01BJCLNIA-101",
+        "B01BJCLNIA-206",
+        "B01BJCLNIA-179",
+        "B01BJCLNIA-367",
+        "B01BJCLNIA-457",
+        "B01BJCLNIA-472",
+        "B01BJCLNIA-70",
+        "B01BJCLNIA-1",
+        "B01BJCLNIA-424",
+        "B01BJCLNIA-373"
+      ],
+      "representative_review_ids": [
+        "B01BJCLNIA-222",
+        "B01BJCLNIA-308",
+        "B01BJCLNIA-356"
+      ],
+      "evidence_status": "ok"
+    },
+    {
+      "name": "Bristle & Comb Quality",
+      "display_name": "刷毛/梳齿不适",
+      "label_source": "lexicon_terms",
+      "cluster_ids": [
+        1
+      ],
+      "review_count": 16,
+      "total_negative": 54,
+      "share": 0.2963,
+      "avg_rating": 1.94,
+      "keywords": [
+        "product",
+        "castor",
+        "bottle",
+        "skin",
+        "organic",
+        "stopper",
+        "brushes",
+        "it's",
+        "bristles",
+        "bristle",
+        "shed",
+        "shedding"
+      ],
+      "frequency": 0.2963,
+      "severity": 0.765,
+      "helpfulness": 1.0,
+      "recency": 1.0,
+      "pain_score": 83.2,
+      "score_components": {
+        "frequency": 0.296,
+        "severity": 0.765,
+        "helpfulness": 1.0,
+        "recency": 1.0
+      },
+      "cluster_id": 1,
+      "evidence_review_ids": [
+        "B01BJCLNIA-288",
+        "B01BJCLNIA-253",
+        "B01BJCLNIA-89",
+        "B01BJCLNIA-96",
+        "B01BJCLNIA-283",
+        "B01BJCLNIA-453",
+        "B01BJCLNIA-51",
+        "B01BJCLNIA-435",
+        "B01BJCLNIA-394",
+        "B01BJCLNIA-189",
+        "B01BJCLNIA-342",
+        "B01BJCLNIA-199",
+        "B01BJCLNIA-421",
+        "B01BJCLNIA-75",
+        "B01BJCLNIA-239",
+        "B01BJCLNIA-13"
+      ],
+      "representative_review_ids": [
+        "B01BJCLNIA-89",
+        "B01BJCLNIA-253",
+        "B01BJCLNIA-288"
+      ],
+      "evidence_status": "ok"
+    },
+    {
+      "name": "Other: stars / good",
+      "display_name": "其他: stars / good",
+      "label_source": "tfidf_terms",
+      "cluster_ids": [
+        0
+      ],
+      "review_count": 12,
+      "total_negative": 54,
+      "share": 0.2222,
+      "avg_rating": 2.67,
+      "keywords": [
+        "stars",
+        "good",
+        "hair",
+        "expensive",
+        "product",
+        "work",
+        "used",
+        "stomach"
+      ],
+      "frequency": 0.2222,
+      "severity": 0.5825,
+      "helpfulness": 0.3,
+      "recency": 0.5,
+      "pain_score": 7.1,
+      "score_components": {
+        "frequency": 0.222,
+        "severity": 0.583,
+        "helpfulness": 0.3,
+        "recency": 0.5
+      },
+      "cluster_id": 0,
+      "evidence_review_ids": [
+        "B01BJCLNIA-512",
+        "B01BJCLNIA-68",
+        "B01BJCLNIA-491",
+        "B01BJCLNIA-496",
+        "B01BJCLNIA-73",
+        "B01BJCLNIA-487",
+        "B01BJCLNIA-180",
+        "B01BJCLNIA-168",
+        "B01BJCLNIA-256",
+        "B01BJCLNIA-64",
+        "B01BJCLNIA-467",
+        "B01BJCLNIA-358"
+      ],
+      "representative_review_ids": [
+        "B01BJCLNIA-68",
+        "B01BJCLNIA-491",
+        "B01BJCLNIA-512"
+      ],
+      "evidence_status": "ok"
+    }
+  ],
+  "root_causes": {
+    "Effectiveness": {
+      "pain_point": "Effectiveness",
+      "root_cause": "功效浓度/功率与用户预期错位：Listing 承诺效果与实际见效周期未对齐，缺少效果对照与周期说明",
+      "affected_scenario": "护肤/清洁/生发类产品使用 2–8 周",
+      "affected_users": "功效导向用户（差评核心来源）",
+      "severity": 0.7875,
+      "evidence_ids": [
+        "B01BJCLNIA-308",
+        "B01BJCLNIA-356",
+        "B01BJCLNIA-222",
+        "B01BJCLNIA-250",
+        "B01BJCLNIA-305"
+      ],
+      "source": "heuristic"
+    },
+    "Bristle & Comb Quality": {
+      "pain_point": "Bristle & Comb Quality",
+      "root_cause": "刷毛材质与植毛密度设计单一：过硬伤头皮、过软无梳理力，且植毛牢固度不足导致掉毛",
+      "affected_scenario": "日常梳发 / 湿发梳理 / 造型打底",
+      "affected_users": "敏感头皮 / 长发易打结人群",
+      "severity": 0.765,
+      "evidence_ids": [
+        "B01BJCLNIA-288",
+        "B01BJCLNIA-253",
+        "B01BJCLNIA-89",
+        "B01BJCLNIA-96",
+        "B01BJCLNIA-283"
+      ],
+      "source": "heuristic"
+    },
+    "Other: stars / good": {
+      "pain_point": "Other: stars / good",
+      "root_cause": "质量一致性问题：集中于「其他: stars / good」相关主题，需结合评论定位具体设计/制造环节",
+      "affected_scenario": "日常使用",
+      "affected_users": "核心用户群",
+      "severity": 0.5825,
+      "evidence_ids": [
+        "B01BJCLNIA-512",
+        "B01BJCLNIA-68",
+        "B01BJCLNIA-491",
+        "B01BJCLNIA-496",
+        "B01BJCLNIA-73"
+      ],
+      "source": "heuristic"
+    }
+  },
+  "product_v2": {
+    "positioning": "针对 V1 差评中 Top 痛点（见效慢/效果不符、刷毛/梳齿不适、其他: stars / good）全面重构的 V2 版本：以真实评论证据驱动参数级改进，主打「痛点清零 + 可验证升级」，面向高频通勤/户外场景用户，用 Evidence 营销建立信任壁垒。",
+    "parameters": [
+      {
+        "parameter": "efficacy_claim",
+        "current_state": "Listing 效果承诺单点化",
+        "recommended_state": "效果分层承诺（即时/28 天）+ 使用前后对照实拍",
+        "pain_point": "Effectiveness",
+        "reason": "根因：功效浓度/功率与用户预期错位：Listing 承诺效果与实际见效周期未对齐，缺少效果对照与周期说明。该痛点 26 条负面评论 (占比 48.1%)，平均 1.85 星",
+        "evidence_ids": [
+          "B01BJCLNIA-308",
+          "B01BJCLNIA-356",
+          "B01BJCLNIA-222",
+          "B01BJCLNIA-250",
+          "B01BJCLNIA-305",
+          "B01BJCLNIA-28"
+        ],
+        "confidence": 0.95,
+        "source": "heuristic"
+      },
+      {
+        "parameter": "usage_guide",
+        "current_state": "使用说明简略",
+        "recommended_state": "使用频次/手法/见效周期指引",
+        "pain_point": "Effectiveness",
+        "reason": "根因：功效浓度/功率与用户预期错位：Listing 承诺效果与实际见效周期未对齐，缺少效果对照与周期说明。该痛点 26 条负面评论 (占比 48.1%)，平均 1.85 星",
+        "evidence_ids": [
+          "B01BJCLNIA-308",
+          "B01BJCLNIA-356",
+          "B01BJCLNIA-222",
+          "B01BJCLNIA-250",
+          "B01BJCLNIA-305",
+          "B01BJCLNIA-28"
+        ],
+        "confidence": 0.95,
+        "source": "heuristic"
+      },
+      {
+        "parameter": "bristle_stiffness",
+        "current_state": "单一硬度刷毛",
+        "recommended_state": "软硬分区植毛 / 双面刷毛设计",
+        "pain_point": "Bristle & Comb Quality",
+        "reason": "根因：刷毛材质与植毛密度设计单一：过硬伤头皮、过软无梳理力，且植毛牢固度不足导致掉毛。该痛点 16 条负面评论 (占比 29.6%)，平均 1.94 星",
+        "evidence_ids": [
+          "B01BJCLNIA-288",
+          "B01BJCLNIA-253",
+          "B01BJCLNIA-89",
+          "B01BJCLNIA-96",
+          "B01BJCLNIA-283",
+          "B01BJCLNIA-453"
+        ],
+        "confidence": 0.95,
+        "source": "heuristic"
+      },
+      {
+        "parameter": "tufting_strength",
+        "current_state": "常规植毛胶工艺",
+        "recommended_state": "加强植毛工艺 + 出厂拉力测试标准",
+        "pain_point": "Bristle & Comb Quality",
+        "reason": "根因：刷毛材质与植毛密度设计单一：过硬伤头皮、过软无梳理力，且植毛牢固度不足导致掉毛。该痛点 16 条负面评论 (占比 29.6%)，平均 1.94 星",
+        "evidence_ids": [
+          "B01BJCLNIA-288",
+          "B01BJCLNIA-253",
+          "B01BJCLNIA-89",
+          "B01BJCLNIA-96",
+          "B01BJCLNIA-283",
+          "B01BJCLNIA-453"
+        ],
+        "confidence": 0.95,
+        "source": "heuristic"
+      },
+      {
+        "parameter": "other:_stars_/_good_review",
+        "current_state": "当前设计未在痛点知识库中定位到对应参数",
+        "recommended_state": "需人工评审该聚类代表评论后确定改进方向（engineering validation required）",
+        "pain_point": "Other: stars / good",
+        "reason": "该痛点占负面评论 22.2%，平均评分 2.67，已有 12 条 Evidence 支撑其优先级",
+        "evidence_ids": [
+          "B01BJCLNIA-512",
+          "B01BJCLNIA-68",
+          "B01BJCLNIA-491",
+          "B01BJCLNIA-496",
+          "B01BJCLNIA-73",
+          "B01BJCLNIA-487"
+        ],
+        "confidence": 0.93,
+        "source": "heuristic"
+      }
+    ],
+    "selling_points": [
+      "彻底解决见效慢/效果不符：效果分层承诺（依据 26 条真实差评）",
+      "彻底解决刷毛/梳齿不适：软硬分区植毛 / 双面刷毛设计（依据 16 条真实差评）",
+      "彻底解决其他: stars / good：需人工评审该聚类代表评论后确定改进方向（依据 12 条真实差评）"
+    ],
+    "before_after_profile": {
+      "metrics": [
+        "见效慢/效果不符",
+        "刷毛/梳齿不适",
+        "其他: stars / good"
+      ],
+      "v1": [
+        38.0,
+        48.4,
+        95.0
+      ],
+      "v2": [
+        92.9,
+        93.6,
+        96.8
+      ]
+    }
+  },
+  "listing": {
+    "title": "Organic V2 – upgraded core design | Redesigned from Real Customer Reviews",
+    "bullets": [
+      "[SOLVED: Effectiveness] Upgraded to a fully redesigned structure — based on 26 real reviews (26 verifiable evidence quotes), avg 1.85 -> target 4.5+",
+      "[SOLVED: Bristle & Comb Quality] Upgraded to a fully redesigned structure — based on 16 real reviews (16 verifiable evidence quotes), avg 1.94 -> target 4.5+",
+      "[SOLVED: Other: stars / good] Upgraded to a fully redesigned structure — based on 12 real reviews (12 verifiable evidence quotes), avg 2.67 -> target 4.5+"
+    ],
+    "faq": [
+      {
+        "q": "Customers reported 'Effectiveness' on V1 — is it fixed?",
+        "a": "Yes. V2 addresses it with a fully redesigned structure (engineering validation required)."
+      },
+      {
+        "q": "Customers reported 'Bristle & Comb Quality' on V1 — is it fixed?",
+        "a": "Yes. V2 addresses it with a fully redesigned structure (engineering validation required)."
+      },
+      {
+        "q": "Customers reported 'Other: stars / good' on V1 — is it fixed?",
+        "a": "Yes. V2 addresses it with a fully redesigned structure (engineering validation required)."
+      }
+    ],
+    "main_image_strategy": [
+      "主图1：白底产品主视觉（V2 双密封结构局部剖面光效）",
+      "场景图：针对「见效慢/效果不符」的 Before/After 对比",
+      "场景图：针对「刷毛/梳齿不适」的 Before/After 对比",
+      "场景图：针对「其他: stars / good」的 Before/After 对比"
+    ],
+    "marketing_message": "Every V2 upgrade is backed by real customer reviews — 54 negative voices turned into 5 engineering changes.",
+    "source": "heuristic"
+  }
+}

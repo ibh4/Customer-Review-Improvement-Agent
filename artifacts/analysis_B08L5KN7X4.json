@@ -1,0 +1,644 @@
+{
+  "product_id": "B08L5KN7X4",
+  "product_title": "Meeteasy Dental Cleaner Tool Kit - Dental Care for Adult - 100% Proven Safe",
+  "category": "All_Beauty",
+  "data_source": "amazon_reviews_2023",
+  "generated_at": "2026-08-17T16:44:39",
+  "llm_mode": "mock",
+  "stats": {
+    "total_reviews": 1280,
+    "negative_reviews": 347,
+    "avg_rating": 4.0,
+    "rating_distribution": {
+      "1": 220,
+      "2": 75,
+      "3": 52,
+      "4": 74,
+      "5": 859
+    },
+    "date_range": [
+      "1605421576",
+      "1692818455"
+    ],
+    "cluster_method": "tfidf_kmeans",
+    "n_clusters_raw": 6
+  },
+  "pain_points": [
+    {
+      "name": "Ease of Use",
+      "display_name": "上手难/使用不便",
+      "label_source": "lexicon",
+      "cluster_ids": [
+        1,
+        2
+      ],
+      "review_count": 121,
+      "total_negative": 347,
+      "share": 0.3487,
+      "avg_rating": 1.64,
+      "keywords": [
+        "teeth",
+        "product",
+        "like",
+        "dental",
+        "used",
+        "just",
+        "metal",
+        "tool",
+        "hard to use",
+        "difficult to use",
+        "instructions",
+        "confusing"
+      ],
+      "frequency": 0.3487,
+      "severity": 0.84,
+      "helpfulness": 0.666,
+      "recency": 1.0,
+      "pain_score": 100.0,
+      "score_components": {
+        "frequency": 0.349,
+        "severity": 0.84,
+        "helpfulness": 0.666,
+        "recency": 1.0
+      },
+      "cluster_id": 1,
+      "evidence_review_ids": [
+        "B08L5KN7X4-113",
+        "B08L5KN7X4-937",
+        "B08L5KN7X4-242",
+        "B08L5KN7X4-383",
+        "B08L5KN7X4-569",
+        "B08L5KN7X4-537",
+        "B08L5KN7X4-354",
+        "B08L5KN7X4-570",
+        "B08L5KN7X4-643",
+        "B08L5KN7X4-629",
+        "B08L5KN7X4-329",
+        "B08L5KN7X4-701",
+        "B08L5KN7X4-406",
+        "B08L5KN7X4-274",
+        "B08L5KN7X4-1333",
+        "B08L5KN7X4-1162",
+        "B08L5KN7X4-609",
+        "B08L5KN7X4-1309",
+        "B08L5KN7X4-28",
+        "B08L5KN7X4-854",
+        "B08L5KN7X4-1185",
+        "B08L5KN7X4-675",
+        "B08L5KN7X4-795",
+        "B08L5KN7X4-521",
+        "B08L5KN7X4-240",
+        "B08L5KN7X4-1097",
+        "B08L5KN7X4-654",
+        "B08L5KN7X4-42",
+        "B08L5KN7X4-367",
+        "B08L5KN7X4-510",
+        "B08L5KN7X4-64",
+        "B08L5KN7X4-660",
+        "B08L5KN7X4-736",
+        "B08L5KN7X4-176",
+        "B08L5KN7X4-781",
+        "B08L5KN7X4-485",
+        "B08L5KN7X4-1110",
+        "B08L5KN7X4-1331",
+        "B08L5KN7X4-38",
+        "B08L5KN7X4-472",
+        "B08L5KN7X4-1101",
+        "B08L5KN7X4-897",
+        "B08L5KN7X4-555",
+        "B08L5KN7X4-722",
+        "B08L5KN7X4-84",
+        "B08L5KN7X4-1004",
+        "B08L5KN7X4-21",
+        "B08L5KN7X4-1284",
+        "B08L5KN7X4-830",
+        "B08L5KN7X4-831"
+      ],
+      "representative_review_ids": [
+        "B08L5KN7X4-113",
+        "B08L5KN7X4-242",
+        "B08L5KN7X4-937"
+      ],
+      "evidence_status": "ok"
+    },
+    {
+      "name": "Effectiveness",
+      "display_name": "见效慢/效果不符",
+      "label_source": "lexicon",
+      "cluster_ids": [
+        0,
+        3
+      ],
+      "review_count": 139,
+      "total_negative": 347,
+      "share": 0.4006,
+      "avg_rating": 1.6,
+      "keywords": [
+        "teeth",
+        "work",
+        "does",
+        "product",
+        "remove",
+        "plaque",
+        "just",
+        "didn",
+        "no results",
+        "no difference",
+        "didn't help",
+        "didn't remove"
+      ],
+      "frequency": 0.4006,
+      "severity": 0.85,
+      "helpfulness": 1.0,
+      "recency": 0.5,
+      "pain_score": 87.3,
+      "score_components": {
+        "frequency": 0.401,
+        "severity": 0.85,
+        "helpfulness": 1.0,
+        "recency": 0.5
+      },
+      "cluster_id": 0,
+      "evidence_review_ids": [
+        "B08L5KN7X4-146",
+        "B08L5KN7X4-182",
+        "B08L5KN7X4-508",
+        "B08L5KN7X4-94",
+        "B08L5KN7X4-121",
+        "B08L5KN7X4-842",
+        "B08L5KN7X4-461",
+        "B08L5KN7X4-51",
+        "B08L5KN7X4-8",
+        "B08L5KN7X4-309",
+        "B08L5KN7X4-1106",
+        "B08L5KN7X4-262",
+        "B08L5KN7X4-984",
+        "B08L5KN7X4-1084",
+        "B08L5KN7X4-361",
+        "B08L5KN7X4-50",
+        "B08L5KN7X4-324",
+        "B08L5KN7X4-270",
+        "B08L5KN7X4-441",
+        "B08L5KN7X4-14",
+        "B08L5KN7X4-597",
+        "B08L5KN7X4-1103",
+        "B08L5KN7X4-522",
+        "B08L5KN7X4-289",
+        "B08L5KN7X4-1112",
+        "B08L5KN7X4-224",
+        "B08L5KN7X4-445",
+        "B08L5KN7X4-89",
+        "B08L5KN7X4-905",
+        "B08L5KN7X4-870",
+        "B08L5KN7X4-1279",
+        "B08L5KN7X4-1039",
+        "B08L5KN7X4-286",
+        "B08L5KN7X4-60",
+        "B08L5KN7X4-221",
+        "B08L5KN7X4-1338",
+        "B08L5KN7X4-440",
+        "B08L5KN7X4-560",
+        "B08L5KN7X4-77",
+        "B08L5KN7X4-420",
+        "B08L5KN7X4-639",
+        "B08L5KN7X4-778",
+        "B08L5KN7X4-619",
+        "B08L5KN7X4-205",
+        "B08L5KN7X4-470",
+        "B08L5KN7X4-203",
+        "B08L5KN7X4-239",
+        "B08L5KN7X4-656",
+        "B08L5KN7X4-317",
+        "B08L5KN7X4-1002"
+      ],
+      "representative_review_ids": [
+        "B08L5KN7X4-146",
+        "B08L5KN7X4-182",
+        "B08L5KN7X4-508"
+      ],
+      "evidence_status": "ok"
+    },
+    {
+      "name": "Value & Price",
+      "display_name": "性价比质疑",
+      "label_source": "lexicon",
+      "cluster_ids": [
+        4
+      ],
+      "review_count": 55,
+      "total_negative": 347,
+      "share": 0.1585,
+      "avg_rating": 1.22,
+      "keywords": [
+        "money",
+        "waste",
+        "does",
+        "teeth",
+        "product",
+        "don't",
+        "plaque",
+        "remove",
+        "price",
+        "expensive",
+        "overpriced",
+        "worth it"
+      ],
+      "frequency": 0.1585,
+      "severity": 0.945,
+      "helpfulness": 0.6211,
+      "recency": 0.9565,
+      "pain_score": 45.6,
+      "score_components": {
+        "frequency": 0.159,
+        "severity": 0.945,
+        "helpfulness": 0.621,
+        "recency": 0.957
+      },
+      "cluster_id": 4,
+      "evidence_review_ids": [
+        "B08L5KN7X4-805",
+        "B08L5KN7X4-305",
+        "B08L5KN7X4-1043",
+        "B08L5KN7X4-189",
+        "B08L5KN7X4-879",
+        "B08L5KN7X4-936",
+        "B08L5KN7X4-117",
+        "B08L5KN7X4-1052",
+        "B08L5KN7X4-192",
+        "B08L5KN7X4-615",
+        "B08L5KN7X4-70",
+        "B08L5KN7X4-255",
+        "B08L5KN7X4-579",
+        "B08L5KN7X4-229",
+        "B08L5KN7X4-112",
+        "B08L5KN7X4-887",
+        "B08L5KN7X4-195",
+        "B08L5KN7X4-1087",
+        "B08L5KN7X4-541",
+        "B08L5KN7X4-200",
+        "B08L5KN7X4-477",
+        "B08L5KN7X4-955",
+        "B08L5KN7X4-539",
+        "B08L5KN7X4-186",
+        "B08L5KN7X4-1341",
+        "B08L5KN7X4-611",
+        "B08L5KN7X4-92",
+        "B08L5KN7X4-1000",
+        "B08L5KN7X4-116",
+        "B08L5KN7X4-683",
+        "B08L5KN7X4-950",
+        "B08L5KN7X4-503",
+        "B08L5KN7X4-125",
+        "B08L5KN7X4-316",
+        "B08L5KN7X4-79",
+        "B08L5KN7X4-40",
+        "B08L5KN7X4-1160",
+        "B08L5KN7X4-883",
+        "B08L5KN7X4-943",
+        "B08L5KN7X4-429",
+        "B08L5KN7X4-625",
+        "B08L5KN7X4-355",
+        "B08L5KN7X4-304",
+        "B08L5KN7X4-578",
+        "B08L5KN7X4-2",
+        "B08L5KN7X4-875",
+        "B08L5KN7X4-771",
+        "B08L5KN7X4-288",
+        "B08L5KN7X4-297",
+        "B08L5KN7X4-944"
+      ],
+      "representative_review_ids": [
+        "B08L5KN7X4-305",
+        "B08L5KN7X4-805",
+        "B08L5KN7X4-1043"
+      ],
+      "evidence_status": "ok"
+    },
+    {
+      "name": "Functional Failure",
+      "display_name": "功能失效 / 无法工作",
+      "label_source": "lexicon",
+      "cluster_ids": [
+        5
+      ],
+      "review_count": 32,
+      "total_negative": 347,
+      "share": 0.0922,
+      "avg_rating": 1.22,
+      "keywords": [
+        "work",
+        "doesn",
+        "doesn't",
+        "money",
+        "waste",
+        "just",
+        "product",
+        "device",
+        "stopped working",
+        "stopped spraying",
+        "quit working",
+        "quit spraying"
+      ],
+      "frequency": 0.0922,
+      "severity": 0.945,
+      "helpfulness": 0.3,
+      "recency": 0.974,
+      "pain_score": 13.1,
+      "score_components": {
+        "frequency": 0.092,
+        "severity": 0.945,
+        "helpfulness": 0.3,
+        "recency": 0.974
+      },
+      "cluster_id": 5,
+      "evidence_review_ids": [
+        "B08L5KN7X4-110",
+        "B08L5KN7X4-446",
+        "B08L5KN7X4-61",
+        "B08L5KN7X4-298",
+        "B08L5KN7X4-1100",
+        "B08L5KN7X4-1008",
+        "B08L5KN7X4-238",
+        "B08L5KN7X4-1036",
+        "B08L5KN7X4-590",
+        "B08L5KN7X4-941",
+        "B08L5KN7X4-890",
+        "B08L5KN7X4-653",
+        "B08L5KN7X4-1285",
+        "B08L5KN7X4-721",
+        "B08L5KN7X4-1249",
+        "B08L5KN7X4-1305",
+        "B08L5KN7X4-1026",
+        "B08L5KN7X4-1319",
+        "B08L5KN7X4-265",
+        "B08L5KN7X4-1173",
+        "B08L5KN7X4-566",
+        "B08L5KN7X4-480",
+        "B08L5KN7X4-920",
+        "B08L5KN7X4-322",
+        "B08L5KN7X4-1183",
+        "B08L5KN7X4-603",
+        "B08L5KN7X4-53",
+        "B08L5KN7X4-409",
+        "B08L5KN7X4-717",
+        "B08L5KN7X4-828",
+        "B08L5KN7X4-1091",
+        "B08L5KN7X4-241"
+      ],
+      "representative_review_ids": [
+        "B08L5KN7X4-61",
+        "B08L5KN7X4-110",
+        "B08L5KN7X4-446"
+      ],
+      "evidence_status": "ok"
+    }
+  ],
+  "root_causes": {
+    "Ease of Use": {
+      "pain_point": "Ease of Use",
+      "root_cause": "人机工程设计不足：握持/开合/装填等高频动作未做易用性验证",
+      "affected_scenario": "日常高频操作",
+      "affected_users": "所有用户",
+      "severity": 0.84,
+      "evidence_ids": [
+        "B08L5KN7X4-113",
+        "B08L5KN7X4-937",
+        "B08L5KN7X4-242",
+        "B08L5KN7X4-383",
+        "B08L5KN7X4-569"
+      ],
+      "source": "heuristic"
+    },
+    "Effectiveness": {
+      "pain_point": "Effectiveness",
+      "root_cause": "功效浓度/功率与用户预期错位：Listing 承诺效果与实际见效周期未对齐，缺少效果对照与周期说明",
+      "affected_scenario": "护肤/清洁/生发类产品使用 2–8 周",
+      "affected_users": "功效导向用户（差评核心来源）",
+      "severity": 0.85,
+      "evidence_ids": [
+        "B08L5KN7X4-146",
+        "B08L5KN7X4-182",
+        "B08L5KN7X4-508",
+        "B08L5KN7X4-94",
+        "B08L5KN7X4-121"
+      ],
+      "source": "heuristic"
+    },
+    "Value & Price": {
+      "pain_point": "Value & Price",
+      "root_cause": "价格带与感知质量错位：核心痛点（漏水/清洁）拉低价值感知",
+      "affected_scenario": "比价 / 复购决策",
+      "affected_users": "价格敏感型用户",
+      "severity": 0.945,
+      "evidence_ids": [
+        "B08L5KN7X4-805",
+        "B08L5KN7X4-305",
+        "B08L5KN7X4-1043",
+        "B08L5KN7X4-189",
+        "B08L5KN7X4-879"
+      ],
+      "source": "heuristic"
+    },
+    "Functional Failure": {
+      "pain_point": "Functional Failure",
+      "root_cause": "核心机构（泵芯/电机/联动结构）可靠性不足：缺乏出厂寿命测试与批次抽检",
+      "affected_scenario": "正常使用数天至数月后失效",
+      "affected_users": "所有用户（直接导致退货与差评）",
+      "severity": 0.945,
+      "evidence_ids": [
+        "B08L5KN7X4-110",
+        "B08L5KN7X4-446",
+        "B08L5KN7X4-61",
+        "B08L5KN7X4-298",
+        "B08L5KN7X4-1100"
+      ],
+      "source": "heuristic"
+    }
+  },
+  "product_v2": {
+    "positioning": "针对 V1 差评中 Top 痛点（上手难/使用不便、见效慢/效果不符、性价比质疑）全面重构的 V2 版本：以真实评论证据驱动参数级改进，主打「痛点清零 + 可验证升级」，面向高频通勤/户外场景用户，用 Evidence 营销建立信任壁垒。",
+    "parameters": [
+      {
+        "parameter": "ergonomics",
+        "current_state": "直筒/平板造型",
+        "recommended_state": "人机握持优化（收腰/防滑/配重）",
+        "pain_point": "Ease of Use",
+        "reason": "根因：人机工程设计不足：握持/开合/装填等高频动作未做易用性验证。该痛点 121 条负面评论 (占比 34.9%)，平均 1.64 星",
+        "evidence_ids": [
+          "B08L5KN7X4-113",
+          "B08L5KN7X4-937",
+          "B08L5KN7X4-242",
+          "B08L5KN7X4-383",
+          "B08L5KN7X4-569",
+          "B08L5KN7X4-537"
+        ],
+        "confidence": 0.95,
+        "source": "heuristic"
+      },
+      {
+        "parameter": "one_hand_use",
+        "current_state": "需双手操作",
+        "recommended_state": "单手操作结构（锁定/开合一键化）",
+        "pain_point": "Ease of Use",
+        "reason": "根因：人机工程设计不足：握持/开合/装填等高频动作未做易用性验证。该痛点 121 条负面评论 (占比 34.9%)，平均 1.64 星",
+        "evidence_ids": [
+          "B08L5KN7X4-113",
+          "B08L5KN7X4-937",
+          "B08L5KN7X4-242",
+          "B08L5KN7X4-383",
+          "B08L5KN7X4-569",
+          "B08L5KN7X4-537"
+        ],
+        "confidence": 0.95,
+        "source": "heuristic"
+      },
+      {
+        "parameter": "efficacy_claim",
+        "current_state": "Listing 效果承诺单点化",
+        "recommended_state": "效果分层承诺（即时/28 天）+ 使用前后对照实拍",
+        "pain_point": "Effectiveness",
+        "reason": "根因：功效浓度/功率与用户预期错位：Listing 承诺效果与实际见效周期未对齐，缺少效果对照与周期说明。该痛点 139 条负面评论 (占比 40.1%)，平均 1.6 星",
+        "evidence_ids": [
+          "B08L5KN7X4-146",
+          "B08L5KN7X4-182",
+          "B08L5KN7X4-508",
+          "B08L5KN7X4-94",
+          "B08L5KN7X4-121",
+          "B08L5KN7X4-842"
+        ],
+        "confidence": 0.95,
+        "source": "heuristic"
+      },
+      {
+        "parameter": "usage_guide",
+        "current_state": "使用说明简略",
+        "recommended_state": "使用频次/手法/见效周期指引",
+        "pain_point": "Effectiveness",
+        "reason": "根因：功效浓度/功率与用户预期错位：Listing 承诺效果与实际见效周期未对齐，缺少效果对照与周期说明。该痛点 139 条负面评论 (占比 40.1%)，平均 1.6 星",
+        "evidence_ids": [
+          "B08L5KN7X4-146",
+          "B08L5KN7X4-182",
+          "B08L5KN7X4-508",
+          "B08L5KN7X4-94",
+          "B08L5KN7X4-121",
+          "B08L5KN7X4-842"
+        ],
+        "confidence": 0.95,
+        "source": "heuristic"
+      },
+      {
+        "parameter": "cost_engineering",
+        "current_state": "定价高于同类且痛点未解决",
+        "recommended_state": "优先解决 Top 痛点以支撑价格带；推出以旧换新留存策略",
+        "pain_point": "Value & Price",
+        "reason": "根因：价格带与感知质量错位：核心痛点（漏水/清洁）拉低价值感知。该痛点 55 条负面评论 (占比 15.8%)，平均 1.22 星",
+        "evidence_ids": [
+          "B08L5KN7X4-805",
+          "B08L5KN7X4-305",
+          "B08L5KN7X4-1043",
+          "B08L5KN7X4-189",
+          "B08L5KN7X4-879",
+          "B08L5KN7X4-936"
+        ],
+        "confidence": 0.88,
+        "source": "heuristic"
+      },
+      {
+        "parameter": "mechanism_reliability",
+        "current_state": "泵芯/机构无寿命强化设计",
+        "recommended_state": "加强机构寿命设计与开合疲劳测试（engineering validation required）",
+        "pain_point": "Functional Failure",
+        "reason": "根因：核心机构（泵芯/电机/联动结构）可靠性不足：缺乏出厂寿命测试与批次抽检。该痛点 32 条负面评论 (占比 9.2%)，平均 1.22 星",
+        "evidence_ids": [
+          "B08L5KN7X4-110",
+          "B08L5KN7X4-446",
+          "B08L5KN7X4-61",
+          "B08L5KN7X4-298",
+          "B08L5KN7X4-1100",
+          "B08L5KN7X4-1008"
+        ],
+        "confidence": 0.82,
+        "source": "heuristic"
+      },
+      {
+        "parameter": "qc_sampling",
+        "current_state": "无功能全检/抽检标准",
+        "recommended_state": "出厂功能全检 + 批次抽检可靠性测试",
+        "pain_point": "Functional Failure",
+        "reason": "根因：核心机构（泵芯/电机/联动结构）可靠性不足：缺乏出厂寿命测试与批次抽检。该痛点 32 条负面评论 (占比 9.2%)，平均 1.22 星",
+        "evidence_ids": [
+          "B08L5KN7X4-110",
+          "B08L5KN7X4-446",
+          "B08L5KN7X4-61",
+          "B08L5KN7X4-298",
+          "B08L5KN7X4-1100",
+          "B08L5KN7X4-1008"
+        ],
+        "confidence": 0.82,
+        "source": "heuristic"
+      }
+    ],
+    "selling_points": [
+      "彻底解决上手难/使用不便：人机握持优化（依据 121 条真实差评）",
+      "彻底解决见效慢/效果不符：效果分层承诺（依据 139 条真实差评）",
+      "彻底解决性价比质疑：优先解决 Top 痛点以支撑价格带；推出以旧换新留存策略（依据 55 条真实差评）",
+      "彻底解决功能失效 / 无法工作：加强机构寿命设计与开合疲劳测试（依据 32 条真实差评）"
+    ],
+    "before_after_profile": {
+      "metrics": [
+        "上手难/使用不便",
+        "见效慢/效果不符",
+        "性价比质疑",
+        "功能失效 / 无法工作"
+      ],
+      "v1": [
+        38.0,
+        45.9,
+        71.7,
+        91.9
+      ],
+      "v2": [
+        92.9,
+        93.4,
+        94.5,
+        96.4
+      ]
+    }
+  },
+  "listing": {
+    "title": "Meeteasy V2 – upgraded core design | Redesigned from Real Customer Reviews",
+    "bullets": [
+      "[SOLVED: Ease of Use] Upgraded to a fully redesigned structure — based on 121 real reviews (50 verifiable evidence quotes), avg 1.64 -> target 4.5+",
+      "[SOLVED: Effectiveness] Upgraded to a fully redesigned structure — based on 139 real reviews (50 verifiable evidence quotes), avg 1.6 -> target 4.5+",
+      "[SOLVED: Value Concerns] Upgraded to upgrades that justify every cent — based on 55 real reviews (50 verifiable evidence quotes), avg 1.22 -> target 4.5+",
+      "[SOLVED: Stops Working] Upgraded to factory-tested long-life mechanism — based on 32 real reviews (32 verifiable evidence quotes), avg 1.22 -> target 4.5+"
+    ],
+    "faq": [
+      {
+        "q": "Customers reported 'Ease of Use' on V1 — is it fixed?",
+        "a": "Yes. V2 addresses it with a fully redesigned structure (engineering validation required)."
+      },
+      {
+        "q": "Customers reported 'Effectiveness' on V1 — is it fixed?",
+        "a": "Yes. V2 addresses it with a fully redesigned structure (engineering validation required)."
+      },
+      {
+        "q": "Customers reported 'Value Concerns' on V1 — is it fixed?",
+        "a": "Yes. V2 addresses it with upgrades that justify every cent (engineering validation required)."
+      },
+      {
+        "q": "Customers reported 'Stops Working' on V1 — is it fixed?",
+        "a": "Yes. V2 addresses it with factory-tested long-life mechanism (engineering validation required)."
+      }
+    ],
+    "main_image_strategy": [
+      "主图1：白底产品主视觉（V2 双密封结构局部剖面光效）",
+      "场景图：针对「上手难/使用不便」的 Before/After 对比",
+      "场景图：针对「见效慢/效果不符」的 Before/After 对比",
+      "场景图：针对「性价比质疑」的 Before/After 对比",
+      "场景图：针对「功能失效 / 无法工作」的 Before/After 对比"
+    ],
+    "marketing_message": "Every V2 upgrade is backed by real customer reviews — 347 negative voices turned into 7 engineering changes.",
+    "source": "heuristic"
+  }
+}

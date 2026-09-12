@@ -1,0 +1,724 @@
+{
+  "product_id": "B012Q9NGE4",
+  "product_title": "Moroccan Argan Oil Shampoo, 8 Fl Oz - Smooths and Repairs - Sulfate Free - Natural - Imported from Morocco by Pure Body Naturals",
+  "category": "All_Beauty",
+  "data_source": "amazon_reviews_2023",
+  "generated_at": "2026-08-17T16:42:35",
+  "llm_mode": "mock",
+  "stats": {
+    "total_reviews": 821,
+    "negative_reviews": 216,
+    "avg_rating": 4.04,
+    "rating_distribution": {
+      "1": 89,
+      "2": 56,
+      "3": 71,
+      "4": 125,
+      "5": 480
+    },
+    "date_range": [
+      "1450759496",
+      "1613420129"
+    ],
+    "cluster_method": "tfidf_kmeans",
+    "n_clusters_raw": 6
+  },
+  "pain_points": [
+    {
+      "name": "Styling Performance",
+      "display_name": "造型/护发效果不符",
+      "label_source": "lexicon",
+      "cluster_ids": [
+        1,
+        4
+      ],
+      "review_count": 108,
+      "total_negative": 216,
+      "share": 0.5,
+      "avg_rating": 1.89,
+      "keywords": [
+        "hair",
+        "shampoo",
+        "product",
+        "like",
+        "just",
+        "argan",
+        "using",
+        "it's",
+        "straighten",
+        "straightener",
+        "straightening",
+        "curly"
+      ],
+      "frequency": 0.5,
+      "severity": 0.7775,
+      "helpfulness": 1.0,
+      "recency": 0.8395,
+      "pain_score": 100.0,
+      "score_components": {
+        "frequency": 0.5,
+        "severity": 0.778,
+        "helpfulness": 1.0,
+        "recency": 0.839
+      },
+      "cluster_id": 1,
+      "evidence_review_ids": [
+        "B012Q9NGE4-562",
+        "B012Q9NGE4-218",
+        "B012Q9NGE4-419",
+        "B012Q9NGE4-374",
+        "B012Q9NGE4-7",
+        "B012Q9NGE4-123",
+        "B012Q9NGE4-632",
+        "B012Q9NGE4-619",
+        "B012Q9NGE4-390",
+        "B012Q9NGE4-460",
+        "B012Q9NGE4-654",
+        "B012Q9NGE4-501",
+        "B012Q9NGE4-662",
+        "B012Q9NGE4-744",
+        "B012Q9NGE4-89",
+        "B012Q9NGE4-181",
+        "B012Q9NGE4-380",
+        "B012Q9NGE4-795",
+        "B012Q9NGE4-260",
+        "B012Q9NGE4-517",
+        "B012Q9NGE4-113",
+        "B012Q9NGE4-832",
+        "B012Q9NGE4-156",
+        "B012Q9NGE4-773",
+        "B012Q9NGE4-246",
+        "B012Q9NGE4-105",
+        "B012Q9NGE4-365",
+        "B012Q9NGE4-711",
+        "B012Q9NGE4-402",
+        "B012Q9NGE4-347",
+        "B012Q9NGE4-235",
+        "B012Q9NGE4-742",
+        "B012Q9NGE4-167",
+        "B012Q9NGE4-222",
+        "B012Q9NGE4-136",
+        "B012Q9NGE4-779",
+        "B012Q9NGE4-628",
+        "B012Q9NGE4-140",
+        "B012Q9NGE4-548",
+        "B012Q9NGE4-103",
+        "B012Q9NGE4-550",
+        "B012Q9NGE4-525",
+        "B012Q9NGE4-379",
+        "B012Q9NGE4-476",
+        "B012Q9NGE4-756",
+        "B012Q9NGE4-820",
+        "B012Q9NGE4-82",
+        "B012Q9NGE4-590",
+        "B012Q9NGE4-78",
+        "B012Q9NGE4-189"
+      ],
+      "representative_review_ids": [
+        "B012Q9NGE4-218",
+        "B012Q9NGE4-419",
+        "B012Q9NGE4-562"
+      ],
+      "evidence_status": "ok"
+    },
+    {
+      "name": "Value & Price",
+      "display_name": "性价比质疑",
+      "label_source": "lexicon",
+      "cluster_ids": [
+        0
+      ],
+      "review_count": 29,
+      "total_negative": 216,
+      "share": 0.1343,
+      "avg_rating": 1.79,
+      "keywords": [
+        "shampoo",
+        "hair",
+        "like",
+        "smell",
+        "product",
+        "strong",
+        "don't",
+        "used",
+        "price",
+        "expensive",
+        "overpriced",
+        "worth it"
+      ],
+      "frequency": 0.1343,
+      "severity": 0.8025,
+      "helpfulness": 0.9397,
+      "recency": 0.7659,
+      "pain_score": 23.8,
+      "score_components": {
+        "frequency": 0.134,
+        "severity": 0.802,
+        "helpfulness": 0.94,
+        "recency": 0.766
+      },
+      "cluster_id": 0,
+      "evidence_review_ids": [
+        "B012Q9NGE4-221",
+        "B012Q9NGE4-368",
+        "B012Q9NGE4-227",
+        "B012Q9NGE4-539",
+        "B012Q9NGE4-142",
+        "B012Q9NGE4-597",
+        "B012Q9NGE4-577",
+        "B012Q9NGE4-845",
+        "B012Q9NGE4-648",
+        "B012Q9NGE4-677",
+        "B012Q9NGE4-572",
+        "B012Q9NGE4-692",
+        "B012Q9NGE4-153",
+        "B012Q9NGE4-285",
+        "B012Q9NGE4-23",
+        "B012Q9NGE4-746",
+        "B012Q9NGE4-387",
+        "B012Q9NGE4-757",
+        "B012Q9NGE4-303",
+        "B012Q9NGE4-669",
+        "B012Q9NGE4-480",
+        "B012Q9NGE4-507",
+        "B012Q9NGE4-629",
+        "B012Q9NGE4-299",
+        "B012Q9NGE4-678",
+        "B012Q9NGE4-10",
+        "B012Q9NGE4-338",
+        "B012Q9NGE4-697",
+        "B012Q9NGE4-202"
+      ],
+      "representative_review_ids": [
+        "B012Q9NGE4-221",
+        "B012Q9NGE4-227",
+        "B012Q9NGE4-368"
+      ],
+      "evidence_status": "ok"
+    },
+    {
+      "name": "Leakage",
+      "display_name": "漏水 / 密封失效",
+      "label_source": "lexicon",
+      "cluster_ids": [
+        3
+      ],
+      "review_count": 23,
+      "total_negative": 216,
+      "share": 0.1065,
+      "avg_rating": 1.26,
+      "keywords": [
+        "product",
+        "star",
+        "hair",
+        "shampoo",
+        "received",
+        "leaked",
+        "came",
+        "opened",
+        "leak",
+        "leaks",
+        "leaking",
+        "leakproof"
+      ],
+      "frequency": 0.1065,
+      "severity": 0.935,
+      "helpfulness": 0.652,
+      "recency": 1.0,
+      "pain_score": 19.9,
+      "score_components": {
+        "frequency": 0.106,
+        "severity": 0.935,
+        "helpfulness": 0.652,
+        "recency": 1.0
+      },
+      "cluster_id": 3,
+      "evidence_review_ids": [
+        "B012Q9NGE4-318",
+        "B012Q9NGE4-631",
+        "B012Q9NGE4-814",
+        "B012Q9NGE4-257",
+        "B012Q9NGE4-626",
+        "B012Q9NGE4-334",
+        "B012Q9NGE4-126",
+        "B012Q9NGE4-736",
+        "B012Q9NGE4-437",
+        "B012Q9NGE4-794",
+        "B012Q9NGE4-789",
+        "B012Q9NGE4-470",
+        "B012Q9NGE4-793",
+        "B012Q9NGE4-780",
+        "B012Q9NGE4-721",
+        "B012Q9NGE4-854",
+        "B012Q9NGE4-385",
+        "B012Q9NGE4-472",
+        "B012Q9NGE4-352",
+        "B012Q9NGE4-333",
+        "B012Q9NGE4-392",
+        "B012Q9NGE4-666",
+        "B012Q9NGE4-835"
+      ],
+      "representative_review_ids": [
+        "B012Q9NGE4-318",
+        "B012Q9NGE4-631",
+        "B012Q9NGE4-814"
+      ],
+      "evidence_status": "ok"
+    },
+    {
+      "name": "Functional Failure",
+      "display_name": "功能失效 / 无法工作",
+      "label_source": "lexicon",
+      "cluster_ids": [
+        2
+      ],
+      "review_count": 28,
+      "total_negative": 216,
+      "share": 0.1296,
+      "avg_rating": 1.89,
+      "keywords": [
+        "pump",
+        "shampoo",
+        "great",
+        "work",
+        "bottle",
+        "broken",
+        "product",
+        "like",
+        "stopped working",
+        "stopped spraying",
+        "quit working",
+        "quit spraying"
+      ],
+      "frequency": 0.1296,
+      "severity": 0.7775,
+      "helpfulness": 0.5972,
+      "recency": 0.5,
+      "pain_score": 9.2,
+      "score_components": {
+        "frequency": 0.13,
+        "severity": 0.778,
+        "helpfulness": 0.597,
+        "recency": 0.5
+      },
+      "cluster_id": 2,
+      "evidence_review_ids": [
+        "B012Q9NGE4-747",
+        "B012Q9NGE4-428",
+        "B012Q9NGE4-160",
+        "B012Q9NGE4-518",
+        "B012Q9NGE4-829",
+        "B012Q9NGE4-332",
+        "B012Q9NGE4-661",
+        "B012Q9NGE4-683",
+        "B012Q9NGE4-768",
+        "B012Q9NGE4-810",
+        "B012Q9NGE4-836",
+        "B012Q9NGE4-676",
+        "B012Q9NGE4-414",
+        "B012Q9NGE4-184",
+        "B012Q9NGE4-238",
+        "B012Q9NGE4-541",
+        "B012Q9NGE4-426",
+        "B012Q9NGE4-92",
+        "B012Q9NGE4-643",
+        "B012Q9NGE4-824",
+        "B012Q9NGE4-364",
+        "B012Q9NGE4-786",
+        "B012Q9NGE4-373",
+        "B012Q9NGE4-128",
+        "B012Q9NGE4-312",
+        "B012Q9NGE4-555",
+        "B012Q9NGE4-815",
+        "B012Q9NGE4-732"
+      ],
+      "representative_review_ids": [
+        "B012Q9NGE4-160",
+        "B012Q9NGE4-428",
+        "B012Q9NGE4-747"
+      ],
+      "evidence_status": "ok"
+    },
+    {
+      "name": "Lid & Straw Mechanism",
+      "display_name": "杯盖/吸管机构故障",
+      "label_source": "lexicon",
+      "cluster_ids": [
+        5
+      ],
+      "review_count": 28,
+      "total_negative": 216,
+      "share": 0.1296,
+      "avg_rating": 2.71,
+      "keywords": [
+        "stars",
+        "hair",
+        "smell",
+        "shampoo",
+        "pump",
+        "product",
+        "broken",
+        "received",
+        "straw",
+        "flip",
+        "hinge",
+        "spout"
+      ],
+      "frequency": 0.1296,
+      "severity": 0.5725,
+      "helpfulness": 0.3,
+      "recency": 0.7668,
+      "pain_score": 5.2,
+      "score_components": {
+        "frequency": 0.13,
+        "severity": 0.573,
+        "helpfulness": 0.3,
+        "recency": 0.767
+      },
+      "cluster_id": 5,
+      "evidence_review_ids": [
+        "B012Q9NGE4-490",
+        "B012Q9NGE4-146",
+        "B012Q9NGE4-452",
+        "B012Q9NGE4-290",
+        "B012Q9NGE4-703",
+        "B012Q9NGE4-192",
+        "B012Q9NGE4-255",
+        "B012Q9NGE4-767",
+        "B012Q9NGE4-784",
+        "B012Q9NGE4-182",
+        "B012Q9NGE4-514",
+        "B012Q9NGE4-712",
+        "B012Q9NGE4-771",
+        "B012Q9NGE4-733",
+        "B012Q9NGE4-511",
+        "B012Q9NGE4-750",
+        "B012Q9NGE4-556",
+        "B012Q9NGE4-591",
+        "B012Q9NGE4-31",
+        "B012Q9NGE4-636",
+        "B012Q9NGE4-354",
+        "B012Q9NGE4-564",
+        "B012Q9NGE4-196",
+        "B012Q9NGE4-559",
+        "B012Q9NGE4-279",
+        "B012Q9NGE4-800",
+        "B012Q9NGE4-256",
+        "B012Q9NGE4-239"
+      ],
+      "representative_review_ids": [
+        "B012Q9NGE4-146",
+        "B012Q9NGE4-452",
+        "B012Q9NGE4-490"
+      ],
+      "evidence_status": "ok"
+    }
+  ],
+  "root_causes": {
+    "Styling Performance": {
+      "pain_point": "Styling Performance",
+      "root_cause": "造型工具与用户发质（卷发/粗硬发/细软发）匹配不足：温度/风量/梳齿间距为单一规格，未按核心发质人群分档设计",
+      "affected_scenario": "日常吹风 / 卷发打理 / 直发造型",
+      "affected_users": "卷发人群 / 细软发质 / 短发用户",
+      "severity": 0.7775,
+      "evidence_ids": [
+        "B012Q9NGE4-562",
+        "B012Q9NGE4-218",
+        "B012Q9NGE4-419",
+        "B012Q9NGE4-374",
+        "B012Q9NGE4-7"
+      ],
+      "source": "heuristic"
+    },
+    "Value & Price": {
+      "pain_point": "Value & Price",
+      "root_cause": "价格带与感知质量错位：核心痛点（漏水/清洁）拉低价值感知",
+      "affected_scenario": "比价 / 复购决策",
+      "affected_users": "价格敏感型用户",
+      "severity": 0.8025,
+      "evidence_ids": [
+        "B012Q9NGE4-221",
+        "B012Q9NGE4-368",
+        "B012Q9NGE4-227",
+        "B012Q9NGE4-539",
+        "B012Q9NGE4-142"
+      ],
+      "source": "heuristic"
+    },
+    "Leakage": {
+      "pain_point": "Leakage",
+      "root_cause": "杯盖密封结构不足：单层密封圈 + 螺纹公差偏大，倒置或晃动时压力变化导致渗漏",
+      "affected_scenario": "通勤背包、平放进包、车载颠簸",
+      "affected_users": "通勤族 / 学生 / 健身人群",
+      "severity": 0.935,
+      "evidence_ids": [
+        "B012Q9NGE4-318",
+        "B012Q9NGE4-631",
+        "B012Q9NGE4-814",
+        "B012Q9NGE4-257",
+        "B012Q9NGE4-626"
+      ],
+      "source": "heuristic"
+    },
+    "Functional Failure": {
+      "pain_point": "Functional Failure",
+      "root_cause": "核心机构（泵芯/电机/联动结构）可靠性不足：缺乏出厂寿命测试与批次抽检",
+      "affected_scenario": "正常使用数天至数月后失效",
+      "affected_users": "所有用户（直接导致退货与差评）",
+      "severity": 0.7775,
+      "evidence_ids": [
+        "B012Q9NGE4-747",
+        "B012Q9NGE4-428",
+        "B012Q9NGE4-160",
+        "B012Q9NGE4-518",
+        "B012Q9NGE4-829"
+      ],
+      "source": "heuristic"
+    },
+    "Lid & Straw Mechanism": {
+      "pain_point": "Lid & Straw Mechanism",
+      "root_cause": "翻盖铰链与卡扣为薄壁塑料件，疲劳寿命不足；吸管材质偏硬易折断",
+      "affected_scenario": "单手开盖 / 吸管饮用",
+      "affected_users": "驾驶 / 运动人群",
+      "severity": 0.5725,
+      "evidence_ids": [
+        "B012Q9NGE4-490",
+        "B012Q9NGE4-146",
+        "B012Q9NGE4-452",
+        "B012Q9NGE4-290",
+        "B012Q9NGE4-703"
+      ],
+      "source": "heuristic"
+    }
+  },
+  "product_v2": {
+    "positioning": "针对 V1 差评中 Top 痛点（造型/护发效果不符、性价比质疑、漏水 / 密封失效）全面重构的 V2 版本：以真实评论证据驱动参数级改进，主打「痛点清零 + 可验证升级」，面向高频通勤/户外场景用户，用 Evidence 营销建立信任壁垒。",
+    "parameters": [
+      {
+        "parameter": "heat_settings",
+        "current_state": "单一温度/风量档",
+        "recommended_state": "多档温度风量 + 发质适配指引（工程验证 required）",
+        "pain_point": "Styling Performance",
+        "reason": "根因：造型工具与用户发质（卷发/粗硬发/细软发）匹配不足：温度/风量/梳齿间距为单一规格，未按核心发质人群分档设计。该痛点 108 条负面评论 (占比 50.0%)，平均 1.89 星",
+        "evidence_ids": [
+          "B012Q9NGE4-562",
+          "B012Q9NGE4-218",
+          "B012Q9NGE4-419",
+          "B012Q9NGE4-374",
+          "B012Q9NGE4-7",
+          "B012Q9NGE4-123"
+        ],
+        "confidence": 0.95,
+        "source": "heuristic"
+      },
+      {
+        "parameter": "accessory_matrix",
+        "current_state": "通用配件，无发质区分",
+        "recommended_state": "按发质（细软/粗硬/卷发）的配件矩阵",
+        "pain_point": "Styling Performance",
+        "reason": "根因：造型工具与用户发质（卷发/粗硬发/细软发）匹配不足：温度/风量/梳齿间距为单一规格，未按核心发质人群分档设计。该痛点 108 条负面评论 (占比 50.0%)，平均 1.89 星",
+        "evidence_ids": [
+          "B012Q9NGE4-562",
+          "B012Q9NGE4-218",
+          "B012Q9NGE4-419",
+          "B012Q9NGE4-374",
+          "B012Q9NGE4-7",
+          "B012Q9NGE4-123"
+        ],
+        "confidence": 0.95,
+        "source": "heuristic"
+      },
+      {
+        "parameter": "cost_engineering",
+        "current_state": "定价高于同类且痛点未解决",
+        "recommended_state": "优先解决 Top 痛点以支撑价格带；推出以旧换新留存策略",
+        "pain_point": "Value & Price",
+        "reason": "根因：价格带与感知质量错位：核心痛点（漏水/清洁）拉低价值感知。该痛点 29 条负面评论 (占比 13.4%)，平均 1.79 星",
+        "evidence_ids": [
+          "B012Q9NGE4-221",
+          "B012Q9NGE4-368",
+          "B012Q9NGE4-227",
+          "B012Q9NGE4-539",
+          "B012Q9NGE4-142",
+          "B012Q9NGE4-597"
+        ],
+        "confidence": 0.86,
+        "source": "heuristic"
+      },
+      {
+        "parameter": "lid_seal",
+        "current_state": "单层硅胶密封圈",
+        "recommended_state": "双层硅胶密封 + 卡扣锁紧结构（工程验证 required）",
+        "pain_point": "Leakage",
+        "reason": "根因：杯盖密封结构不足：单层密封圈 + 螺纹公差偏大，倒置或晃动时压力变化导致渗漏。该痛点 23 条负面评论 (占比 10.7%)，平均 1.26 星",
+        "evidence_ids": [
+          "B012Q9NGE4-318",
+          "B012Q9NGE4-631",
+          "B012Q9NGE4-814",
+          "B012Q9NGE4-257",
+          "B012Q9NGE4-626",
+          "B012Q9NGE4-334"
+        ],
+        "confidence": 0.84,
+        "source": "heuristic"
+      },
+      {
+        "parameter": "straw_valve",
+        "current_state": "直通式吸管孔",
+        "recommended_state": "增加单向止逆阀（防倒吸渗漏）",
+        "pain_point": "Leakage",
+        "reason": "根因：杯盖密封结构不足：单层密封圈 + 螺纹公差偏大，倒置或晃动时压力变化导致渗漏。该痛点 23 条负面评论 (占比 10.7%)，平均 1.26 星",
+        "evidence_ids": [
+          "B012Q9NGE4-318",
+          "B012Q9NGE4-631",
+          "B012Q9NGE4-814",
+          "B012Q9NGE4-257",
+          "B012Q9NGE4-626",
+          "B012Q9NGE4-334"
+        ],
+        "confidence": 0.84,
+        "source": "heuristic"
+      },
+      {
+        "parameter": "mechanism_reliability",
+        "current_state": "泵芯/机构无寿命强化设计",
+        "recommended_state": "加强机构寿命设计与开合疲劳测试（engineering validation required）",
+        "pain_point": "Functional Failure",
+        "reason": "根因：核心机构（泵芯/电机/联动结构）可靠性不足：缺乏出厂寿命测试与批次抽检。该痛点 28 条负面评论 (占比 13.0%)，平均 1.89 星",
+        "evidence_ids": [
+          "B012Q9NGE4-747",
+          "B012Q9NGE4-428",
+          "B012Q9NGE4-160",
+          "B012Q9NGE4-518",
+          "B012Q9NGE4-829",
+          "B012Q9NGE4-332"
+        ],
+        "confidence": 0.85,
+        "source": "heuristic"
+      },
+      {
+        "parameter": "qc_sampling",
+        "current_state": "无功能全检/抽检标准",
+        "recommended_state": "出厂功能全检 + 批次抽检可靠性测试",
+        "pain_point": "Functional Failure",
+        "reason": "根因：核心机构（泵芯/电机/联动结构）可靠性不足：缺乏出厂寿命测试与批次抽检。该痛点 28 条负面评论 (占比 13.0%)，平均 1.89 星",
+        "evidence_ids": [
+          "B012Q9NGE4-747",
+          "B012Q9NGE4-428",
+          "B012Q9NGE4-160",
+          "B012Q9NGE4-518",
+          "B012Q9NGE4-829",
+          "B012Q9NGE4-332"
+        ],
+        "confidence": 0.85,
+        "source": "heuristic"
+      },
+      {
+        "parameter": "hinge_durability",
+        "current_state": "薄壁一体铰链",
+        "recommended_state": "加强筋铰链 + 开合寿命测试（工程验证 required）",
+        "pain_point": "Lid & Straw Mechanism",
+        "reason": "根因：翻盖铰链与卡扣为薄壁塑料件，疲劳寿命不足；吸管材质偏硬易折断。该痛点 28 条负面评论 (占比 13.0%)，平均 2.71 星",
+        "evidence_ids": [
+          "B012Q9NGE4-490",
+          "B012Q9NGE4-146",
+          "B012Q9NGE4-452",
+          "B012Q9NGE4-290",
+          "B012Q9NGE4-703",
+          "B012Q9NGE4-192"
+        ],
+        "confidence": 0.85,
+        "source": "heuristic"
+      },
+      {
+        "parameter": "straw_material",
+        "current_state": "普通 PP 吸管",
+        "recommended_state": "柔性食品级 TPE 吸管 + 备用配件",
+        "pain_point": "Lid & Straw Mechanism",
+        "reason": "根因：翻盖铰链与卡扣为薄壁塑料件，疲劳寿命不足；吸管材质偏硬易折断。该痛点 28 条负面评论 (占比 13.0%)，平均 2.71 星",
+        "evidence_ids": [
+          "B012Q9NGE4-490",
+          "B012Q9NGE4-146",
+          "B012Q9NGE4-452",
+          "B012Q9NGE4-290",
+          "B012Q9NGE4-703",
+          "B012Q9NGE4-192"
+        ],
+        "confidence": 0.85,
+        "source": "heuristic"
+      }
+    ],
+    "selling_points": [
+      "彻底解决造型/护发效果不符：多档温度风量 + 发质适配指引（依据 108 条真实差评）",
+      "彻底解决性价比质疑：优先解决 Top 痛点以支撑价格带；推出以旧换新留存策略（依据 29 条真实差评）",
+      "彻底解决漏水 / 密封失效：双层硅胶密封 + 卡扣锁紧结构（依据 23 条真实差评）",
+      "彻底解决功能失效 / 无法工作：加强机构寿命设计与开合疲劳测试（依据 28 条真实差评）",
+      "彻底解决杯盖/吸管机构故障：加强筋铰链 + 开合寿命测试（依据 28 条真实差评）"
+    ],
+    "before_after_profile": {
+      "metrics": [
+        "造型/护发效果不符",
+        "性价比质疑",
+        "漏水 / 密封失效",
+        "功能失效 / 无法工作",
+        "杯盖/吸管机构故障"
+      ],
+      "v1": [
+        38.0,
+        85.2,
+        87.7,
+        94.3,
+        95.0
+      ],
+      "v2": [
+        92.9,
+        95.8,
+        95.9,
+        96.7,
+        96.8
+      ]
+    }
+  },
+  "listing": {
+    "title": "Moroccan V2 – upgraded core design, upgrades that justify every cent, dual-seal leak-proof lid | Redesigned from Real Customer Reviews",
+    "bullets": [
+      "[SOLVED: Styling Performance] Upgraded to a fully redesigned structure — based on 108 real reviews (50 verifiable evidence quotes), avg 1.89 -> target 4.5+",
+      "[SOLVED: Value Concerns] Upgraded to upgrades that justify every cent — based on 29 real reviews (29 verifiable evidence quotes), avg 1.79 -> target 4.5+",
+      "[SOLVED: Leakage] Upgraded to dual-seal leak-proof lid — based on 23 real reviews (23 verifiable evidence quotes), avg 1.26 -> target 4.5+",
+      "[SOLVED: Stops Working] Upgraded to factory-tested long-life mechanism — based on 28 real reviews (28 verifiable evidence quotes), avg 1.89 -> target 4.5+",
+      "[SOLVED: Lid/Straw Issues] Upgraded to reinforced lid hinge & flexible straw — based on 28 real reviews (28 verifiable evidence quotes), avg 2.71 -> target 4.5+"
+    ],
+    "faq": [
+      {
+        "q": "Customers reported 'Styling Performance' on V1 — is it fixed?",
+        "a": "Yes. V2 addresses it with a fully redesigned structure (engineering validation required)."
+      },
+      {
+        "q": "Customers reported 'Value Concerns' on V1 — is it fixed?",
+        "a": "Yes. V2 addresses it with upgrades that justify every cent (engineering validation required)."
+      },
+      {
+        "q": "Will it leak in my bag?",
+        "a": "No. V2 adopts a dual seal + lock lid structure (engineering validation required before mass production), specifically engineered against the #1 complaint from V1 reviews."
+      },
+      {
+        "q": "Customers reported 'Stops Working' on V1 — is it fixed?",
+        "a": "Yes. V2 addresses it with factory-tested long-life mechanism (engineering validation required)."
+      },
+      {
+        "q": "Customers reported 'Lid/Straw Issues' on V1 — is it fixed?",
+        "a": "Yes. V2 addresses it with reinforced lid hinge & flexible straw (engineering validation required)."
+      }
+    ],
+    "main_image_strategy": [
+      "主图1：白底产品主视觉（V2 双密封结构局部剖面光效）",
+      "场景图：针对「造型/护发效果不符」的 Before/After 对比",
+      "场景图：针对「性价比质疑」的 Before/After 对比",
+      "主图2：倒置摇晃测试 — 包内平放 24h 无渗漏（对比 V1 渗漏实录）",
+      "场景图：针对「功能失效 / 无法工作」的 Before/After 对比",
+      "场景图：针对「杯盖/吸管机构故障」的 Before/After 对比"
+    ],
+    "marketing_message": "Every V2 upgrade is backed by real customer reviews — 216 negative voices turned into 9 engineering changes.",
+    "source": "heuristic"
+  }
+}

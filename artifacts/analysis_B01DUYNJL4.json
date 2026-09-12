@@ -1,0 +1,549 @@
+{
+  "product_id": "B01DUYNJL4",
+  "product_title": "Listerine Pump for 1.5 or 1 Liter Bottles (1 Pump)",
+  "category": "All_Beauty",
+  "data_source": "amazon_reviews_2023",
+  "generated_at": "2026-08-17T16:42:55",
+  "llm_mode": "mock",
+  "stats": {
+    "total_reviews": 537,
+    "negative_reviews": 72,
+    "avg_rating": 4.5,
+    "rating_distribution": {
+      "1": 34,
+      "2": 8,
+      "3": 30,
+      "4": 50,
+      "5": 415
+    },
+    "date_range": [
+      "1461559172",
+      "1682703535"
+    ],
+    "cluster_method": "tfidf_kmeans",
+    "n_clusters_raw": 4
+  },
+  "pain_points": [
+    {
+      "name": "Lid & Straw Mechanism",
+      "display_name": "杯盖/吸管机构故障",
+      "label_source": "lexicon",
+      "cluster_ids": [
+        3
+      ],
+      "review_count": 16,
+      "total_negative": 72,
+      "share": 0.2222,
+      "avg_rating": 1.62,
+      "keywords": [
+        "bottle",
+        "listerine",
+        "pump",
+        "does",
+        "screw",
+        "works",
+        "product",
+        "single",
+        "straw",
+        "flip",
+        "hinge",
+        "spout"
+      ],
+      "frequency": 0.2222,
+      "severity": 0.845,
+      "helpfulness": 0.3543,
+      "recency": 1.0,
+      "pain_score": 100.0,
+      "score_components": {
+        "frequency": 0.222,
+        "severity": 0.845,
+        "helpfulness": 0.354,
+        "recency": 1.0
+      },
+      "cluster_id": 3,
+      "evidence_review_ids": [
+        "B01DUYNJL4-475",
+        "B01DUYNJL4-142",
+        "B01DUYNJL4-373",
+        "B01DUYNJL4-540",
+        "B01DUYNJL4-450",
+        "B01DUYNJL4-560",
+        "B01DUYNJL4-391",
+        "B01DUYNJL4-468",
+        "B01DUYNJL4-552",
+        "B01DUYNJL4-267",
+        "B01DUYNJL4-5",
+        "B01DUYNJL4-384",
+        "B01DUYNJL4-535",
+        "B01DUYNJL4-70",
+        "B01DUYNJL4-179",
+        "B01DUYNJL4-521"
+      ],
+      "representative_review_ids": [
+        "B01DUYNJL4-142",
+        "B01DUYNJL4-373",
+        "B01DUYNJL4-475"
+      ],
+      "evidence_status": "ok"
+    },
+    {
+      "name": "Cup Holder Fit",
+      "display_name": "杯架不匹配",
+      "label_source": "lexicon",
+      "cluster_ids": [
+        2
+      ],
+      "review_count": 13,
+      "total_negative": 72,
+      "share": 0.1806,
+      "avg_rating": 2.23,
+      "keywords": [
+        "bottles",
+        "mouthwash",
+        "pump",
+        "does",
+        "bottle",
+        "brand",
+        "listerine",
+        "doesn",
+        "cup holder",
+        "cupholder",
+        "car holder",
+        "too wide"
+      ],
+      "frequency": 0.1806,
+      "severity": 0.6925,
+      "helpfulness": 1.0,
+      "recency": 0.5084,
+      "pain_score": 95.6,
+      "score_components": {
+        "frequency": 0.181,
+        "severity": 0.693,
+        "helpfulness": 1.0,
+        "recency": 0.508
+      },
+      "cluster_id": 2,
+      "evidence_review_ids": [
+        "B01DUYNJL4-229",
+        "B01DUYNJL4-488",
+        "B01DUYNJL4-260",
+        "B01DUYNJL4-251",
+        "B01DUYNJL4-241",
+        "B01DUYNJL4-491",
+        "B01DUYNJL4-49",
+        "B01DUYNJL4-453",
+        "B01DUYNJL4-253",
+        "B01DUYNJL4-266",
+        "B01DUYNJL4-40",
+        "B01DUYNJL4-459",
+        "B01DUYNJL4-445"
+      ],
+      "representative_review_ids": [
+        "B01DUYNJL4-229",
+        "B01DUYNJL4-260",
+        "B01DUYNJL4-488"
+      ],
+      "evidence_status": "ok"
+    },
+    {
+      "name": "Parts & Compatibility",
+      "display_name": "配件/型号兼容问题",
+      "label_source": "lexicon_terms",
+      "cluster_ids": [
+        1
+      ],
+      "review_count": 19,
+      "total_negative": 72,
+      "share": 0.2639,
+      "avg_rating": 1.63,
+      "keywords": [
+        "product",
+        "bottle",
+        "item",
+        "like",
+        "didn",
+        "fits",
+        "ordered",
+        "pump",
+        "replacement",
+        "replacements",
+        "foil",
+        "cutter"
+      ],
+      "frequency": 0.2639,
+      "severity": 0.8425,
+      "helpfulness": 0.3,
+      "recency": 0.7819,
+      "pain_score": 78.4,
+      "score_components": {
+        "frequency": 0.264,
+        "severity": 0.843,
+        "helpfulness": 0.3,
+        "recency": 0.782
+      },
+      "cluster_id": 1,
+      "evidence_review_ids": [
+        "B01DUYNJL4-438",
+        "B01DUYNJL4-433",
+        "B01DUYNJL4-24",
+        "B01DUYNJL4-487",
+        "B01DUYNJL4-394",
+        "B01DUYNJL4-120",
+        "B01DUYNJL4-442",
+        "B01DUYNJL4-376",
+        "B01DUYNJL4-359",
+        "B01DUYNJL4-464",
+        "B01DUYNJL4-198",
+        "B01DUYNJL4-119",
+        "B01DUYNJL4-129",
+        "B01DUYNJL4-378",
+        "B01DUYNJL4-452",
+        "B01DUYNJL4-41",
+        "B01DUYNJL4-472",
+        "B01DUYNJL4-528",
+        "B01DUYNJL4-297"
+      ],
+      "representative_review_ids": [
+        "B01DUYNJL4-24",
+        "B01DUYNJL4-433",
+        "B01DUYNJL4-438"
+      ],
+      "evidence_status": "ok"
+    },
+    {
+      "name": "Leakage",
+      "display_name": "漏水 / 密封失效",
+      "label_source": "lexicon",
+      "cluster_ids": [
+        0
+      ],
+      "review_count": 24,
+      "total_negative": 72,
+      "share": 0.3333,
+      "avg_rating": 2.25,
+      "keywords": [
+        "pump",
+        "mouthwash",
+        "liquid",
+        "bottle",
+        "works",
+        "just",
+        "listerine",
+        "it's",
+        "leak",
+        "leaks",
+        "leaked",
+        "leaking"
+      ],
+      "frequency": 0.3333,
+      "severity": 0.6875,
+      "helpfulness": 0.3236,
+      "recency": 0.5,
+      "pain_score": 55.7,
+      "score_components": {
+        "frequency": 0.333,
+        "severity": 0.688,
+        "helpfulness": 0.324,
+        "recency": 0.5
+      },
+      "cluster_id": 0,
+      "evidence_review_ids": [
+        "B01DUYNJL4-511",
+        "B01DUYNJL4-474",
+        "B01DUYNJL4-79",
+        "B01DUYNJL4-407",
+        "B01DUYNJL4-331",
+        "B01DUYNJL4-193",
+        "B01DUYNJL4-444",
+        "B01DUYNJL4-51",
+        "B01DUYNJL4-541",
+        "B01DUYNJL4-136",
+        "B01DUYNJL4-242",
+        "B01DUYNJL4-65",
+        "B01DUYNJL4-425",
+        "B01DUYNJL4-477",
+        "B01DUYNJL4-263",
+        "B01DUYNJL4-412",
+        "B01DUYNJL4-550",
+        "B01DUYNJL4-141",
+        "B01DUYNJL4-140",
+        "B01DUYNJL4-469",
+        "B01DUYNJL4-456",
+        "B01DUYNJL4-513",
+        "B01DUYNJL4-539",
+        "B01DUYNJL4-58"
+      ],
+      "representative_review_ids": [
+        "B01DUYNJL4-79",
+        "B01DUYNJL4-474",
+        "B01DUYNJL4-511"
+      ],
+      "evidence_status": "ok"
+    }
+  ],
+  "root_causes": {
+    "Lid & Straw Mechanism": {
+      "pain_point": "Lid & Straw Mechanism",
+      "root_cause": "翻盖铰链与卡扣为薄壁塑料件，疲劳寿命不足；吸管材质偏硬易折断",
+      "affected_scenario": "单手开盖 / 吸管饮用",
+      "affected_users": "驾驶 / 运动人群",
+      "severity": 0.845,
+      "evidence_ids": [
+        "B01DUYNJL4-475",
+        "B01DUYNJL4-142",
+        "B01DUYNJL4-373",
+        "B01DUYNJL4-540",
+        "B01DUYNJL4-450"
+      ],
+      "source": "heuristic"
+    },
+    "Cup Holder Fit": {
+      "pain_point": "Cup Holder Fit",
+      "root_cause": "底部直径超出标准车载杯架规格（多数车规杯架为 7.3–8.6cm）",
+      "affected_scenario": "驾车通勤 / 单车水壶架",
+      "affected_users": "驾车通勤人群",
+      "severity": 0.6925,
+      "evidence_ids": [
+        "B01DUYNJL4-229",
+        "B01DUYNJL4-488",
+        "B01DUYNJL4-260",
+        "B01DUYNJL4-251",
+        "B01DUYNJL4-241"
+      ],
+      "source": "heuristic"
+    },
+    "Parts & Compatibility": {
+      "pain_point": "Parts & Compatibility",
+      "root_cause": "配件型号矩阵信息不透明：型号/序列号对照缺失导致选错替换装；『通用』宣传与实际适配范围不符",
+      "affected_scenario": "替换装/刀头/刷头二次购买",
+      "affected_users": "复购用户（直接影响复购率与退货率）",
+      "severity": 0.8425,
+      "evidence_ids": [
+        "B01DUYNJL4-438",
+        "B01DUYNJL4-433",
+        "B01DUYNJL4-24",
+        "B01DUYNJL4-487",
+        "B01DUYNJL4-394"
+      ],
+      "source": "heuristic"
+    },
+    "Leakage": {
+      "pain_point": "Leakage",
+      "root_cause": "杯盖密封结构不足：单层密封圈 + 螺纹公差偏大，倒置或晃动时压力变化导致渗漏",
+      "affected_scenario": "通勤背包、平放进包、车载颠簸",
+      "affected_users": "通勤族 / 学生 / 健身人群",
+      "severity": 0.6875,
+      "evidence_ids": [
+        "B01DUYNJL4-511",
+        "B01DUYNJL4-474",
+        "B01DUYNJL4-79",
+        "B01DUYNJL4-407",
+        "B01DUYNJL4-331"
+      ],
+      "source": "heuristic"
+    }
+  },
+  "product_v2": {
+    "positioning": "针对 V1 差评中 Top 痛点（杯盖/吸管机构故障、杯架不匹配、配件/型号兼容问题）全面重构的 V2 版本：以真实评论证据驱动参数级改进，主打「痛点清零 + 可验证升级」，面向高频通勤/户外场景用户，用 Evidence 营销建立信任壁垒。",
+    "parameters": [
+      {
+        "parameter": "hinge_durability",
+        "current_state": "薄壁一体铰链",
+        "recommended_state": "加强筋铰链 + 开合寿命测试（工程验证 required）",
+        "pain_point": "Lid & Straw Mechanism",
+        "reason": "根因：翻盖铰链与卡扣为薄壁塑料件，疲劳寿命不足；吸管材质偏硬易折断。该痛点 16 条负面评论 (占比 22.2%)，平均 1.62 星",
+        "evidence_ids": [
+          "B01DUYNJL4-475",
+          "B01DUYNJL4-142",
+          "B01DUYNJL4-373",
+          "B01DUYNJL4-540",
+          "B01DUYNJL4-450",
+          "B01DUYNJL4-560"
+        ],
+        "confidence": 0.93,
+        "source": "heuristic"
+      },
+      {
+        "parameter": "straw_material",
+        "current_state": "普通 PP 吸管",
+        "recommended_state": "柔性食品级 TPE 吸管 + 备用配件",
+        "pain_point": "Lid & Straw Mechanism",
+        "reason": "根因：翻盖铰链与卡扣为薄壁塑料件，疲劳寿命不足；吸管材质偏硬易折断。该痛点 16 条负面评论 (占比 22.2%)，平均 1.62 星",
+        "evidence_ids": [
+          "B01DUYNJL4-475",
+          "B01DUYNJL4-142",
+          "B01DUYNJL4-373",
+          "B01DUYNJL4-540",
+          "B01DUYNJL4-450",
+          "B01DUYNJL4-560"
+        ],
+        "confidence": 0.93,
+        "source": "heuristic"
+      },
+      {
+        "parameter": "base_diameter",
+        "current_state": "底部直径偏大（工程验证 required）",
+        "recommended_state": "锥形底部，最大直径收窄至标准杯架区间",
+        "pain_point": "Cup Holder Fit",
+        "reason": "根因：底部直径超出标准车载杯架规格（多数车规杯架为 7.3–8.6cm）。该痛点 13 条负面评论 (占比 18.1%)，平均 2.23 星",
+        "evidence_ids": [
+          "B01DUYNJL4-229",
+          "B01DUYNJL4-488",
+          "B01DUYNJL4-260",
+          "B01DUYNJL4-251",
+          "B01DUYNJL4-241",
+          "B01DUYNJL4-491"
+        ],
+        "confidence": 0.89,
+        "source": "heuristic"
+      },
+      {
+        "parameter": "base_grip",
+        "current_state": "平底",
+        "recommended_state": "防滑硅胶底环（增稳 + 减震）",
+        "pain_point": "Cup Holder Fit",
+        "reason": "根因：底部直径超出标准车载杯架规格（多数车规杯架为 7.3–8.6cm）。该痛点 13 条负面评论 (占比 18.1%)，平均 2.23 星",
+        "evidence_ids": [
+          "B01DUYNJL4-229",
+          "B01DUYNJL4-488",
+          "B01DUYNJL4-260",
+          "B01DUYNJL4-251",
+          "B01DUYNJL4-241",
+          "B01DUYNJL4-491"
+        ],
+        "confidence": 0.89,
+        "source": "heuristic"
+      },
+      {
+        "parameter": "compatibility_chart",
+        "current_state": "无型号对照表",
+        "recommended_state": "Listing 型号适配对照表 + 交互选择器",
+        "pain_point": "Parts & Compatibility",
+        "reason": "根因：配件型号矩阵信息不透明：型号/序列号对照缺失导致选错替换装；『通用』宣传与实际适配范围不符。该痛点 19 条负面评论 (占比 26.4%)，平均 1.63 星",
+        "evidence_ids": [
+          "B01DUYNJL4-438",
+          "B01DUYNJL4-433",
+          "B01DUYNJL4-24",
+          "B01DUYNJL4-487",
+          "B01DUYNJL4-394",
+          "B01DUYNJL4-120"
+        ],
+        "confidence": 0.95,
+        "source": "heuristic"
+      },
+      {
+        "parameter": "part_labeling",
+        "current_state": "配件无型号标识",
+        "recommended_state": "配件本体刻印型号/序列号",
+        "pain_point": "Parts & Compatibility",
+        "reason": "根因：配件型号矩阵信息不透明：型号/序列号对照缺失导致选错替换装；『通用』宣传与实际适配范围不符。该痛点 19 条负面评论 (占比 26.4%)，平均 1.63 星",
+        "evidence_ids": [
+          "B01DUYNJL4-438",
+          "B01DUYNJL4-433",
+          "B01DUYNJL4-24",
+          "B01DUYNJL4-487",
+          "B01DUYNJL4-394",
+          "B01DUYNJL4-120"
+        ],
+        "confidence": 0.95,
+        "source": "heuristic"
+      },
+      {
+        "parameter": "lid_seal",
+        "current_state": "单层硅胶密封圈",
+        "recommended_state": "双层硅胶密封 + 卡扣锁紧结构（工程验证 required）",
+        "pain_point": "Leakage",
+        "reason": "根因：杯盖密封结构不足：单层密封圈 + 螺纹公差偏大，倒置或晃动时压力变化导致渗漏。该痛点 24 条负面评论 (占比 33.3%)，平均 2.25 星",
+        "evidence_ids": [
+          "B01DUYNJL4-511",
+          "B01DUYNJL4-474",
+          "B01DUYNJL4-79",
+          "B01DUYNJL4-407",
+          "B01DUYNJL4-331",
+          "B01DUYNJL4-193"
+        ],
+        "confidence": 0.95,
+        "source": "heuristic"
+      },
+      {
+        "parameter": "straw_valve",
+        "current_state": "直通式吸管孔",
+        "recommended_state": "增加单向止逆阀（防倒吸渗漏）",
+        "pain_point": "Leakage",
+        "reason": "根因：杯盖密封结构不足：单层密封圈 + 螺纹公差偏大，倒置或晃动时压力变化导致渗漏。该痛点 24 条负面评论 (占比 33.3%)，平均 2.25 星",
+        "evidence_ids": [
+          "B01DUYNJL4-511",
+          "B01DUYNJL4-474",
+          "B01DUYNJL4-79",
+          "B01DUYNJL4-407",
+          "B01DUYNJL4-331",
+          "B01DUYNJL4-193"
+        ],
+        "confidence": 0.95,
+        "source": "heuristic"
+      }
+    ],
+    "selling_points": [
+      "彻底解决杯盖/吸管机构故障：加强筋铰链 + 开合寿命测试（依据 16 条真实差评）",
+      "彻底解决杯架不匹配：锥形底部，最大直径收窄至标准杯架区间（依据 13 条真实差评）",
+      "彻底解决配件/型号兼容问题：Listing 型号适配对照表 + 交互选择器（依据 19 条真实差评）",
+      "彻底解决漏水 / 密封失效：双层硅胶密封 + 卡扣锁紧结构（依据 24 条真实差评）"
+    ],
+    "before_after_profile": {
+      "metrics": [
+        "杯盖/吸管机构故障",
+        "杯架不匹配",
+        "配件/型号兼容问题",
+        "漏水 / 密封失效"
+      ],
+      "v1": [
+        38.0,
+        40.7,
+        51.4,
+        65.5
+      ],
+      "v2": [
+        92.4,
+        91.7,
+        93.8,
+        94.8
+      ]
+    }
+  },
+  "listing": {
+    "title": "Listerine V2 – reinforced lid hinge & flexible straw, tapered cup-holder-ready base | Redesigned from Real Customer Reviews",
+    "bullets": [
+      "[SOLVED: Lid/Straw Issues] Upgraded to reinforced lid hinge & flexible straw — based on 16 real reviews (16 verifiable evidence quotes), avg 1.62 -> target 4.5+",
+      "[SOLVED: Cup Holder Fit] Upgraded to tapered cup-holder-ready base — based on 13 real reviews (13 verifiable evidence quotes), avg 2.23 -> target 4.5+",
+      "[SOLVED: Parts & Compatibility] Upgraded to a fully redesigned structure — based on 19 real reviews (19 verifiable evidence quotes), avg 1.63 -> target 4.5+",
+      "[SOLVED: Leakage] Upgraded to dual-seal leak-proof lid — based on 24 real reviews (24 verifiable evidence quotes), avg 2.25 -> target 4.5+"
+    ],
+    "faq": [
+      {
+        "q": "Customers reported 'Lid/Straw Issues' on V1 — is it fixed?",
+        "a": "Yes. V2 addresses it with reinforced lid hinge & flexible straw (engineering validation required)."
+      },
+      {
+        "q": "Does it fit a standard car cup holder?",
+        "a": "V2 features a tapered base within standard cup-holder diameter range (see spec chart)."
+      },
+      {
+        "q": "Customers reported 'Parts & Compatibility' on V1 — is it fixed?",
+        "a": "Yes. V2 addresses it with a fully redesigned structure (engineering validation required)."
+      },
+      {
+        "q": "Will it leak in my bag?",
+        "a": "No. V2 adopts a dual seal + lock lid structure (engineering validation required before mass production), specifically engineered against the #1 complaint from V1 reviews."
+      }
+    ],
+    "main_image_strategy": [
+      "主图1：白底产品主视觉（V2 双密封结构局部剖面光效）",
+      "场景图：针对「杯盖/吸管机构故障」的 Before/After 对比",
+      "主图4：车载杯架插入实拍 + 底径标注尺寸图",
+      "场景图：针对「配件/型号兼容问题」的 Before/After 对比",
+      "主图2：倒置摇晃测试 — 包内平放 24h 无渗漏（对比 V1 渗漏实录）"
+    ],
+    "marketing_message": "Every V2 upgrade is backed by real customer reviews — 72 negative voices turned into 8 engineering changes.",
+    "source": "heuristic"
+  }
+}

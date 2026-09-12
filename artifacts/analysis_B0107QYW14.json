@@ -1,0 +1,322 @@
+{
+  "product_id": "B0107QYW14",
+  "product_title": "Harlorki Women's Bohemian Jewelry Statement Necklaces Women Rhinestone Gem Pendant Collar",
+  "category": "All_Beauty",
+  "data_source": "amazon_reviews_2023",
+  "generated_at": "2026-08-17T16:42:32",
+  "llm_mode": "mock",
+  "stats": {
+    "total_reviews": 952,
+    "negative_reviews": 291,
+    "avg_rating": 3.91,
+    "rating_distribution": {
+      "1": 110,
+      "2": 64,
+      "3": 117,
+      "4": 170,
+      "5": 491
+    },
+    "date_range": [
+      "1441074078",
+      "1638680567"
+    ],
+    "cluster_method": "tfidf_kmeans",
+    "n_clusters_raw": 6
+  },
+  "pain_points": [
+    {
+      "name": "Look & Feel vs Photos",
+      "display_name": "质感廉价/与图片不符",
+      "label_source": "lexicon_terms",
+      "cluster_ids": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "review_count": 273,
+      "total_negative": 291,
+      "share": 0.9381,
+      "avg_rating": 2.05,
+      "keywords": [
+        "cheap",
+        "stars",
+        "necklace",
+        "picture",
+        "like",
+        "looks",
+        "color",
+        "star",
+        "looks cheap",
+        "cheap looking",
+        "cheaply made",
+        "looks nothing like"
+      ],
+      "frequency": 0.9381,
+      "severity": 0.7375,
+      "helpfulness": 1.0,
+      "recency": 0.5,
+      "pain_score": 100.0,
+      "score_components": {
+        "frequency": 0.938,
+        "severity": 0.738,
+        "helpfulness": 1.0,
+        "recency": 0.5
+      },
+      "cluster_id": 0,
+      "evidence_review_ids": [
+        "B0107QYW14-691",
+        "B0107QYW14-508",
+        "B0107QYW14-1006",
+        "B0107QYW14-732",
+        "B0107QYW14-634",
+        "B0107QYW14-912",
+        "B0107QYW14-269",
+        "B0107QYW14-625",
+        "B0107QYW14-474",
+        "B0107QYW14-1077",
+        "B0107QYW14-285",
+        "B0107QYW14-402",
+        "B0107QYW14-703",
+        "B0107QYW14-263",
+        "B0107QYW14-651",
+        "B0107QYW14-217",
+        "B0107QYW14-1057",
+        "B0107QYW14-470",
+        "B0107QYW14-845",
+        "B0107QYW14-113",
+        "B0107QYW14-435",
+        "B0107QYW14-1108",
+        "B0107QYW14-1068",
+        "B0107QYW14-459",
+        "B0107QYW14-895",
+        "B0107QYW14-673",
+        "B0107QYW14-603",
+        "B0107QYW14-525",
+        "B0107QYW14-27",
+        "B0107QYW14-597",
+        "B0107QYW14-951",
+        "B0107QYW14-889",
+        "B0107QYW14-605",
+        "B0107QYW14-923",
+        "B0107QYW14-883",
+        "B0107QYW14-1056",
+        "B0107QYW14-213",
+        "B0107QYW14-974",
+        "B0107QYW14-224",
+        "B0107QYW14-40",
+        "B0107QYW14-772",
+        "B0107QYW14-352",
+        "B0107QYW14-266",
+        "B0107QYW14-115",
+        "B0107QYW14-697",
+        "B0107QYW14-464",
+        "B0107QYW14-423",
+        "B0107QYW14-576",
+        "B0107QYW14-935",
+        "B0107QYW14-873"
+      ],
+      "representative_review_ids": [
+        "B0107QYW14-508",
+        "B0107QYW14-691",
+        "B0107QYW14-1006"
+      ],
+      "evidence_status": "ok"
+    },
+    {
+      "name": "Shade Mismatch",
+      "display_name": "色号/颜色与图片不符",
+      "label_source": "lexicon",
+      "cluster_ids": [
+        5
+      ],
+      "review_count": 18,
+      "total_negative": 291,
+      "share": 0.0619,
+      "avg_rating": 1.56,
+      "keywords": [
+        "quality",
+        "poor",
+        "necklace",
+        "stars",
+        "star",
+        "don't",
+        "stone",
+        "looks",
+        "shade",
+        "color",
+        "colour",
+        "tone"
+      ],
+      "frequency": 0.0619,
+      "severity": 0.86,
+      "helpfulness": 0.3,
+      "recency": 1.0,
+      "pain_score": 4.6,
+      "score_components": {
+        "frequency": 0.062,
+        "severity": 0.86,
+        "helpfulness": 0.3,
+        "recency": 1.0
+      },
+      "cluster_id": 5,
+      "evidence_review_ids": [
+        "B0107QYW14-754",
+        "B0107QYW14-774",
+        "B0107QYW14-332",
+        "B0107QYW14-647",
+        "B0107QYW14-1081",
+        "B0107QYW14-8",
+        "B0107QYW14-928",
+        "B0107QYW14-369",
+        "B0107QYW14-146",
+        "B0107QYW14-572",
+        "B0107QYW14-528",
+        "B0107QYW14-1061",
+        "B0107QYW14-77",
+        "B0107QYW14-46",
+        "B0107QYW14-848",
+        "B0107QYW14-131",
+        "B0107QYW14-376",
+        "B0107QYW14-121"
+      ],
+      "representative_review_ids": [
+        "B0107QYW14-332",
+        "B0107QYW14-754",
+        "B0107QYW14-774"
+      ],
+      "evidence_status": "ok"
+    }
+  ],
+  "root_causes": {
+    "Look & Feel vs Photos": {
+      "pain_point": "Look & Feel vs Photos",
+      "root_cause": "Listing 视觉呈现与实物存在落差：拍摄打光/滤镜拉高预期，材质工艺实际为低成本方案",
+      "affected_scenario": "开箱首览 / 线上选购决策",
+      "affected_users": "新客（直接影响退货率）",
+      "severity": 0.7375,
+      "evidence_ids": [
+        "B0107QYW14-691",
+        "B0107QYW14-508",
+        "B0107QYW14-1006",
+        "B0107QYW14-732",
+        "B0107QYW14-634"
+      ],
+      "source": "heuristic"
+    },
+    "Shade Mismatch": {
+      "pain_point": "Shade Mismatch",
+      "root_cause": "Listing 图片过度调色 / 未提供多肤色试色参考",
+      "affected_scenario": "线上选购决策",
+      "affected_users": "新客（直接影响退货率）",
+      "severity": 0.86,
+      "evidence_ids": [
+        "B0107QYW14-754",
+        "B0107QYW14-774",
+        "B0107QYW14-332",
+        "B0107QYW14-647",
+        "B0107QYW14-1081"
+      ],
+      "source": "heuristic"
+    }
+  },
+  "product_v2": {
+    "positioning": "针对 V1 差评中 Top 痛点（质感廉价/与图片不符、色号/颜色与图片不符）全面重构的 V2 版本：以真实评论证据驱动参数级改进，主打「痛点清零 + 可验证升级」，面向高频通勤/户外场景用户，用 Evidence 营销建立信任壁垒。",
+    "parameters": [
+      {
+        "parameter": "listing_fidelity",
+        "current_state": "精修渲染图",
+        "recommended_state": "实物无滤镜图 + 材质特写",
+        "pain_point": "Look & Feel vs Photos",
+        "reason": "根因：Listing 视觉呈现与实物存在落差：拍摄打光/滤镜拉高预期，材质工艺实际为低成本方案。该痛点 273 条负面评论 (占比 93.8%)，平均 2.05 星",
+        "evidence_ids": [
+          "B0107QYW14-691",
+          "B0107QYW14-508",
+          "B0107QYW14-1006",
+          "B0107QYW14-732",
+          "B0107QYW14-634",
+          "B0107QYW14-912"
+        ],
+        "confidence": 0.95,
+        "source": "heuristic"
+      },
+      {
+        "parameter": "finish_quality",
+        "current_state": "低成本表面处理",
+        "recommended_state": "升级表面工艺（电镀/磨砂/阳极）",
+        "pain_point": "Look & Feel vs Photos",
+        "reason": "根因：Listing 视觉呈现与实物存在落差：拍摄打光/滤镜拉高预期，材质工艺实际为低成本方案。该痛点 273 条负面评论 (占比 93.8%)，平均 2.05 星",
+        "evidence_ids": [
+          "B0107QYW14-691",
+          "B0107QYW14-508",
+          "B0107QYW14-1006",
+          "B0107QYW14-732",
+          "B0107QYW14-634",
+          "B0107QYW14-912"
+        ],
+        "confidence": 0.95,
+        "source": "heuristic"
+      },
+      {
+        "parameter": "listing_accuracy",
+        "current_state": "单图单角度展示",
+        "recommended_state": "多肤色试色图 + 自然光实拍 + 色卡对照",
+        "pain_point": "Shade Mismatch",
+        "reason": "根因：Listing 图片过度调色 / 未提供多肤色试色参考。该痛点 18 条负面评论 (占比 6.2%)，平均 1.56 星",
+        "evidence_ids": [
+          "B0107QYW14-754",
+          "B0107QYW14-774",
+          "B0107QYW14-332",
+          "B0107QYW14-647",
+          "B0107QYW14-1081",
+          "B0107QYW14-8"
+        ],
+        "confidence": 0.8,
+        "source": "heuristic"
+      }
+    ],
+    "selling_points": [
+      "彻底解决质感廉价/与图片不符：实物无滤镜图 + 材质特写（依据 273 条真实差评）",
+      "彻底解决色号/颜色与图片不符：多肤色试色图 + 自然光实拍 + 色卡对照（依据 18 条真实差评）"
+    ],
+    "before_after_profile": {
+      "metrics": [
+        "质感廉价/与图片不符",
+        "色号/颜色与图片不符"
+      ],
+      "v1": [
+        38.0,
+        95.0
+      ],
+      "v2": [
+        92.9,
+        96.7
+      ]
+    }
+  },
+  "listing": {
+    "title": "Harlorki V2 – upgraded core design, true-tone multi-skin-tone swatches | Redesigned from Real Customer Reviews",
+    "bullets": [
+      "[SOLVED: Look & Feel vs Photos] Upgraded to a fully redesigned structure — based on 273 real reviews (50 verifiable evidence quotes), avg 2.05 -> target 4.5+",
+      "[SOLVED: Shade Mismatch] Upgraded to true-tone multi-skin-tone swatches — based on 18 real reviews (18 verifiable evidence quotes), avg 1.56 -> target 4.5+"
+    ],
+    "faq": [
+      {
+        "q": "Customers reported 'Look & Feel vs Photos' on V1 — is it fixed?",
+        "a": "Yes. V2 addresses it with a fully redesigned structure (engineering validation required)."
+      },
+      {
+        "q": "Customers reported 'Shade Mismatch' on V1 — is it fixed?",
+        "a": "Yes. V2 addresses it with true-tone multi-skin-tone swatches (engineering validation required)."
+      }
+    ],
+    "main_image_strategy": [
+      "主图1：白底产品主视觉（V2 双密封结构局部剖面光效）",
+      "场景图：针对「质感廉价/与图片不符」的 Before/After 对比",
+      "场景图：针对「色号/颜色与图片不符」的 Before/After 对比"
+    ],
+    "marketing_message": "Every V2 upgrade is backed by real customer reviews — 291 negative voices turned into 3 engineering changes.",
+    "source": "heuristic"
+  }
+}

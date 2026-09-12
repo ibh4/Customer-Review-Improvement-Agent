@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+node_modules/
+frontend/dist/
+.pytest_cache/
+.tmp/
+
+# 大体积原始数据不入库；仅保留 9.8MB 抽样缓存 + 2.5MB 清洗产物，保证开箱秒启动
+data/raw/*
+!data/raw/amazon_all_beauty_subset.jsonl
+
+models/*.joblib

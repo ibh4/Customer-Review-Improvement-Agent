@@ -1,0 +1,472 @@
+{
+  "product_id": "B074KD4PX2",
+  "product_title": "Electric Portable Bidet",
+  "category": "All_Beauty",
+  "data_source": "amazon_reviews_2023",
+  "generated_at": "2026-08-17T16:42:42",
+  "llm_mode": "mock",
+  "stats": {
+    "total_reviews": 750,
+    "negative_reviews": 226,
+    "avg_rating": 3.85,
+    "rating_distribution": {
+      "1": 134,
+      "2": 43,
+      "3": 49,
+      "4": 97,
+      "5": 427
+    },
+    "date_range": [
+      "1504640483",
+      "1662573014"
+    ],
+    "cluster_method": "tfidf_kmeans",
+    "n_clusters_raw": 6
+  },
+  "pain_points": [
+    {
+      "name": "Functional Failure",
+      "display_name": "功能失效 / 无法工作",
+      "label_source": "lexicon_terms",
+      "cluster_ids": [
+        1,
+        2,
+        3
+      ],
+      "review_count": 115,
+      "total_negative": 226,
+      "share": 0.5088,
+      "avg_rating": 1.41,
+      "keywords": [
+        "working",
+        "stopped",
+        "used",
+        "times",
+        "just",
+        "months",
+        "worked",
+        "drill",
+        "stopped working",
+        "stopped spraying",
+        "quit working",
+        "quit spraying"
+      ],
+      "frequency": 0.5088,
+      "severity": 0.8975,
+      "helpfulness": 0.5099,
+      "recency": 1.0,
+      "pain_score": 100.0,
+      "score_components": {
+        "frequency": 0.509,
+        "severity": 0.897,
+        "helpfulness": 0.51,
+        "recency": 1.0
+      },
+      "cluster_id": 1,
+      "evidence_review_ids": [
+        "B074KD4PX2-765",
+        "B074KD4PX2-432",
+        "B074KD4PX2-655",
+        "B074KD4PX2-422",
+        "B074KD4PX2-374",
+        "B074KD4PX2-734",
+        "B074KD4PX2-634",
+        "B074KD4PX2-536",
+        "B074KD4PX2-138",
+        "B074KD4PX2-320",
+        "B074KD4PX2-330",
+        "B074KD4PX2-279",
+        "B074KD4PX2-406",
+        "B074KD4PX2-64",
+        "B074KD4PX2-294",
+        "B074KD4PX2-148",
+        "B074KD4PX2-156",
+        "B074KD4PX2-667",
+        "B074KD4PX2-474",
+        "B074KD4PX2-770",
+        "B074KD4PX2-669",
+        "B074KD4PX2-774",
+        "B074KD4PX2-747",
+        "B074KD4PX2-544",
+        "B074KD4PX2-683",
+        "B074KD4PX2-390",
+        "B074KD4PX2-682",
+        "B074KD4PX2-460",
+        "B074KD4PX2-600",
+        "B074KD4PX2-730",
+        "B074KD4PX2-545",
+        "B074KD4PX2-646",
+        "B074KD4PX2-327",
+        "B074KD4PX2-620",
+        "B074KD4PX2-194",
+        "B074KD4PX2-271",
+        "B074KD4PX2-568",
+        "B074KD4PX2-641",
+        "B074KD4PX2-454",
+        "B074KD4PX2-551",
+        "B074KD4PX2-653",
+        "B074KD4PX2-651",
+        "B074KD4PX2-565",
+        "B074KD4PX2-709",
+        "B074KD4PX2-409",
+        "B074KD4PX2-311",
+        "B074KD4PX2-68",
+        "B074KD4PX2-645",
+        "B074KD4PX2-461",
+        "B074KD4PX2-512"
+      ],
+      "representative_review_ids": [
+        "B074KD4PX2-432",
+        "B074KD4PX2-655",
+        "B074KD4PX2-765"
+      ],
+      "evidence_status": "ok"
+    },
+    {
+      "name": "Value & Price",
+      "display_name": "性价比质疑",
+      "label_source": "lexicon",
+      "cluster_ids": [
+        5
+      ],
+      "review_count": 14,
+      "total_negative": 226,
+      "share": 0.0619,
+      "avg_rating": 1.0,
+      "keywords": [
+        "money",
+        "waste",
+        "nails",
+        "don't",
+        "used",
+        "stopped",
+        "work",
+        "time",
+        "price",
+        "expensive",
+        "overpriced",
+        "worth it"
+      ],
+      "frequency": 0.0619,
+      "severity": 1.0,
+      "helpfulness": 1.0,
+      "recency": 0.8781,
+      "pain_score": 23.4,
+      "score_components": {
+        "frequency": 0.062,
+        "severity": 1.0,
+        "helpfulness": 1.0,
+        "recency": 0.878
+      },
+      "cluster_id": 5,
+      "evidence_review_ids": [
+        "B074KD4PX2-507",
+        "B074KD4PX2-3",
+        "B074KD4PX2-230",
+        "B074KD4PX2-601",
+        "B074KD4PX2-419",
+        "B074KD4PX2-713",
+        "B074KD4PX2-448",
+        "B074KD4PX2-628",
+        "B074KD4PX2-382",
+        "B074KD4PX2-505",
+        "B074KD4PX2-14",
+        "B074KD4PX2-91",
+        "B074KD4PX2-638",
+        "B074KD4PX2-516"
+      ],
+      "representative_review_ids": [
+        "B074KD4PX2-3",
+        "B074KD4PX2-230",
+        "B074KD4PX2-507"
+      ],
+      "evidence_status": "ok"
+    },
+    {
+      "name": "Power & Battery",
+      "display_name": "动力/续航不足",
+      "label_source": "lexicon",
+      "cluster_ids": [
+        0,
+        4
+      ],
+      "review_count": 97,
+      "total_negative": 226,
+      "share": 0.4292,
+      "avg_rating": 1.97,
+      "keywords": [
+        "drill",
+        "nails",
+        "nail",
+        "power",
+        "just",
+        "good",
+        "hard",
+        "bits",
+        "powerful",
+        "weak",
+        "battery",
+        "batteries"
+      ],
+      "frequency": 0.4292,
+      "severity": 0.7575,
+      "helpfulness": 0.3,
+      "recency": 0.5,
+      "pain_score": 20.9,
+      "score_components": {
+        "frequency": 0.429,
+        "severity": 0.758,
+        "helpfulness": 0.3,
+        "recency": 0.5
+      },
+      "cluster_id": 0,
+      "evidence_review_ids": [
+        "B074KD4PX2-514",
+        "B074KD4PX2-501",
+        "B074KD4PX2-496",
+        "B074KD4PX2-675",
+        "B074KD4PX2-532",
+        "B074KD4PX2-470",
+        "B074KD4PX2-392",
+        "B074KD4PX2-326",
+        "B074KD4PX2-499",
+        "B074KD4PX2-291",
+        "B074KD4PX2-308",
+        "B074KD4PX2-407",
+        "B074KD4PX2-404",
+        "B074KD4PX2-90",
+        "B074KD4PX2-322",
+        "B074KD4PX2-295",
+        "B074KD4PX2-275",
+        "B074KD4PX2-608",
+        "B074KD4PX2-475",
+        "B074KD4PX2-457",
+        "B074KD4PX2-360",
+        "B074KD4PX2-0",
+        "B074KD4PX2-139",
+        "B074KD4PX2-521",
+        "B074KD4PX2-76",
+        "B074KD4PX2-729",
+        "B074KD4PX2-416",
+        "B074KD4PX2-350",
+        "B074KD4PX2-260",
+        "B074KD4PX2-98",
+        "B074KD4PX2-722",
+        "B074KD4PX2-65",
+        "B074KD4PX2-178",
+        "B074KD4PX2-77",
+        "B074KD4PX2-192",
+        "B074KD4PX2-744",
+        "B074KD4PX2-398",
+        "B074KD4PX2-485",
+        "B074KD4PX2-272",
+        "B074KD4PX2-302",
+        "B074KD4PX2-468",
+        "B074KD4PX2-340",
+        "B074KD4PX2-598",
+        "B074KD4PX2-710",
+        "B074KD4PX2-674",
+        "B074KD4PX2-130",
+        "B074KD4PX2-524",
+        "B074KD4PX2-483",
+        "B074KD4PX2-115",
+        "B074KD4PX2-678"
+      ],
+      "representative_review_ids": [
+        "B074KD4PX2-496",
+        "B074KD4PX2-501",
+        "B074KD4PX2-514"
+      ],
+      "evidence_status": "ok"
+    }
+  ],
+  "root_causes": {
+    "Functional Failure": {
+      "pain_point": "Functional Failure",
+      "root_cause": "核心机构（泵芯/电机/联动结构）可靠性不足：缺乏出厂寿命测试与批次抽检",
+      "affected_scenario": "正常使用数天至数月后失效",
+      "affected_users": "所有用户（直接导致退货与差评）",
+      "severity": 0.8975,
+      "evidence_ids": [
+        "B074KD4PX2-765",
+        "B074KD4PX2-432",
+        "B074KD4PX2-655",
+        "B074KD4PX2-422",
+        "B074KD4PX2-374"
+      ],
+      "source": "heuristic"
+    },
+    "Value & Price": {
+      "pain_point": "Value & Price",
+      "root_cause": "价格带与感知质量错位：核心痛点（漏水/清洁）拉低价值感知",
+      "affected_scenario": "比价 / 复购决策",
+      "affected_users": "价格敏感型用户",
+      "severity": 1.0,
+      "evidence_ids": [
+        "B074KD4PX2-507",
+        "B074KD4PX2-3",
+        "B074KD4PX2-230",
+        "B074KD4PX2-601",
+        "B074KD4PX2-419"
+      ],
+      "source": "heuristic"
+    },
+    "Power & Battery": {
+      "pain_point": "Power & Battery",
+      "root_cause": "电机功率与电池容量定位偏低：为控制成本采用低功率方案，连续负载下动力衰减与续航缩水明显",
+      "affected_scenario": "连续使用 / 无线使用场景",
+      "affected_users": "高频无线使用人群",
+      "severity": 0.7575,
+      "evidence_ids": [
+        "B074KD4PX2-514",
+        "B074KD4PX2-501",
+        "B074KD4PX2-496",
+        "B074KD4PX2-675",
+        "B074KD4PX2-532"
+      ],
+      "source": "heuristic"
+    }
+  },
+  "product_v2": {
+    "positioning": "针对 V1 差评中 Top 痛点（功能失效 / 无法工作、性价比质疑、动力/续航不足）全面重构的 V2 版本：以真实评论证据驱动参数级改进，主打「痛点清零 + 可验证升级」，面向高频通勤/户外场景用户，用 Evidence 营销建立信任壁垒。",
+    "parameters": [
+      {
+        "parameter": "mechanism_reliability",
+        "current_state": "泵芯/机构无寿命强化设计",
+        "recommended_state": "加强机构寿命设计与开合疲劳测试（engineering validation required）",
+        "pain_point": "Functional Failure",
+        "reason": "根因：核心机构（泵芯/电机/联动结构）可靠性不足：缺乏出厂寿命测试与批次抽检。该痛点 115 条负面评论 (占比 50.9%)，平均 1.41 星",
+        "evidence_ids": [
+          "B074KD4PX2-765",
+          "B074KD4PX2-432",
+          "B074KD4PX2-655",
+          "B074KD4PX2-422",
+          "B074KD4PX2-374",
+          "B074KD4PX2-734"
+        ],
+        "confidence": 0.95,
+        "source": "heuristic"
+      },
+      {
+        "parameter": "qc_sampling",
+        "current_state": "无功能全检/抽检标准",
+        "recommended_state": "出厂功能全检 + 批次抽检可靠性测试",
+        "pain_point": "Functional Failure",
+        "reason": "根因：核心机构（泵芯/电机/联动结构）可靠性不足：缺乏出厂寿命测试与批次抽检。该痛点 115 条负面评论 (占比 50.9%)，平均 1.41 星",
+        "evidence_ids": [
+          "B074KD4PX2-765",
+          "B074KD4PX2-432",
+          "B074KD4PX2-655",
+          "B074KD4PX2-422",
+          "B074KD4PX2-374",
+          "B074KD4PX2-734"
+        ],
+        "confidence": 0.95,
+        "source": "heuristic"
+      },
+      {
+        "parameter": "cost_engineering",
+        "current_state": "定价高于同类且痛点未解决",
+        "recommended_state": "优先解决 Top 痛点以支撑价格带；推出以旧换新留存策略",
+        "pain_point": "Value & Price",
+        "reason": "根因：价格带与感知质量错位：核心痛点（漏水/清洁）拉低价值感知。该痛点 14 条负面评论 (占比 6.2%)，平均 1.0 星",
+        "evidence_ids": [
+          "B074KD4PX2-507",
+          "B074KD4PX2-3",
+          "B074KD4PX2-230",
+          "B074KD4PX2-601",
+          "B074KD4PX2-419",
+          "B074KD4PX2-713"
+        ],
+        "confidence": 0.8,
+        "source": "heuristic"
+      },
+      {
+        "parameter": "motor_power",
+        "current_state": "低功率电机",
+        "recommended_state": "升级功率档位 + 负载测试（工程验证 required）",
+        "pain_point": "Power & Battery",
+        "reason": "根因：电机功率与电池容量定位偏低：为控制成本采用低功率方案，连续负载下动力衰减与续航缩水明显。该痛点 97 条负面评论 (占比 42.9%)，平均 1.97 星",
+        "evidence_ids": [
+          "B074KD4PX2-514",
+          "B074KD4PX2-501",
+          "B074KD4PX2-496",
+          "B074KD4PX2-675",
+          "B074KD4PX2-532",
+          "B074KD4PX2-470"
+        ],
+        "confidence": 0.95,
+        "source": "heuristic"
+      },
+      {
+        "parameter": "battery_capacity",
+        "current_state": "小容量电池",
+        "recommended_state": "大容量电芯 + 低电量提醒",
+        "pain_point": "Power & Battery",
+        "reason": "根因：电机功率与电池容量定位偏低：为控制成本采用低功率方案，连续负载下动力衰减与续航缩水明显。该痛点 97 条负面评论 (占比 42.9%)，平均 1.97 星",
+        "evidence_ids": [
+          "B074KD4PX2-514",
+          "B074KD4PX2-501",
+          "B074KD4PX2-496",
+          "B074KD4PX2-675",
+          "B074KD4PX2-532",
+          "B074KD4PX2-470"
+        ],
+        "confidence": 0.95,
+        "source": "heuristic"
+      }
+    ],
+    "selling_points": [
+      "彻底解决功能失效 / 无法工作：加强机构寿命设计与开合疲劳测试（依据 115 条真实差评）",
+      "彻底解决性价比质疑：优先解决 Top 痛点以支撑价格带；推出以旧换新留存策略（依据 14 条真实差评）",
+      "彻底解决动力/续航不足：升级功率档位 + 负载测试（依据 97 条真实差评）"
+    ],
+    "before_after_profile": {
+      "metrics": [
+        "功能失效 / 无法工作",
+        "性价比质疑",
+        "动力/续航不足"
+      ],
+      "v1": [
+        38.0,
+        85.5,
+        87.0
+      ],
+      "v2": [
+        92.9,
+        95.5,
+        96.3
+      ]
+    }
+  },
+  "listing": {
+    "title": "Electric V2 – factory-tested long-life mechanism, upgrades that justify every cent, upgraded core design | Redesigned from Real Customer Reviews",
+    "bullets": [
+      "[SOLVED: Stops Working] Upgraded to factory-tested long-life mechanism — based on 115 real reviews (50 verifiable evidence quotes), avg 1.41 -> target 4.5+",
+      "[SOLVED: Value Concerns] Upgraded to upgrades that justify every cent — based on 14 real reviews (14 verifiable evidence quotes), avg 1.0 -> target 4.5+",
+      "[SOLVED: Power & Battery] Upgraded to a fully redesigned structure — based on 97 real reviews (50 verifiable evidence quotes), avg 1.97 -> target 4.5+"
+    ],
+    "faq": [
+      {
+        "q": "Customers reported 'Stops Working' on V1 — is it fixed?",
+        "a": "Yes. V2 addresses it with factory-tested long-life mechanism (engineering validation required)."
+      },
+      {
+        "q": "Customers reported 'Value Concerns' on V1 — is it fixed?",
+        "a": "Yes. V2 addresses it with upgrades that justify every cent (engineering validation required)."
+      },
+      {
+        "q": "Customers reported 'Power & Battery' on V1 — is it fixed?",
+        "a": "Yes. V2 addresses it with a fully redesigned structure (engineering validation required)."
+      }
+    ],
+    "main_image_strategy": [
+      "主图1：白底产品主视觉（V2 双密封结构局部剖面光效）",
+      "场景图：针对「功能失效 / 无法工作」的 Before/After 对比",
+      "场景图：针对「性价比质疑」的 Before/After 对比",
+      "场景图：针对「动力/续航不足」的 Before/After 对比"
+    ],
+    "marketing_message": "Every V2 upgrade is backed by real customer reviews — 226 negative voices turned into 5 engineering changes.",
+    "source": "heuristic"
+  }
+}

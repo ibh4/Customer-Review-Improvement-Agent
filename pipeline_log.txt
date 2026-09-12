@@ -1,0 +1,47 @@
+﻿.venv\Scripts\python.exe : 2026-08-17 00:16:22,447 r2p.downloader INFO 开始下载 Amazon Reviews 2023 / All_Beauty（公开镜像 https
+://hf-mirror.com）...
+At line:15 char:4454
++ ... pgrep\bin'; .venv\Scripts\python.exe scripts\run_pipeline.py --force  ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (2026-08-17 00:1...-mirror.com）...:String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+2026-08-17 00:16:23,984 httpx INFO HTTP Request: GET https://hf-mirror.com/datasets/McAuley-Lab/Amazon-Reviews-2023/res
+olve/main/raw/review_categories/All_Beauty.jsonl "HTTP/1.1 302 Found"
+2026-08-17 00:16:24,831 httpx INFO HTTP Request: GET https://us.aws.cdn.hf.co/xet-bridge-us/65af4645d0a5cc99d51642da/f5
+0b39f060392a72590fad8d3505d1c2512fe7b97606572c36cc4fa316fe8f3e?X-Xet-Cas-Uid=62171e3b6a99db28e0b3159d&response-content-
+disposition=inline%3B+filename*%3DUTF-8%27%27All_Beauty.jsonl%3B+filename%3D%22All_Beauty.jsonl%22%3B&user_id=62171e3b6
+a99db28e0b3159d&Expires=1786900583&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly91cy5hd3MuY2RuLmhmLmNvL3hldC1ic
+mlkZ2UtdXMvNjVhZjQ2NDVkMGE1Y2M5OWQ1MTY0MmRhL2Y1MGIzOWYwNjAzOTJhNzI1OTBmYWQ4ZDM1MDVkMWMyNTEyZmU3Yjk3NjA2NTcyYzM2Y2M0ZmEz
+MTZmZThmM2VcXD9YLVhldC1DYXMtVWlkPTYyMTcxZTNiNmE5OWRiMjhlMGIzMTU5ZCZyZXNwb25zZS1jb250ZW50LWRpc3Bvc2l0aW9uPWlubGluZSUzQit
+maWxlbmFtZSUyQSUzRFVURi04JTI3JTI3QWxsX0JlYXV0eS5qc29ubCUzQitmaWxlbmFtZSUzRCUyMkFsbF9CZWF1dHkuanNvbmwlMjIlM0ImdXNlcl9pZD
+02MjE3MWUzYjZhOTlkYjI4ZTBiMzE1OWQiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkVwb2NoVGltZSI6MTc4NjkwMDU4M319fV19&Signatur
+e=MEUCICFql3cWDeAifRZ-bFVBTU0EESU%7EL76rfAkA7Ea2hBaZAiEArGzW6sWpmGK7ny4ICADmzNafOerHByVXMXhmSUUoqg8_&Key-Pair-Id=01KXEF
+4KZ1B6FV465MAWR4M21F "HTTP/1.1 200 OK"
+2026-08-17 00:16:34,722 r2p.downloader INFO 评论文件下载完成：327 MB，用时 12s
+2026-08-17 00:16:38,798 r2p.downloader INFO Pass1 扫描 701528 行 / 115709 商品，用时 4s，Top1=B007IAE5WY(1962)
+2026-08-17 00:16:39,479 httpx INFO HTTP Request: GET https://hf-mirror.com/datasets/McAuley-Lab/Amazon-Reviews-2023/res
+olve/main/raw/meta_categories/meta_All_Beauty.jsonl "HTTP/1.1 302 Found"
+2026-08-17 00:16:40,311 httpx INFO HTTP Request: GET https://us.aws.cdn.hf.co/xet-bridge-us/65af4645d0a5cc99d51642da/93
+55543ba25b48036c886ee7a70e43063471def764504160585b993cf8d1195d?user_id=62171e3b6a99db28e0b3159d&X-Xet-Cas-Uid=62171e3b6
+a99db28e0b3159d&response-content-disposition=inline%3B+filename*%3DUTF-8%27%27meta_All_Beauty.jsonl%3B+filename%3D%22me
+ta_All_Beauty.jsonl%22%3B&Expires=1786900599&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly91cy5hd3MuY2RuLmhmLmN
+vL3hldC1icmlkZ2UtdXMvNjVhZjQ2NDVkMGE1Y2M5OWQ1MTY0MmRhLzkzNTU1NDNiYTI1YjQ4MDM2Yzg4NmVlN2E3MGU0MzA2MzQ3MWRlZjc2NDUwNDE2MD
+U4NWI5OTNjZjhkMTE5NWRcXD91c2VyX2lkPTYyMTcxZTNiNmE5OWRiMjhlMGIzMTU5ZCZYLVhldC1DYXMtVWlkPTYyMTcxZTNiNmE5OWRiMjhlMGIzMTU5Z
+CZyZXNwb25zZS1jb250ZW50LWRpc3Bvc2l0aW9uPWlubGluZSUzQitmaWxlbmFtZSUyQSUzRFVURi04JTI3JTI3bWV0YV9BbGxfQmVhdXR5Lmpzb25sJTNC
+K2ZpbGVuYW1lJTNEJTIybWV0YV9BbGxfQmVhdXR5Lmpzb25sJTIyJTNCIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJFcG9jaFRpbWUiOjE3ODY
+5MDA1OTl9fX1dfQ__&Signature=MEQCIBXiFDMWkhGVmDEok80IvKEuDUo7ZhT0janEkADtOmNxAiAENFtei5JGivI0JSnnCztKPgMvm9DHsBp9fp271xb
+k5g__&Key-Pair-Id=01KXEF4KZ1B6FV465MAWR4M21F "HTTP/1.1 200 OK"
+2026-08-17 00:16:48,566 r2p.downloader INFO meta 标题解析：79/100，用时 10s
+2026-08-17 00:16:52,601 r2p.downloader INFO All_Beauty 真实数据子集：19210 行 / 25 商品 -> I:\TRAE projects\AI+跨境黑客松巅峰赛\review2pr
+oduct\data\raw\amazon_all_beauty_subset.jsonl
+2026-08-17 00:16:52,944 r2p.preprocess INFO 清洗数据已缓存 -> I:\TRAE projects\AI+跨境黑客松巅峰赛\review2product\data\processed\revie
+ws_clean.parquet（18167 行）
+2026-08-17 00:16:52,944 r2p.pipeline INFO 数据源=amazon_reviews_2023 | Amazon Reviews 2023 (McAuley Lab, https://hf-mirror
+.com) / All_Beauty 品类，扫描 Top 商品并抽取 19210 行真实评论，标题价格来自官方 meta 流式解析
+2026-08-17 00:16:52,963 r2p.pipeline INFO Demo hero 商品：B07C533XCW
+2026-08-17 00:16:56,076 r2p.llm INFO LLM mode = mock (provider=mock, model=qwen3.8max)
+2026-08-17 00:16:56,079 r2p.analysis INFO 分析产物已保存 -> I:\TRAE projects\AI+跨境黑客松巅峰赛\review2product\artifacts\analysis_B07
+C533XCW.json（pain_points=2, params=4）
+2026-08-17 00:16:56,083 r2p.pipeline INFO Pipeline 完成：{"data_source": "amazon_reviews_2023", "reviews_total": 18167, "h
+ero_product_id": "B07C533XCW", "pain_points": 2, "elapsed_s": 33.6}

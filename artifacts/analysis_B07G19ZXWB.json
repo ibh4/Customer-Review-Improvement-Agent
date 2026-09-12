@@ -1,0 +1,314 @@
+{
+  "product_id": "B07G19ZXWB",
+  "product_title": "EmaxDesign Makeup Brushes 17 Pieces Premium Synthetic Foundation Brush Powder Blending Blush Concealer Eye Face Liquid Powder Cream Cosmetics Brushes Kit (Rose Gold)",
+  "category": "All_Beauty",
+  "data_source": "amazon_reviews_2023",
+  "generated_at": "2026-08-17T16:43:07",
+  "llm_mode": "mock",
+  "stats": {
+    "total_reviews": 511,
+    "negative_reviews": 59,
+    "avg_rating": 4.52,
+    "rating_distribution": {
+      "1": 17,
+      "2": 14,
+      "3": 28,
+      "4": 80,
+      "5": 372
+    },
+    "date_range": [
+      "1534866303",
+      "1671845822"
+    ],
+    "cluster_method": "tfidf_kmeans",
+    "n_clusters_raw": 4
+  },
+  "pain_points": [
+    {
+      "name": "Bristle & Comb Quality",
+      "display_name": "刷毛/梳齿不适",
+      "label_source": "lexicon",
+      "cluster_ids": [
+        0,
+        1,
+        2
+      ],
+      "review_count": 56,
+      "total_negative": 59,
+      "share": 0.9492,
+      "avg_rating": 2.14,
+      "keywords": [
+        "brushes",
+        "brush",
+        "good",
+        "soft",
+        "bristles",
+        "makeup",
+        "nice",
+        "price",
+        "bristle",
+        "shed",
+        "shedding",
+        "falling out"
+      ],
+      "frequency": 0.9492,
+      "severity": 0.715,
+      "helpfulness": 1.0,
+      "recency": 0.5,
+      "pain_score": 100.0,
+      "score_components": {
+        "frequency": 0.949,
+        "severity": 0.715,
+        "helpfulness": 1.0,
+        "recency": 0.5
+      },
+      "cluster_id": 0,
+      "evidence_review_ids": [
+        "B07G19ZXWB-531",
+        "B07G19ZXWB-536",
+        "B07G19ZXWB-566",
+        "B07G19ZXWB-244",
+        "B07G19ZXWB-472",
+        "B07G19ZXWB-506",
+        "B07G19ZXWB-55",
+        "B07G19ZXWB-314",
+        "B07G19ZXWB-285",
+        "B07G19ZXWB-395",
+        "B07G19ZXWB-217",
+        "B07G19ZXWB-117",
+        "B07G19ZXWB-165",
+        "B07G19ZXWB-558",
+        "B07G19ZXWB-61",
+        "B07G19ZXWB-439",
+        "B07G19ZXWB-16",
+        "B07G19ZXWB-281",
+        "B07G19ZXWB-33",
+        "B07G19ZXWB-491",
+        "B07G19ZXWB-444",
+        "B07G19ZXWB-560",
+        "B07G19ZXWB-194",
+        "B07G19ZXWB-297",
+        "B07G19ZXWB-24",
+        "B07G19ZXWB-57",
+        "B07G19ZXWB-129",
+        "B07G19ZXWB-3",
+        "B07G19ZXWB-21",
+        "B07G19ZXWB-403",
+        "B07G19ZXWB-301",
+        "B07G19ZXWB-364",
+        "B07G19ZXWB-268",
+        "B07G19ZXWB-58",
+        "B07G19ZXWB-86",
+        "B07G19ZXWB-518",
+        "B07G19ZXWB-499",
+        "B07G19ZXWB-426",
+        "B07G19ZXWB-51",
+        "B07G19ZXWB-111",
+        "B07G19ZXWB-109",
+        "B07G19ZXWB-139",
+        "B07G19ZXWB-145",
+        "B07G19ZXWB-23",
+        "B07G19ZXWB-537",
+        "B07G19ZXWB-191",
+        "B07G19ZXWB-527",
+        "B07G19ZXWB-53",
+        "B07G19ZXWB-529",
+        "B07G19ZXWB-251"
+      ],
+      "representative_review_ids": [
+        "B07G19ZXWB-531",
+        "B07G19ZXWB-536",
+        "B07G19ZXWB-566"
+      ],
+      "evidence_status": "ok"
+    },
+    {
+      "name": "Lid & Straw Mechanism",
+      "display_name": "杯盖/吸管机构故障",
+      "label_source": "lexicon",
+      "cluster_ids": [
+        3
+      ],
+      "review_count": 3,
+      "total_negative": 59,
+      "share": 0.0508,
+      "avg_rating": 3.0,
+      "keywords": [
+        "producto",
+        "bien",
+        "brochas",
+        "pero",
+        "malo",
+        "bueno",
+        "lleg",
+        "peque",
+        "straw",
+        "flip",
+        "hinge",
+        "spout"
+      ],
+      "frequency": 0.0508,
+      "severity": 0.5,
+      "helpfulness": 0.3,
+      "recency": 1.0,
+      "pain_score": 2.2,
+      "score_components": {
+        "frequency": 0.051,
+        "severity": 0.5,
+        "helpfulness": 0.3,
+        "recency": 1.0
+      },
+      "cluster_id": 3,
+      "evidence_review_ids": [
+        "B07G19ZXWB-482",
+        "B07G19ZXWB-247",
+        "B07G19ZXWB-490"
+      ],
+      "representative_review_ids": [
+        "B07G19ZXWB-247",
+        "B07G19ZXWB-482",
+        "B07G19ZXWB-490"
+      ],
+      "evidence_status": "ok"
+    }
+  ],
+  "root_causes": {
+    "Bristle & Comb Quality": {
+      "pain_point": "Bristle & Comb Quality",
+      "root_cause": "刷毛材质与植毛密度设计单一：过硬伤头皮、过软无梳理力，且植毛牢固度不足导致掉毛",
+      "affected_scenario": "日常梳发 / 湿发梳理 / 造型打底",
+      "affected_users": "敏感头皮 / 长发易打结人群",
+      "severity": 0.715,
+      "evidence_ids": [
+        "B07G19ZXWB-531",
+        "B07G19ZXWB-536",
+        "B07G19ZXWB-566",
+        "B07G19ZXWB-244",
+        "B07G19ZXWB-472"
+      ],
+      "source": "heuristic"
+    },
+    "Lid & Straw Mechanism": {
+      "pain_point": "Lid & Straw Mechanism",
+      "root_cause": "翻盖铰链与卡扣为薄壁塑料件，疲劳寿命不足；吸管材质偏硬易折断",
+      "affected_scenario": "单手开盖 / 吸管饮用",
+      "affected_users": "驾驶 / 运动人群",
+      "severity": 0.5,
+      "evidence_ids": [
+        "B07G19ZXWB-482",
+        "B07G19ZXWB-247",
+        "B07G19ZXWB-490"
+      ],
+      "source": "heuristic"
+    }
+  },
+  "product_v2": {
+    "positioning": "针对 V1 差评中 Top 痛点（刷毛/梳齿不适、杯盖/吸管机构故障）全面重构的 V2 版本：以真实评论证据驱动参数级改进，主打「痛点清零 + 可验证升级」，面向高频通勤/户外场景用户，用 Evidence 营销建立信任壁垒。",
+    "parameters": [
+      {
+        "parameter": "bristle_stiffness",
+        "current_state": "单一硬度刷毛",
+        "recommended_state": "软硬分区植毛 / 双面刷毛设计",
+        "pain_point": "Bristle & Comb Quality",
+        "reason": "根因：刷毛材质与植毛密度设计单一：过硬伤头皮、过软无梳理力，且植毛牢固度不足导致掉毛。该痛点 56 条负面评论 (占比 94.9%)，平均 2.14 星",
+        "evidence_ids": [
+          "B07G19ZXWB-531",
+          "B07G19ZXWB-536",
+          "B07G19ZXWB-566",
+          "B07G19ZXWB-244",
+          "B07G19ZXWB-472",
+          "B07G19ZXWB-506"
+        ],
+        "confidence": 0.95,
+        "source": "heuristic"
+      },
+      {
+        "parameter": "tufting_strength",
+        "current_state": "常规植毛胶工艺",
+        "recommended_state": "加强植毛工艺 + 出厂拉力测试标准",
+        "pain_point": "Bristle & Comb Quality",
+        "reason": "根因：刷毛材质与植毛密度设计单一：过硬伤头皮、过软无梳理力，且植毛牢固度不足导致掉毛。该痛点 56 条负面评论 (占比 94.9%)，平均 2.14 星",
+        "evidence_ids": [
+          "B07G19ZXWB-531",
+          "B07G19ZXWB-536",
+          "B07G19ZXWB-566",
+          "B07G19ZXWB-244",
+          "B07G19ZXWB-472",
+          "B07G19ZXWB-506"
+        ],
+        "confidence": 0.95,
+        "source": "heuristic"
+      },
+      {
+        "parameter": "hinge_durability",
+        "current_state": "薄壁一体铰链",
+        "recommended_state": "加强筋铰链 + 开合寿命测试（工程验证 required）",
+        "pain_point": "Lid & Straw Mechanism",
+        "reason": "根因：翻盖铰链与卡扣为薄壁塑料件，疲劳寿命不足；吸管材质偏硬易折断。该痛点 3 条负面评论 (占比 5.1%)，平均 3.0 星",
+        "evidence_ids": [
+          "B07G19ZXWB-482",
+          "B07G19ZXWB-247",
+          "B07G19ZXWB-490"
+        ],
+        "confidence": 0.57,
+        "source": "heuristic"
+      },
+      {
+        "parameter": "straw_material",
+        "current_state": "普通 PP 吸管",
+        "recommended_state": "柔性食品级 TPE 吸管 + 备用配件",
+        "pain_point": "Lid & Straw Mechanism",
+        "reason": "根因：翻盖铰链与卡扣为薄壁塑料件，疲劳寿命不足；吸管材质偏硬易折断。该痛点 3 条负面评论 (占比 5.1%)，平均 3.0 星",
+        "evidence_ids": [
+          "B07G19ZXWB-482",
+          "B07G19ZXWB-247",
+          "B07G19ZXWB-490"
+        ],
+        "confidence": 0.57,
+        "source": "heuristic"
+      }
+    ],
+    "selling_points": [
+      "彻底解决刷毛/梳齿不适：软硬分区植毛 / 双面刷毛设计（依据 56 条真实差评）",
+      "彻底解决杯盖/吸管机构故障：加强筋铰链 + 开合寿命测试（依据 3 条真实差评）"
+    ],
+    "before_after_profile": {
+      "metrics": [
+        "刷毛/梳齿不适",
+        "杯盖/吸管机构故障"
+      ],
+      "v1": [
+        38.0,
+        95.0
+      ],
+      "v2": [
+        92.9,
+        96.6
+      ]
+    }
+  },
+  "listing": {
+    "title": "EmaxDesign V2 – upgraded core design, reinforced lid hinge & flexible straw | Redesigned from Real Customer Reviews",
+    "bullets": [
+      "[SOLVED: Bristle & Comb Quality] Upgraded to a fully redesigned structure — based on 56 real reviews (50 verifiable evidence quotes), avg 2.14 -> target 4.5+",
+      "[SOLVED: Lid/Straw Issues] Upgraded to reinforced lid hinge & flexible straw — based on 3 real reviews (3 verifiable evidence quotes), avg 3.0 -> target 4.5+"
+    ],
+    "faq": [
+      {
+        "q": "Customers reported 'Bristle & Comb Quality' on V1 — is it fixed?",
+        "a": "Yes. V2 addresses it with a fully redesigned structure (engineering validation required)."
+      },
+      {
+        "q": "Customers reported 'Lid/Straw Issues' on V1 — is it fixed?",
+        "a": "Yes. V2 addresses it with reinforced lid hinge & flexible straw (engineering validation required)."
+      }
+    ],
+    "main_image_strategy": [
+      "主图1：白底产品主视觉（V2 双密封结构局部剖面光效）",
+      "场景图：针对「刷毛/梳齿不适」的 Before/After 对比",
+      "场景图：针对「杯盖/吸管机构故障」的 Before/After 对比"
+    ],
+    "marketing_message": "Every V2 upgrade is backed by real customer reviews — 59 negative voices turned into 4 engineering changes.",
+    "source": "heuristic"
+  }
+}

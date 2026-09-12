@@ -1,0 +1,204 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: light;
+}
+
+html,
+body,
+#root {
+  height: 100%;
+}
+
+body {
+  @apply bg-base text-ink font-sans antialiased;
+  font-feature-settings: 'cv02', 'cv03', 'cv04', 'cv11';
+}
+
+/* tabular numbers everywhere data is shown */
+.tnum {
+  font-variant-numeric: tabular-nums;
+}
+
+/* thin light scrollbars */
+* {
+  scrollbar-width: thin;
+  scrollbar-color: #d8dee9 transparent;
+}
+*::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+*::-webkit-scrollbar-thumb {
+  background: #d8dee9;
+  border-radius: 4px;
+}
+*::-webkit-scrollbar-thumb:hover {
+  background: #c2cad9;
+}
+*::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+/* keyword highlight inside review text — tinted via CSS var set per pain color */
+mark.kw {
+  background: var(--kw-bg, #eef3ff);
+  color: var(--kw-fg, #3b63d6);
+  border-radius: 3px;
+  padding: 0 2px;
+  font-weight: 600;
+}
+
+/* ---------- animations (subtle, business-meaningful only) ---------- */
+@keyframes r2p-fade-in {
+  from {
+    opacity: 0;
+    transform: translateY(6px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+.fade-in {
+  animation: r2p-fade-in 0.3s ease-out both;
+}
+
+@keyframes r2p-slide-in {
+  from {
+    opacity: 0;
+    transform: translateX(24px);
+  }
+  to {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+.slide-in {
+  animation: r2p-slide-in 0.28s ease-out both;
+}
+
+/* gentle product float — disabled on reduced motion */
+@keyframes r2p-float {
+  0%,
+  100% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(5px);
+  }
+}
+.product-float {
+  animation: r2p-float 6s ease-in-out infinite;
+}
+@media (prefers-reduced-motion: reduce) {
+  .product-float {
+    animation: none;
+  }
+  .fade-in,
+  .slide-in {
+    animation-duration: 0.01ms;
+  }
+}
+
+/* evolution bridge particle drift (subtle) */
+@keyframes r2p-drift {
+  0% {
+    transform: translateX(0);
+    opacity: 0;
+  }
+  15% {
+    opacity: 1;
+  }
+  85% {
+    opacity: 1;
+  }
+  100% {
+    transform: translateX(var(--drift-dist, 120px));
+    opacity: 0;
+  }
+}
+.bridge-dot {
+  animation: r2p-drift 2.8s linear infinite;
+}
+@media (prefers-reduced-motion: reduce) {
+  .bridge-dot {
+    animation: none;
+    opacity: 0.35;
+  }
+}
+
+/* skeleton shimmer (light) */
+@keyframes r2p-shimmer {
+  0% {
+    background-position: -400px 0;
+  }
+  100% {
+    background-position: 400px 0;
+  }
+}
+.skeleton {
+  @apply rounded-lg;
+  background: linear-gradient(90deg, #eef1f7 25%, #f7f9fc 50%, #eef1f7 75%);
+  background-size: 800px 100%;
+  animation: r2p-shimmer 1.4s linear infinite;
+}
+
+/* ---------- presentation mode ---------- */
+html.presenting {
+  font-size: 106.5%;
+}
+html.presenting body {
+  background: #ffffff;
+}
+html.presenting .chart-flex {
+  min-height: 540px !important;
+}
+html.presenting .pres-hide {
+  display: none !important;
+}
+html.presenting .pres-compact {
+  padding-top: 10px !important;
+  padding-bottom: 10px !important;
+}
+html.presenting main {
+  max-width: 1760px;
+}
+
+/* range slider styling for filter rail */
+input[type='range'].r2p-range {
+  @apply h-1.5 w-full cursor-pointer appearance-none rounded-full;
+  background: #e6eaf1;
+}
+input[type='range'].r2p-range::-webkit-slider-thumb {
+  appearance: none;
+  height: 14px;
+  width: 14px;
+  border-radius: 9999px;
+  background: #4f7cff;
+  border: 2px solid #fff;
+  box-shadow: 0 1px 4px rgba(20, 32, 60, 0.25);
+}
+input[type='range'].r2p-range::-moz-range-thumb {
+  height: 12px;
+  width: 12px;
+  border-radius: 9999px;
+  background: #4f7cff;
+  border: 2px solid #fff;
+}
+
+/* segmented control */
+.seg {
+  @apply inline-flex items-center rounded-lg border border-line bg-base2 p-0.5;
+}
+.seg > button {
+  @apply rounded-[7px] px-3 py-1.5 text-xs font-medium text-muted transition;
+}
+.seg > button:hover {
+  @apply text-ink;
+}
+.seg > button[data-active='true'] {
+  @apply bg-card text-ink shadow-sm;
+}

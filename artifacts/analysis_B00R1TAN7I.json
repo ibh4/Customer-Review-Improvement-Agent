@@ -1,0 +1,217 @@
+{
+  "product_id": "B00R1TAN7I",
+  "product_title": "GranNaturals Boar Bristle Smoothing Hair Brush for Women and Men - Medium/Soft Bristles - Natural Wooden Large Flat Square Paddle Hairbrush for Fine, Thin, Straight, Long, or Short",
+  "category": "All_Beauty",
+  "data_source": "amazon_reviews_2023",
+  "generated_at": "2026-08-17T16:42:25",
+  "llm_mode": "mock",
+  "stats": {
+    "total_reviews": 1314,
+    "negative_reviews": 356,
+    "avg_rating": 4.02,
+    "rating_distribution": {
+      "1": 135,
+      "2": 98,
+      "3": 123,
+      "4": 213,
+      "5": 745
+    },
+    "date_range": [
+      "1424013680",
+      "1688363529"
+    ],
+    "cluster_method": "tfidf_kmeans",
+    "n_clusters_raw": 6
+  },
+  "pain_points": [
+    {
+      "name": "Bristle & Comb Quality",
+      "display_name": "刷毛/梳齿不适",
+      "label_source": "lexicon",
+      "cluster_ids": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "review_count": 356,
+      "total_negative": 356,
+      "share": 1.0,
+      "avg_rating": 1.97,
+      "keywords": [
+        "hair",
+        "brush",
+        "bristles",
+        "like",
+        "short",
+        "just",
+        "good",
+        "it's",
+        "bristle",
+        "shed",
+        "shedding",
+        "falling out"
+      ],
+      "frequency": 1.0,
+      "severity": 0.7575,
+      "helpfulness": 1.0,
+      "recency": 1.0,
+      "pain_score": 100.0,
+      "score_components": {
+        "frequency": 1.0,
+        "severity": 0.758,
+        "helpfulness": 1.0,
+        "recency": 1.0
+      },
+      "cluster_id": 0,
+      "evidence_review_ids": [
+        "B00R1TAN7I-861",
+        "B00R1TAN7I-805",
+        "B00R1TAN7I-720",
+        "B00R1TAN7I-284",
+        "B00R1TAN7I-57",
+        "B00R1TAN7I-804",
+        "B00R1TAN7I-955",
+        "B00R1TAN7I-681",
+        "B00R1TAN7I-545",
+        "B00R1TAN7I-957",
+        "B00R1TAN7I-178",
+        "B00R1TAN7I-885",
+        "B00R1TAN7I-122",
+        "B00R1TAN7I-1117",
+        "B00R1TAN7I-23",
+        "B00R1TAN7I-562",
+        "B00R1TAN7I-707",
+        "B00R1TAN7I-613",
+        "B00R1TAN7I-10",
+        "B00R1TAN7I-605",
+        "B00R1TAN7I-980",
+        "B00R1TAN7I-5",
+        "B00R1TAN7I-395",
+        "B00R1TAN7I-1177",
+        "B00R1TAN7I-401",
+        "B00R1TAN7I-698",
+        "B00R1TAN7I-932",
+        "B00R1TAN7I-827",
+        "B00R1TAN7I-1278",
+        "B00R1TAN7I-297",
+        "B00R1TAN7I-559",
+        "B00R1TAN7I-311",
+        "B00R1TAN7I-581",
+        "B00R1TAN7I-194",
+        "B00R1TAN7I-1093",
+        "B00R1TAN7I-1265",
+        "B00R1TAN7I-1333",
+        "B00R1TAN7I-715",
+        "B00R1TAN7I-653",
+        "B00R1TAN7I-492",
+        "B00R1TAN7I-1268",
+        "B00R1TAN7I-400",
+        "B00R1TAN7I-1300",
+        "B00R1TAN7I-46",
+        "B00R1TAN7I-339",
+        "B00R1TAN7I-1302",
+        "B00R1TAN7I-330",
+        "B00R1TAN7I-1047",
+        "B00R1TAN7I-595",
+        "B00R1TAN7I-106"
+      ],
+      "representative_review_ids": [
+        "B00R1TAN7I-720",
+        "B00R1TAN7I-805",
+        "B00R1TAN7I-861"
+      ],
+      "evidence_status": "ok"
+    }
+  ],
+  "root_causes": {
+    "Bristle & Comb Quality": {
+      "pain_point": "Bristle & Comb Quality",
+      "root_cause": "刷毛材质与植毛密度设计单一：过硬伤头皮、过软无梳理力，且植毛牢固度不足导致掉毛",
+      "affected_scenario": "日常梳发 / 湿发梳理 / 造型打底",
+      "affected_users": "敏感头皮 / 长发易打结人群",
+      "severity": 0.7575,
+      "evidence_ids": [
+        "B00R1TAN7I-861",
+        "B00R1TAN7I-805",
+        "B00R1TAN7I-720",
+        "B00R1TAN7I-284",
+        "B00R1TAN7I-57"
+      ],
+      "source": "heuristic"
+    }
+  },
+  "product_v2": {
+    "positioning": "针对 V1 差评中 Top 痛点（刷毛/梳齿不适）全面重构的 V2 版本：以真实评论证据驱动参数级改进，主打「痛点清零 + 可验证升级」，面向高频通勤/户外场景用户，用 Evidence 营销建立信任壁垒。",
+    "parameters": [
+      {
+        "parameter": "bristle_stiffness",
+        "current_state": "单一硬度刷毛",
+        "recommended_state": "软硬分区植毛 / 双面刷毛设计",
+        "pain_point": "Bristle & Comb Quality",
+        "reason": "根因：刷毛材质与植毛密度设计单一：过硬伤头皮、过软无梳理力，且植毛牢固度不足导致掉毛。该痛点 356 条负面评论 (占比 100.0%)，平均 1.97 星",
+        "evidence_ids": [
+          "B00R1TAN7I-861",
+          "B00R1TAN7I-805",
+          "B00R1TAN7I-720",
+          "B00R1TAN7I-284",
+          "B00R1TAN7I-57",
+          "B00R1TAN7I-804"
+        ],
+        "confidence": 0.95,
+        "source": "heuristic"
+      },
+      {
+        "parameter": "tufting_strength",
+        "current_state": "常规植毛胶工艺",
+        "recommended_state": "加强植毛工艺 + 出厂拉力测试标准",
+        "pain_point": "Bristle & Comb Quality",
+        "reason": "根因：刷毛材质与植毛密度设计单一：过硬伤头皮、过软无梳理力，且植毛牢固度不足导致掉毛。该痛点 356 条负面评论 (占比 100.0%)，平均 1.97 星",
+        "evidence_ids": [
+          "B00R1TAN7I-861",
+          "B00R1TAN7I-805",
+          "B00R1TAN7I-720",
+          "B00R1TAN7I-284",
+          "B00R1TAN7I-57",
+          "B00R1TAN7I-804"
+        ],
+        "confidence": 0.95,
+        "source": "heuristic"
+      }
+    ],
+    "selling_points": [
+      "彻底解决刷毛/梳齿不适：软硬分区植毛 / 双面刷毛设计（依据 356 条真实差评）"
+    ],
+    "before_after_profile": {
+      "metrics": [
+        "刷毛/梳齿不适"
+      ],
+      "v1": [
+        38.0
+      ],
+      "v2": [
+        92.9
+      ]
+    }
+  },
+  "listing": {
+    "title": "GranNaturals V2 – upgraded core design | Redesigned from Real Customer Reviews",
+    "bullets": [
+      "[SOLVED: Bristle & Comb Quality] Upgraded to a fully redesigned structure — based on 356 real reviews (50 verifiable evidence quotes), avg 1.97 -> target 4.5+"
+    ],
+    "faq": [
+      {
+        "q": "Customers reported 'Bristle & Comb Quality' on V1 — is it fixed?",
+        "a": "Yes. V2 addresses it with a fully redesigned structure (engineering validation required)."
+      }
+    ],
+    "main_image_strategy": [
+      "主图1：白底产品主视觉（V2 双密封结构局部剖面光效）",
+      "场景图：针对「刷毛/梳齿不适」的 Before/After 对比"
+    ],
+    "marketing_message": "Every V2 upgrade is backed by real customer reviews — 356 negative voices turned into 2 engineering changes.",
+    "source": "heuristic"
+  }
+}

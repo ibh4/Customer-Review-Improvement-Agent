@@ -1,0 +1,474 @@
+{
+  "product_id": "B00MZT4UEG",
+  "product_title": "Evolve 100% Boar Bristle Hair Brush, Best Brush for Pocket / Purse / Travel Size, Distribute Natural Oil & Stimulate Scalp, Medium Firmness, Great for Beards",
+  "category": "All_Beauty",
+  "data_source": "amazon_reviews_2023",
+  "generated_at": "2026-08-17T16:43:09",
+  "llm_mode": "mock",
+  "stats": {
+    "total_reviews": 498,
+    "negative_reviews": 243,
+    "avg_rating": 3.3,
+    "rating_distribution": {
+      "1": 120,
+      "2": 58,
+      "3": 65,
+      "4": 65,
+      "5": 190
+    },
+    "date_range": [
+      "1445456492",
+      "1685565563"
+    ],
+    "cluster_method": "tfidf_kmeans",
+    "n_clusters_raw": 6
+  },
+  "pain_points": [
+    {
+      "name": "Bristle & Comb Quality",
+      "display_name": "刷毛/梳齿不适",
+      "label_source": "lexicon",
+      "cluster_ids": [
+        1,
+        3,
+        4,
+        5
+      ],
+      "review_count": 177,
+      "total_negative": 243,
+      "share": 0.7284,
+      "avg_rating": 1.59,
+      "keywords": [
+        "brush",
+        "hair",
+        "bristles",
+        "soft",
+        "size",
+        "small",
+        "tiny",
+        "fine",
+        "bristle",
+        "shed",
+        "shedding",
+        "falling out"
+      ],
+      "frequency": 0.7284,
+      "severity": 0.8525,
+      "helpfulness": 1.0,
+      "recency": 0.5,
+      "pain_score": 100.0,
+      "score_components": {
+        "frequency": 0.728,
+        "severity": 0.853,
+        "helpfulness": 1.0,
+        "recency": 0.5
+      },
+      "cluster_id": 1,
+      "evidence_review_ids": [
+        "B00MZT4UEG-388",
+        "B00MZT4UEG-96",
+        "B00MZT4UEG-64",
+        "B00MZT4UEG-384",
+        "B00MZT4UEG-129",
+        "B00MZT4UEG-505",
+        "B00MZT4UEG-150",
+        "B00MZT4UEG-271",
+        "B00MZT4UEG-423",
+        "B00MZT4UEG-149",
+        "B00MZT4UEG-194",
+        "B00MZT4UEG-356",
+        "B00MZT4UEG-13",
+        "B00MZT4UEG-343",
+        "B00MZT4UEG-399",
+        "B00MZT4UEG-383",
+        "B00MZT4UEG-42",
+        "B00MZT4UEG-100",
+        "B00MZT4UEG-369",
+        "B00MZT4UEG-425",
+        "B00MZT4UEG-461",
+        "B00MZT4UEG-246",
+        "B00MZT4UEG-443",
+        "B00MZT4UEG-424",
+        "B00MZT4UEG-302",
+        "B00MZT4UEG-452",
+        "B00MZT4UEG-251",
+        "B00MZT4UEG-181",
+        "B00MZT4UEG-281",
+        "B00MZT4UEG-2",
+        "B00MZT4UEG-379",
+        "B00MZT4UEG-52",
+        "B00MZT4UEG-198",
+        "B00MZT4UEG-46",
+        "B00MZT4UEG-392",
+        "B00MZT4UEG-276",
+        "B00MZT4UEG-504",
+        "B00MZT4UEG-32",
+        "B00MZT4UEG-204",
+        "B00MZT4UEG-119",
+        "B00MZT4UEG-299",
+        "B00MZT4UEG-286",
+        "B00MZT4UEG-420",
+        "B00MZT4UEG-223",
+        "B00MZT4UEG-168",
+        "B00MZT4UEG-501",
+        "B00MZT4UEG-245",
+        "B00MZT4UEG-350",
+        "B00MZT4UEG-30",
+        "B00MZT4UEG-475"
+      ],
+      "representative_review_ids": [
+        "B00MZT4UEG-64",
+        "B00MZT4UEG-96",
+        "B00MZT4UEG-388"
+      ],
+      "evidence_status": "ok"
+    },
+    {
+      "name": "Size & Capacity",
+      "display_name": "尺寸/容量不合适",
+      "label_source": "lexicon",
+      "cluster_ids": [
+        2
+      ],
+      "review_count": 44,
+      "total_negative": 243,
+      "share": 0.1811,
+      "avg_rating": 2.02,
+      "keywords": [
+        "small",
+        "brush",
+        "like",
+        "hair",
+        "good",
+        "tiny",
+        "it's",
+        "bristles",
+        "size",
+        "too big",
+        "too small",
+        "bulky"
+      ],
+      "frequency": 0.1811,
+      "severity": 0.745,
+      "helpfulness": 0.3,
+      "recency": 1.0,
+      "pain_score": 13.0,
+      "score_components": {
+        "frequency": 0.181,
+        "severity": 0.745,
+        "helpfulness": 0.3,
+        "recency": 1.0
+      },
+      "cluster_id": 2,
+      "evidence_review_ids": [
+        "B00MZT4UEG-157",
+        "B00MZT4UEG-132",
+        "B00MZT4UEG-492",
+        "B00MZT4UEG-197",
+        "B00MZT4UEG-523",
+        "B00MZT4UEG-454",
+        "B00MZT4UEG-282",
+        "B00MZT4UEG-254",
+        "B00MZT4UEG-161",
+        "B00MZT4UEG-87",
+        "B00MZT4UEG-426",
+        "B00MZT4UEG-405",
+        "B00MZT4UEG-292",
+        "B00MZT4UEG-317",
+        "B00MZT4UEG-0",
+        "B00MZT4UEG-38",
+        "B00MZT4UEG-346",
+        "B00MZT4UEG-160",
+        "B00MZT4UEG-372",
+        "B00MZT4UEG-460",
+        "B00MZT4UEG-162",
+        "B00MZT4UEG-499",
+        "B00MZT4UEG-36",
+        "B00MZT4UEG-304",
+        "B00MZT4UEG-43",
+        "B00MZT4UEG-366",
+        "B00MZT4UEG-310",
+        "B00MZT4UEG-257",
+        "B00MZT4UEG-137",
+        "B00MZT4UEG-250",
+        "B00MZT4UEG-98",
+        "B00MZT4UEG-314",
+        "B00MZT4UEG-449",
+        "B00MZT4UEG-153",
+        "B00MZT4UEG-513",
+        "B00MZT4UEG-439",
+        "B00MZT4UEG-216",
+        "B00MZT4UEG-207",
+        "B00MZT4UEG-403",
+        "B00MZT4UEG-203",
+        "B00MZT4UEG-394",
+        "B00MZT4UEG-381",
+        "B00MZT4UEG-349",
+        "B00MZT4UEG-108"
+      ],
+      "representative_review_ids": [
+        "B00MZT4UEG-132",
+        "B00MZT4UEG-157",
+        "B00MZT4UEG-492"
+      ],
+      "evidence_status": "ok"
+    },
+    {
+      "name": "Not As Described",
+      "display_name": "与描述不符",
+      "label_source": "lexicon",
+      "cluster_ids": [
+        0
+      ],
+      "review_count": 22,
+      "total_negative": 243,
+      "share": 0.0905,
+      "avg_rating": 2.73,
+      "keywords": [
+        "smaller",
+        "expected",
+        "brush",
+        "little",
+        "stars",
+        "hair",
+        "great",
+        "quality",
+        "not as described",
+        "misleading",
+        "advertised",
+        "different"
+      ],
+      "frequency": 0.0905,
+      "severity": 0.5675,
+      "helpfulness": 0.3134,
+      "recency": 0.6397,
+      "pain_score": 3.3,
+      "score_components": {
+        "frequency": 0.091,
+        "severity": 0.568,
+        "helpfulness": 0.313,
+        "recency": 0.64
+      },
+      "cluster_id": 0,
+      "evidence_review_ids": [
+        "B00MZT4UEG-270",
+        "B00MZT4UEG-303",
+        "B00MZT4UEG-341",
+        "B00MZT4UEG-386",
+        "B00MZT4UEG-76",
+        "B00MZT4UEG-59",
+        "B00MZT4UEG-516",
+        "B00MZT4UEG-306",
+        "B00MZT4UEG-180",
+        "B00MZT4UEG-116",
+        "B00MZT4UEG-307",
+        "B00MZT4UEG-222",
+        "B00MZT4UEG-209",
+        "B00MZT4UEG-497",
+        "B00MZT4UEG-57",
+        "B00MZT4UEG-318",
+        "B00MZT4UEG-430",
+        "B00MZT4UEG-410",
+        "B00MZT4UEG-120",
+        "B00MZT4UEG-427",
+        "B00MZT4UEG-498",
+        "B00MZT4UEG-235"
+      ],
+      "representative_review_ids": [
+        "B00MZT4UEG-270",
+        "B00MZT4UEG-303",
+        "B00MZT4UEG-341"
+      ],
+      "evidence_status": "ok"
+    }
+  ],
+  "root_causes": {
+    "Bristle & Comb Quality": {
+      "pain_point": "Bristle & Comb Quality",
+      "root_cause": "刷毛材质与植毛密度设计单一：过硬伤头皮、过软无梳理力，且植毛牢固度不足导致掉毛",
+      "affected_scenario": "日常梳发 / 湿发梳理 / 造型打底",
+      "affected_users": "敏感头皮 / 长发易打结人群",
+      "severity": 0.8525,
+      "evidence_ids": [
+        "B00MZT4UEG-388",
+        "B00MZT4UEG-96",
+        "B00MZT4UEG-64",
+        "B00MZT4UEG-384",
+        "B00MZT4UEG-129"
+      ],
+      "source": "heuristic"
+    },
+    "Size & Capacity": {
+      "pain_point": "Size & Capacity",
+      "root_cause": "单一容量 SKU 覆盖场景有限，尺寸信息在 Listing 中呈现不清晰",
+      "affected_scenario": "书包侧袋 / 短途出行",
+      "affected_users": "学生 / 轻量化出行人群",
+      "severity": 0.745,
+      "evidence_ids": [
+        "B00MZT4UEG-157",
+        "B00MZT4UEG-132",
+        "B00MZT4UEG-492",
+        "B00MZT4UEG-197",
+        "B00MZT4UEG-523"
+      ],
+      "source": "heuristic"
+    },
+    "Not As Described": {
+      "pain_point": "Not As Described",
+      "root_cause": "Listing 图片/文案与实物存在信息差（容量、颜色、配件）",
+      "affected_scenario": "开箱对比详情页",
+      "affected_users": "新客",
+      "severity": 0.5675,
+      "evidence_ids": [
+        "B00MZT4UEG-270",
+        "B00MZT4UEG-303",
+        "B00MZT4UEG-341",
+        "B00MZT4UEG-386",
+        "B00MZT4UEG-76"
+      ],
+      "source": "heuristic"
+    }
+  },
+  "product_v2": {
+    "positioning": "针对 V1 差评中 Top 痛点（刷毛/梳齿不适、尺寸/容量不合适、与描述不符）全面重构的 V2 版本：以真实评论证据驱动参数级改进，主打「痛点清零 + 可验证升级」，面向高频通勤/户外场景用户，用 Evidence 营销建立信任壁垒。",
+    "parameters": [
+      {
+        "parameter": "bristle_stiffness",
+        "current_state": "单一硬度刷毛",
+        "recommended_state": "软硬分区植毛 / 双面刷毛设计",
+        "pain_point": "Bristle & Comb Quality",
+        "reason": "根因：刷毛材质与植毛密度设计单一：过硬伤头皮、过软无梳理力，且植毛牢固度不足导致掉毛。该痛点 177 条负面评论 (占比 72.8%)，平均 1.59 星",
+        "evidence_ids": [
+          "B00MZT4UEG-388",
+          "B00MZT4UEG-96",
+          "B00MZT4UEG-64",
+          "B00MZT4UEG-384",
+          "B00MZT4UEG-129",
+          "B00MZT4UEG-505"
+        ],
+        "confidence": 0.95,
+        "source": "heuristic"
+      },
+      {
+        "parameter": "tufting_strength",
+        "current_state": "常规植毛胶工艺",
+        "recommended_state": "加强植毛工艺 + 出厂拉力测试标准",
+        "pain_point": "Bristle & Comb Quality",
+        "reason": "根因：刷毛材质与植毛密度设计单一：过硬伤头皮、过软无梳理力，且植毛牢固度不足导致掉毛。该痛点 177 条负面评论 (占比 72.8%)，平均 1.59 星",
+        "evidence_ids": [
+          "B00MZT4UEG-388",
+          "B00MZT4UEG-96",
+          "B00MZT4UEG-64",
+          "B00MZT4UEG-384",
+          "B00MZT4UEG-129",
+          "B00MZT4UEG-505"
+        ],
+        "confidence": 0.95,
+        "source": "heuristic"
+      },
+      {
+        "parameter": "sku_matrix",
+        "current_state": "单一 24oz 规格",
+        "recommended_state": "多容量矩阵（如 18/24/32oz）+ 场景化推荐",
+        "pain_point": "Size & Capacity",
+        "reason": "根因：单一容量 SKU 覆盖场景有限，尺寸信息在 Listing 中呈现不清晰。该痛点 44 条负面评论 (占比 18.1%)，平均 2.02 星",
+        "evidence_ids": [
+          "B00MZT4UEG-157",
+          "B00MZT4UEG-132",
+          "B00MZT4UEG-492",
+          "B00MZT4UEG-197",
+          "B00MZT4UEG-523",
+          "B00MZT4UEG-454"
+        ],
+        "confidence": 0.89,
+        "source": "heuristic"
+      },
+      {
+        "parameter": "listing_dimensions",
+        "current_state": "尺寸信息不突出",
+        "recommended_state": "Listing 增加实物对比图与精确尺寸表",
+        "pain_point": "Size & Capacity",
+        "reason": "根因：单一容量 SKU 覆盖场景有限，尺寸信息在 Listing 中呈现不清晰。该痛点 44 条负面评论 (占比 18.1%)，平均 2.02 星",
+        "evidence_ids": [
+          "B00MZT4UEG-157",
+          "B00MZT4UEG-132",
+          "B00MZT4UEG-492",
+          "B00MZT4UEG-197",
+          "B00MZT4UEG-523",
+          "B00MZT4UEG-454"
+        ],
+        "confidence": 0.89,
+        "source": "heuristic"
+      },
+      {
+        "parameter": "listing_accuracy",
+        "current_state": "宣传图与实物存在差异",
+        "recommended_state": "实物拍摄 + 规格表前置 + 关键差异点标注",
+        "pain_point": "Not As Described",
+        "reason": "根因：Listing 图片/文案与实物存在信息差（容量、颜色、配件）。该痛点 22 条负面评论 (占比 9.0%)，平均 2.73 星",
+        "evidence_ids": [
+          "B00MZT4UEG-270",
+          "B00MZT4UEG-303",
+          "B00MZT4UEG-341",
+          "B00MZT4UEG-386",
+          "B00MZT4UEG-76",
+          "B00MZT4UEG-59"
+        ],
+        "confidence": 0.82,
+        "source": "heuristic"
+      }
+    ],
+    "selling_points": [
+      "彻底解决刷毛/梳齿不适：软硬分区植毛 / 双面刷毛设计（依据 177 条真实差评）",
+      "彻底解决尺寸/容量不合适：多容量矩阵（依据 44 条真实差评）",
+      "彻底解决与描述不符：实物拍摄 + 规格表前置 + 关键差异点标注（依据 22 条真实差评）"
+    ],
+    "before_after_profile": {
+      "metrics": [
+        "刷毛/梳齿不适",
+        "尺寸/容量不合适",
+        "与描述不符"
+      ],
+      "v1": [
+        38.0,
+        91.9,
+        95.0
+      ],
+      "v2": [
+        92.9,
+        96.5,
+        96.8
+      ]
+    }
+  },
+  "listing": {
+    "title": "Evolve V2 – upgraded core design, multi-size capacity options | Redesigned from Real Customer Reviews",
+    "bullets": [
+      "[SOLVED: Bristle & Comb Quality] Upgraded to a fully redesigned structure — based on 177 real reviews (50 verifiable evidence quotes), avg 1.59 -> target 4.5+",
+      "[SOLVED: Wrong Size] Upgraded to multi-size capacity options — based on 44 real reviews (44 verifiable evidence quotes), avg 2.02 -> target 4.5+",
+      "[SOLVED: Not As Described] Upgraded to true-to-photo listing accuracy — based on 22 real reviews (22 verifiable evidence quotes), avg 2.73 -> target 4.5+"
+    ],
+    "faq": [
+      {
+        "q": "Customers reported 'Bristle & Comb Quality' on V1 — is it fixed?",
+        "a": "Yes. V2 addresses it with a fully redesigned structure (engineering validation required)."
+      },
+      {
+        "q": "Customers reported 'Wrong Size' on V1 — is it fixed?",
+        "a": "Yes. V2 addresses it with multi-size capacity options (engineering validation required)."
+      },
+      {
+        "q": "Customers reported 'Not As Described' on V1 — is it fixed?",
+        "a": "Yes. V2 addresses it with true-to-photo listing accuracy (engineering validation required)."
+      }
+    ],
+    "main_image_strategy": [
+      "主图1：白底产品主视觉（V2 双密封结构局部剖面光效）",
+      "场景图：针对「刷毛/梳齿不适」的 Before/After 对比",
+      "场景图：针对「尺寸/容量不合适」的 Before/After 对比",
+      "场景图：针对「与描述不符」的 Before/After 对比"
+    ],
+    "marketing_message": "Every V2 upgrade is backed by real customer reviews — 243 negative voices turned into 5 engineering changes.",
+    "source": "heuristic"
+  }
+}

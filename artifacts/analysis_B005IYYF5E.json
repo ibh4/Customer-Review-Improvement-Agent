@@ -1,0 +1,325 @@
+{
+  "product_id": "B005IYYF5E",
+  "product_title": "Shower Cap - Blue Dot Pattern, Vinyl material, elastic band, extra large, large, won’t fall off your head,",
+  "category": "All_Beauty",
+  "data_source": "amazon_reviews_2023",
+  "generated_at": "2026-08-17T16:42:58",
+  "llm_mode": "mock",
+  "stats": {
+    "total_reviews": 533,
+    "negative_reviews": 131,
+    "avg_rating": 4.07,
+    "rating_distribution": {
+      "1": 62,
+      "2": 28,
+      "3": 41,
+      "4": 84,
+      "5": 318
+    },
+    "date_range": [
+      "1355358895",
+      "1672430043"
+    ],
+    "cluster_method": "tfidf_kmeans",
+    "n_clusters_raw": 4
+  },
+  "pain_points": [
+    {
+      "name": "Size & Capacity",
+      "display_name": "尺寸/容量不合适",
+      "label_source": "lexicon",
+      "cluster_ids": [
+        0,
+        1,
+        2
+      ],
+      "review_count": 108,
+      "total_negative": 131,
+      "share": 0.8244,
+      "avg_rating": 1.93,
+      "keywords": [
+        "large",
+        "hair",
+        "shower",
+        "extra",
+        "small",
+        "size",
+        "it's",
+        "tight",
+        "too big",
+        "too small",
+        "bulky",
+        "heavy"
+      ],
+      "frequency": 0.8244,
+      "severity": 0.7675,
+      "helpfulness": 0.3,
+      "recency": 1.0,
+      "pain_score": 100.0,
+      "score_components": {
+        "frequency": 0.824,
+        "severity": 0.768,
+        "helpfulness": 0.3,
+        "recency": 1.0
+      },
+      "cluster_id": 0,
+      "evidence_review_ids": [
+        "B005IYYF5E-190",
+        "B005IYYF5E-10",
+        "B005IYYF5E-323",
+        "B005IYYF5E-124",
+        "B005IYYF5E-195",
+        "B005IYYF5E-546",
+        "B005IYYF5E-551",
+        "B005IYYF5E-349",
+        "B005IYYF5E-133",
+        "B005IYYF5E-161",
+        "B005IYYF5E-183",
+        "B005IYYF5E-434",
+        "B005IYYF5E-144",
+        "B005IYYF5E-523",
+        "B005IYYF5E-229",
+        "B005IYYF5E-543",
+        "B005IYYF5E-250",
+        "B005IYYF5E-366",
+        "B005IYYF5E-533",
+        "B005IYYF5E-327",
+        "B005IYYF5E-287",
+        "B005IYYF5E-431",
+        "B005IYYF5E-469",
+        "B005IYYF5E-480",
+        "B005IYYF5E-157",
+        "B005IYYF5E-199",
+        "B005IYYF5E-474",
+        "B005IYYF5E-525",
+        "B005IYYF5E-395",
+        "B005IYYF5E-535",
+        "B005IYYF5E-340",
+        "B005IYYF5E-69",
+        "B005IYYF5E-411",
+        "B005IYYF5E-456",
+        "B005IYYF5E-276",
+        "B005IYYF5E-36",
+        "B005IYYF5E-470",
+        "B005IYYF5E-506",
+        "B005IYYF5E-67",
+        "B005IYYF5E-568",
+        "B005IYYF5E-219",
+        "B005IYYF5E-79",
+        "B005IYYF5E-126",
+        "B005IYYF5E-379",
+        "B005IYYF5E-404",
+        "B005IYYF5E-498",
+        "B005IYYF5E-288",
+        "B005IYYF5E-406",
+        "B005IYYF5E-146",
+        "B005IYYF5E-451"
+      ],
+      "representative_review_ids": [
+        "B005IYYF5E-10",
+        "B005IYYF5E-190",
+        "B005IYYF5E-323"
+      ],
+      "evidence_status": "ok"
+    },
+    {
+      "name": "Value & Price",
+      "display_name": "性价比质疑",
+      "label_source": "lexicon",
+      "cluster_ids": [
+        3
+      ],
+      "review_count": 23,
+      "total_negative": 131,
+      "share": 0.1756,
+      "avg_rating": 1.43,
+      "keywords": [
+        "star",
+        "product",
+        "cheap",
+        "quality",
+        "small",
+        "elastic",
+        "hair",
+        "shower",
+        "price",
+        "expensive",
+        "overpriced",
+        "worth it"
+      ],
+      "frequency": 0.1756,
+      "severity": 0.8925,
+      "helpfulness": 1.0,
+      "recency": 0.5,
+      "pain_score": 41.3,
+      "score_components": {
+        "frequency": 0.176,
+        "severity": 0.893,
+        "helpfulness": 1.0,
+        "recency": 0.5
+      },
+      "cluster_id": 3,
+      "evidence_review_ids": [
+        "B005IYYF5E-359",
+        "B005IYYF5E-210",
+        "B005IYYF5E-147",
+        "B005IYYF5E-295",
+        "B005IYYF5E-376",
+        "B005IYYF5E-435",
+        "B005IYYF5E-517",
+        "B005IYYF5E-49",
+        "B005IYYF5E-442",
+        "B005IYYF5E-547",
+        "B005IYYF5E-110",
+        "B005IYYF5E-556",
+        "B005IYYF5E-220",
+        "B005IYYF5E-19",
+        "B005IYYF5E-330",
+        "B005IYYF5E-262",
+        "B005IYYF5E-494",
+        "B005IYYF5E-534",
+        "B005IYYF5E-387",
+        "B005IYYF5E-391",
+        "B005IYYF5E-452",
+        "B005IYYF5E-558",
+        "B005IYYF5E-481"
+      ],
+      "representative_review_ids": [
+        "B005IYYF5E-147",
+        "B005IYYF5E-210",
+        "B005IYYF5E-359"
+      ],
+      "evidence_status": "ok"
+    }
+  ],
+  "root_causes": {
+    "Size & Capacity": {
+      "pain_point": "Size & Capacity",
+      "root_cause": "单一容量 SKU 覆盖场景有限，尺寸信息在 Listing 中呈现不清晰",
+      "affected_scenario": "书包侧袋 / 短途出行",
+      "affected_users": "学生 / 轻量化出行人群",
+      "severity": 0.7675,
+      "evidence_ids": [
+        "B005IYYF5E-190",
+        "B005IYYF5E-10",
+        "B005IYYF5E-323",
+        "B005IYYF5E-124",
+        "B005IYYF5E-195"
+      ],
+      "source": "heuristic"
+    },
+    "Value & Price": {
+      "pain_point": "Value & Price",
+      "root_cause": "价格带与感知质量错位：核心痛点（漏水/清洁）拉低价值感知",
+      "affected_scenario": "比价 / 复购决策",
+      "affected_users": "价格敏感型用户",
+      "severity": 0.8925,
+      "evidence_ids": [
+        "B005IYYF5E-359",
+        "B005IYYF5E-210",
+        "B005IYYF5E-147",
+        "B005IYYF5E-295",
+        "B005IYYF5E-376"
+      ],
+      "source": "heuristic"
+    }
+  },
+  "product_v2": {
+    "positioning": "针对 V1 差评中 Top 痛点（尺寸/容量不合适、性价比质疑）全面重构的 V2 版本：以真实评论证据驱动参数级改进，主打「痛点清零 + 可验证升级」，面向高频通勤/户外场景用户，用 Evidence 营销建立信任壁垒。",
+    "parameters": [
+      {
+        "parameter": "sku_matrix",
+        "current_state": "单一 24oz 规格",
+        "recommended_state": "多容量矩阵（如 18/24/32oz）+ 场景化推荐",
+        "pain_point": "Size & Capacity",
+        "reason": "根因：单一容量 SKU 覆盖场景有限，尺寸信息在 Listing 中呈现不清晰。该痛点 108 条负面评论 (占比 82.4%)，平均 1.93 星",
+        "evidence_ids": [
+          "B005IYYF5E-190",
+          "B005IYYF5E-10",
+          "B005IYYF5E-323",
+          "B005IYYF5E-124",
+          "B005IYYF5E-195",
+          "B005IYYF5E-546"
+        ],
+        "confidence": 0.95,
+        "source": "heuristic"
+      },
+      {
+        "parameter": "listing_dimensions",
+        "current_state": "尺寸信息不突出",
+        "recommended_state": "Listing 增加实物对比图与精确尺寸表",
+        "pain_point": "Size & Capacity",
+        "reason": "根因：单一容量 SKU 覆盖场景有限，尺寸信息在 Listing 中呈现不清晰。该痛点 108 条负面评论 (占比 82.4%)，平均 1.93 星",
+        "evidence_ids": [
+          "B005IYYF5E-190",
+          "B005IYYF5E-10",
+          "B005IYYF5E-323",
+          "B005IYYF5E-124",
+          "B005IYYF5E-195",
+          "B005IYYF5E-546"
+        ],
+        "confidence": 0.95,
+        "source": "heuristic"
+      },
+      {
+        "parameter": "cost_engineering",
+        "current_state": "定价高于同类且痛点未解决",
+        "recommended_state": "优先解决 Top 痛点以支撑价格带；推出以旧换新留存策略",
+        "pain_point": "Value & Price",
+        "reason": "根因：价格带与感知质量错位：核心痛点（漏水/清洁）拉低价值感知。该痛点 23 条负面评论 (占比 17.6%)，平均 1.43 星",
+        "evidence_ids": [
+          "B005IYYF5E-359",
+          "B005IYYF5E-210",
+          "B005IYYF5E-147",
+          "B005IYYF5E-295",
+          "B005IYYF5E-376",
+          "B005IYYF5E-435"
+        ],
+        "confidence": 0.89,
+        "source": "heuristic"
+      }
+    ],
+    "selling_points": [
+      "彻底解决尺寸/容量不合适：多容量矩阵（依据 108 条真实差评）",
+      "彻底解决性价比质疑：优先解决 Top 痛点以支撑价格带；推出以旧换新留存策略（依据 23 条真实差评）"
+    ],
+    "before_after_profile": {
+      "metrics": [
+        "尺寸/容量不合适",
+        "性价比质疑"
+      ],
+      "v1": [
+        38.0,
+        74.4
+      ],
+      "v2": [
+        92.9,
+        94.9
+      ]
+    }
+  },
+  "listing": {
+    "title": "Shower V2 – multi-size capacity options, upgrades that justify every cent | Redesigned from Real Customer Reviews",
+    "bullets": [
+      "[SOLVED: Wrong Size] Upgraded to multi-size capacity options — based on 108 real reviews (50 verifiable evidence quotes), avg 1.93 -> target 4.5+",
+      "[SOLVED: Value Concerns] Upgraded to upgrades that justify every cent — based on 23 real reviews (23 verifiable evidence quotes), avg 1.43 -> target 4.5+"
+    ],
+    "faq": [
+      {
+        "q": "Customers reported 'Wrong Size' on V1 — is it fixed?",
+        "a": "Yes. V2 addresses it with multi-size capacity options (engineering validation required)."
+      },
+      {
+        "q": "Customers reported 'Value Concerns' on V1 — is it fixed?",
+        "a": "Yes. V2 addresses it with upgrades that justify every cent (engineering validation required)."
+      }
+    ],
+    "main_image_strategy": [
+      "主图1：白底产品主视觉（V2 双密封结构局部剖面光效）",
+      "场景图：针对「尺寸/容量不合适」的 Before/After 对比",
+      "场景图：针对「性价比质疑」的 Before/After 对比"
+    ],
+    "marketing_message": "Every V2 upgrade is backed by real customer reviews — 131 negative voices turned into 3 engineering changes.",
+    "source": "heuristic"
+  }
+}

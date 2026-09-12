@@ -1,0 +1,217 @@
+{
+  "product_id": "B019GBG0IE",
+  "product_title": "Collapsible Hair Diffuser by The Curly Co. with The Curly Co. Satisfaction Guarantee",
+  "category": "All_Beauty",
+  "data_source": "amazon_reviews_2023",
+  "generated_at": "2026-08-17T16:42:28",
+  "llm_mode": "mock",
+  "stats": {
+    "total_reviews": 1298,
+    "negative_reviews": 562,
+    "avg_rating": 3.51,
+    "rating_distribution": {
+      "1": 240,
+      "2": 152,
+      "3": 170,
+      "4": 173,
+      "5": 563
+    },
+    "date_range": [
+      "1453141174",
+      "1693192565"
+    ],
+    "cluster_method": "tfidf_kmeans",
+    "n_clusters_raw": 6
+  },
+  "pain_points": [
+    {
+      "name": "Styling Performance",
+      "display_name": "造型/护发效果不符",
+      "label_source": "lexicon",
+      "cluster_ids": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "review_count": 562,
+      "total_negative": 562,
+      "share": 1.0,
+      "avg_rating": 1.88,
+      "keywords": [
+        "hair",
+        "dryer",
+        "diffuser",
+        "collapses",
+        "does",
+        "like",
+        "just",
+        "it's",
+        "straighten",
+        "straightener",
+        "straightening",
+        "curly"
+      ],
+      "frequency": 1.0,
+      "severity": 0.78,
+      "helpfulness": 1.0,
+      "recency": 1.0,
+      "pain_score": 100.0,
+      "score_components": {
+        "frequency": 1.0,
+        "severity": 0.78,
+        "helpfulness": 1.0,
+        "recency": 1.0
+      },
+      "cluster_id": 0,
+      "evidence_review_ids": [
+        "B019GBG0IE-436",
+        "B019GBG0IE-347",
+        "B019GBG0IE-163",
+        "B019GBG0IE-949",
+        "B019GBG0IE-773",
+        "B019GBG0IE-633",
+        "B019GBG0IE-51",
+        "B019GBG0IE-355",
+        "B019GBG0IE-248",
+        "B019GBG0IE-286",
+        "B019GBG0IE-594",
+        "B019GBG0IE-1287",
+        "B019GBG0IE-344",
+        "B019GBG0IE-992",
+        "B019GBG0IE-220",
+        "B019GBG0IE-622",
+        "B019GBG0IE-150",
+        "B019GBG0IE-1211",
+        "B019GBG0IE-1303",
+        "B019GBG0IE-486",
+        "B019GBG0IE-794",
+        "B019GBG0IE-254",
+        "B019GBG0IE-427",
+        "B019GBG0IE-1067",
+        "B019GBG0IE-790",
+        "B019GBG0IE-897",
+        "B019GBG0IE-653",
+        "B019GBG0IE-296",
+        "B019GBG0IE-177",
+        "B019GBG0IE-100",
+        "B019GBG0IE-321",
+        "B019GBG0IE-261",
+        "B019GBG0IE-665",
+        "B019GBG0IE-255",
+        "B019GBG0IE-1057",
+        "B019GBG0IE-599",
+        "B019GBG0IE-72",
+        "B019GBG0IE-930",
+        "B019GBG0IE-1061",
+        "B019GBG0IE-968",
+        "B019GBG0IE-1027",
+        "B019GBG0IE-99",
+        "B019GBG0IE-580",
+        "B019GBG0IE-1192",
+        "B019GBG0IE-180",
+        "B019GBG0IE-692",
+        "B019GBG0IE-961",
+        "B019GBG0IE-978",
+        "B019GBG0IE-1286",
+        "B019GBG0IE-1231"
+      ],
+      "representative_review_ids": [
+        "B019GBG0IE-163",
+        "B019GBG0IE-347",
+        "B019GBG0IE-436"
+      ],
+      "evidence_status": "ok"
+    }
+  ],
+  "root_causes": {
+    "Styling Performance": {
+      "pain_point": "Styling Performance",
+      "root_cause": "造型工具与用户发质（卷发/粗硬发/细软发）匹配不足：温度/风量/梳齿间距为单一规格，未按核心发质人群分档设计",
+      "affected_scenario": "日常吹风 / 卷发打理 / 直发造型",
+      "affected_users": "卷发人群 / 细软发质 / 短发用户",
+      "severity": 0.78,
+      "evidence_ids": [
+        "B019GBG0IE-436",
+        "B019GBG0IE-347",
+        "B019GBG0IE-163",
+        "B019GBG0IE-949",
+        "B019GBG0IE-773"
+      ],
+      "source": "heuristic"
+    }
+  },
+  "product_v2": {
+    "positioning": "针对 V1 差评中 Top 痛点（造型/护发效果不符）全面重构的 V2 版本：以真实评论证据驱动参数级改进，主打「痛点清零 + 可验证升级」，面向高频通勤/户外场景用户，用 Evidence 营销建立信任壁垒。",
+    "parameters": [
+      {
+        "parameter": "heat_settings",
+        "current_state": "单一温度/风量档",
+        "recommended_state": "多档温度风量 + 发质适配指引（工程验证 required）",
+        "pain_point": "Styling Performance",
+        "reason": "根因：造型工具与用户发质（卷发/粗硬发/细软发）匹配不足：温度/风量/梳齿间距为单一规格，未按核心发质人群分档设计。该痛点 562 条负面评论 (占比 100.0%)，平均 1.88 星",
+        "evidence_ids": [
+          "B019GBG0IE-436",
+          "B019GBG0IE-347",
+          "B019GBG0IE-163",
+          "B019GBG0IE-949",
+          "B019GBG0IE-773",
+          "B019GBG0IE-633"
+        ],
+        "confidence": 0.95,
+        "source": "heuristic"
+      },
+      {
+        "parameter": "accessory_matrix",
+        "current_state": "通用配件，无发质区分",
+        "recommended_state": "按发质（细软/粗硬/卷发）的配件矩阵",
+        "pain_point": "Styling Performance",
+        "reason": "根因：造型工具与用户发质（卷发/粗硬发/细软发）匹配不足：温度/风量/梳齿间距为单一规格，未按核心发质人群分档设计。该痛点 562 条负面评论 (占比 100.0%)，平均 1.88 星",
+        "evidence_ids": [
+          "B019GBG0IE-436",
+          "B019GBG0IE-347",
+          "B019GBG0IE-163",
+          "B019GBG0IE-949",
+          "B019GBG0IE-773",
+          "B019GBG0IE-633"
+        ],
+        "confidence": 0.95,
+        "source": "heuristic"
+      }
+    ],
+    "selling_points": [
+      "彻底解决造型/护发效果不符：多档温度风量 + 发质适配指引（依据 562 条真实差评）"
+    ],
+    "before_after_profile": {
+      "metrics": [
+        "造型/护发效果不符"
+      ],
+      "v1": [
+        38.0
+      ],
+      "v2": [
+        92.9
+      ]
+    }
+  },
+  "listing": {
+    "title": "Collapsible V2 – upgraded core design | Redesigned from Real Customer Reviews",
+    "bullets": [
+      "[SOLVED: Styling Performance] Upgraded to a fully redesigned structure — based on 562 real reviews (50 verifiable evidence quotes), avg 1.88 -> target 4.5+"
+    ],
+    "faq": [
+      {
+        "q": "Customers reported 'Styling Performance' on V1 — is it fixed?",
+        "a": "Yes. V2 addresses it with a fully redesigned structure (engineering validation required)."
+      }
+    ],
+    "main_image_strategy": [
+      "主图1：白底产品主视觉（V2 双密封结构局部剖面光效）",
+      "场景图：针对「造型/护发效果不符」的 Before/After 对比"
+    ],
+    "marketing_message": "Every V2 upgrade is backed by real customer reviews — 562 negative voices turned into 2 engineering changes.",
+    "source": "heuristic"
+  }
+}

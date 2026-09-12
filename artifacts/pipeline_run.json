@@ -1,0 +1,25 @@
+{
+  "started_at": "2026-08-17 11:16:03",
+  "data_source": "local_cache",
+  "acquire_note": "使用本地缓存 amazon_all_beauty_subset.jsonl",
+  "rows_loaded": 19210,
+  "rows_processed": 18167,
+  "products": 25,
+  "negative_reviews": 4696,
+  "reviews_total": 18167,
+  "hero_product_id": "B07C533XCW",
+  "hero_product_title": "Segbeauty empty bottle 160083",
+  "pain_points": 5,
+  "pain_point_names": [
+    "Functional Failure",
+    "Cleaning Difficulty",
+    "Drying & Clogging",
+    "Durability",
+    "Other: small / bottle"
+  ],
+  "v2_parameters": 10,
+  "listing_bullets": 5,
+  "llm_mode": "mock",
+  "elapsed_s": 3.4,
+  "status": "ok"
+}

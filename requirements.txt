@@ -1,0 +1,12 @@
+fastapi>=0.110
+uvicorn[standard]>=0.29
+pydantic>=2.6
+pandas>=2.0
+duckdb>=0.10
+scikit-learn>=1.4
+numpy>=1.26
+pyarrow>=15.0
+python-dotenv>=1.0
+httpx>=0.27
+pytest>=8.0
+datasets>=2.19 ; # 用于流式拉取公开 Amazon Reviews（可选，失败自动降级）

@@ -1,0 +1,487 @@
+{
+  "product_id": "B01195J43I",
+  "product_title": "DASKY 29W Digital Anti Static Ceramic Hair Straightener Heating Detangling Hair Brush Paddle Brush For Faster Straightening Styling Massage Straightening Iron (Pink)",
+  "category": "All_Beauty",
+  "data_source": "amazon_reviews_2023",
+  "generated_at": "2026-08-17T16:43:19",
+  "llm_mode": "mock",
+  "stats": {
+    "total_reviews": 459,
+    "negative_reviews": 284,
+    "avg_rating": 2.77,
+    "rating_distribution": {
+      "1": 184,
+      "2": 43,
+      "3": 57,
+      "4": 44,
+      "5": 131
+    },
+    "date_range": [
+      "1444697833",
+      "1622103777"
+    ],
+    "cluster_method": "tfidf_kmeans",
+    "n_clusters_raw": 6
+  },
+  "pain_points": [
+    {
+      "name": "Styling Performance",
+      "display_name": "造型/护发效果不符",
+      "label_source": "lexicon",
+      "cluster_ids": [
+        0,
+        4,
+        5
+      ],
+      "review_count": 170,
+      "total_negative": 284,
+      "share": 0.5986,
+      "avg_rating": 1.82,
+      "keywords": [
+        "hair",
+        "brush",
+        "product",
+        "like",
+        "work",
+        "straighten",
+        "good",
+        "curly",
+        "straightener",
+        "straightening",
+        "curls",
+        "frizz"
+      ],
+      "frequency": 0.5986,
+      "severity": 0.795,
+      "helpfulness": 0.6328,
+      "recency": 1.0,
+      "pain_score": 100.0,
+      "score_components": {
+        "frequency": 0.599,
+        "severity": 0.795,
+        "helpfulness": 0.633,
+        "recency": 1.0
+      },
+      "cluster_id": 0,
+      "evidence_review_ids": [
+        "B01195J43I-440",
+        "B01195J43I-26",
+        "B01195J43I-498",
+        "B01195J43I-322",
+        "B01195J43I-148",
+        "B01195J43I-284",
+        "B01195J43I-14",
+        "B01195J43I-134",
+        "B01195J43I-453",
+        "B01195J43I-114",
+        "B01195J43I-21",
+        "B01195J43I-397",
+        "B01195J43I-9",
+        "B01195J43I-374",
+        "B01195J43I-227",
+        "B01195J43I-463",
+        "B01195J43I-329",
+        "B01195J43I-163",
+        "B01195J43I-153",
+        "B01195J43I-393",
+        "B01195J43I-106",
+        "B01195J43I-83",
+        "B01195J43I-7",
+        "B01195J43I-381",
+        "B01195J43I-122",
+        "B01195J43I-129",
+        "B01195J43I-179",
+        "B01195J43I-169",
+        "B01195J43I-188",
+        "B01195J43I-267",
+        "B01195J43I-243",
+        "B01195J43I-366",
+        "B01195J43I-90",
+        "B01195J43I-297",
+        "B01195J43I-429",
+        "B01195J43I-78",
+        "B01195J43I-475",
+        "B01195J43I-91",
+        "B01195J43I-24",
+        "B01195J43I-162",
+        "B01195J43I-488",
+        "B01195J43I-291",
+        "B01195J43I-438",
+        "B01195J43I-71",
+        "B01195J43I-490",
+        "B01195J43I-31",
+        "B01195J43I-376",
+        "B01195J43I-449",
+        "B01195J43I-495",
+        "B01195J43I-239"
+      ],
+      "representative_review_ids": [
+        "B01195J43I-26",
+        "B01195J43I-440",
+        "B01195J43I-498"
+      ],
+      "evidence_status": "ok"
+    },
+    {
+      "name": "Functional Failure",
+      "display_name": "功能失效 / 无法工作",
+      "label_source": "lexicon",
+      "cluster_ids": [
+        1,
+        3
+      ],
+      "review_count": 85,
+      "total_negative": 284,
+      "share": 0.2993,
+      "avg_rating": 1.2,
+      "keywords": [
+        "work",
+        "star",
+        "hair",
+        "doesn't",
+        "does",
+        "like",
+        "money",
+        "stars",
+        "stopped working",
+        "stopped spraying",
+        "quit working",
+        "quit spraying"
+      ],
+      "frequency": 0.2993,
+      "severity": 0.95,
+      "helpfulness": 0.3,
+      "recency": 0.9349,
+      "pain_score": 26.5,
+      "score_components": {
+        "frequency": 0.299,
+        "severity": 0.95,
+        "helpfulness": 0.3,
+        "recency": 0.935
+      },
+      "cluster_id": 1,
+      "evidence_review_ids": [
+        "B01195J43I-424",
+        "B01195J43I-459",
+        "B01195J43I-249",
+        "B01195J43I-473",
+        "B01195J43I-137",
+        "B01195J43I-208",
+        "B01195J43I-210",
+        "B01195J43I-46",
+        "B01195J43I-358",
+        "B01195J43I-140",
+        "B01195J43I-240",
+        "B01195J43I-236",
+        "B01195J43I-76",
+        "B01195J43I-456",
+        "B01195J43I-3",
+        "B01195J43I-278",
+        "B01195J43I-492",
+        "B01195J43I-483",
+        "B01195J43I-271",
+        "B01195J43I-494",
+        "B01195J43I-385",
+        "B01195J43I-60",
+        "B01195J43I-348",
+        "B01195J43I-353",
+        "B01195J43I-146",
+        "B01195J43I-405",
+        "B01195J43I-80",
+        "B01195J43I-202",
+        "B01195J43I-190",
+        "B01195J43I-4",
+        "B01195J43I-119",
+        "B01195J43I-476",
+        "B01195J43I-367",
+        "B01195J43I-194",
+        "B01195J43I-349",
+        "B01195J43I-447",
+        "B01195J43I-200",
+        "B01195J43I-107",
+        "B01195J43I-157",
+        "B01195J43I-201",
+        "B01195J43I-218",
+        "B01195J43I-139",
+        "B01195J43I-235",
+        "B01195J43I-198",
+        "B01195J43I-470",
+        "B01195J43I-407",
+        "B01195J43I-426",
+        "B01195J43I-450",
+        "B01195J43I-168",
+        "B01195J43I-37"
+      ],
+      "representative_review_ids": [
+        "B01195J43I-249",
+        "B01195J43I-424",
+        "B01195J43I-459"
+      ],
+      "evidence_status": "ok"
+    },
+    {
+      "name": "Value & Price",
+      "display_name": "性价比质疑",
+      "label_source": "lexicon",
+      "cluster_ids": [
+        2
+      ],
+      "review_count": 29,
+      "total_negative": 284,
+      "share": 0.1021,
+      "avg_rating": 1.0,
+      "keywords": [
+        "waste",
+        "money",
+        "don't",
+        "hair",
+        "straighten",
+        "doesn't",
+        "time",
+        "work",
+        "price",
+        "expensive",
+        "overpriced",
+        "worth it"
+      ],
+      "frequency": 0.1021,
+      "severity": 1.0,
+      "helpfulness": 1.0,
+      "recency": 0.5,
+      "pain_score": 17.0,
+      "score_components": {
+        "frequency": 0.102,
+        "severity": 1.0,
+        "helpfulness": 1.0,
+        "recency": 0.5
+      },
+      "cluster_id": 2,
+      "evidence_review_ids": [
+        "B01195J43I-340",
+        "B01195J43I-252",
+        "B01195J43I-359",
+        "B01195J43I-223",
+        "B01195J43I-172",
+        "B01195J43I-370",
+        "B01195J43I-415",
+        "B01195J43I-414",
+        "B01195J43I-158",
+        "B01195J43I-345",
+        "B01195J43I-51",
+        "B01195J43I-167",
+        "B01195J43I-84",
+        "B01195J43I-193",
+        "B01195J43I-219",
+        "B01195J43I-430",
+        "B01195J43I-342",
+        "B01195J43I-300",
+        "B01195J43I-203",
+        "B01195J43I-384",
+        "B01195J43I-401",
+        "B01195J43I-425",
+        "B01195J43I-457",
+        "B01195J43I-379",
+        "B01195J43I-253",
+        "B01195J43I-215",
+        "B01195J43I-237",
+        "B01195J43I-500",
+        "B01195J43I-228"
+      ],
+      "representative_review_ids": [
+        "B01195J43I-252",
+        "B01195J43I-340",
+        "B01195J43I-359"
+      ],
+      "evidence_status": "ok"
+    }
+  ],
+  "root_causes": {
+    "Styling Performance": {
+      "pain_point": "Styling Performance",
+      "root_cause": "造型工具与用户发质（卷发/粗硬发/细软发）匹配不足：温度/风量/梳齿间距为单一规格，未按核心发质人群分档设计",
+      "affected_scenario": "日常吹风 / 卷发打理 / 直发造型",
+      "affected_users": "卷发人群 / 细软发质 / 短发用户",
+      "severity": 0.795,
+      "evidence_ids": [
+        "B01195J43I-440",
+        "B01195J43I-26",
+        "B01195J43I-498",
+        "B01195J43I-322",
+        "B01195J43I-148"
+      ],
+      "source": "heuristic"
+    },
+    "Functional Failure": {
+      "pain_point": "Functional Failure",
+      "root_cause": "核心机构（泵芯/电机/联动结构）可靠性不足：缺乏出厂寿命测试与批次抽检",
+      "affected_scenario": "正常使用数天至数月后失效",
+      "affected_users": "所有用户（直接导致退货与差评）",
+      "severity": 0.95,
+      "evidence_ids": [
+        "B01195J43I-424",
+        "B01195J43I-459",
+        "B01195J43I-249",
+        "B01195J43I-473",
+        "B01195J43I-137"
+      ],
+      "source": "heuristic"
+    },
+    "Value & Price": {
+      "pain_point": "Value & Price",
+      "root_cause": "价格带与感知质量错位：核心痛点（漏水/清洁）拉低价值感知",
+      "affected_scenario": "比价 / 复购决策",
+      "affected_users": "价格敏感型用户",
+      "severity": 1.0,
+      "evidence_ids": [
+        "B01195J43I-340",
+        "B01195J43I-252",
+        "B01195J43I-359",
+        "B01195J43I-223",
+        "B01195J43I-172"
+      ],
+      "source": "heuristic"
+    }
+  },
+  "product_v2": {
+    "positioning": "针对 V1 差评中 Top 痛点（造型/护发效果不符、功能失效 / 无法工作、性价比质疑）全面重构的 V2 版本：以真实评论证据驱动参数级改进，主打「痛点清零 + 可验证升级」，面向高频通勤/户外场景用户，用 Evidence 营销建立信任壁垒。",
+    "parameters": [
+      {
+        "parameter": "heat_settings",
+        "current_state": "单一温度/风量档",
+        "recommended_state": "多档温度风量 + 发质适配指引（工程验证 required）",
+        "pain_point": "Styling Performance",
+        "reason": "根因：造型工具与用户发质（卷发/粗硬发/细软发）匹配不足：温度/风量/梳齿间距为单一规格，未按核心发质人群分档设计。该痛点 170 条负面评论 (占比 59.9%)，平均 1.82 星",
+        "evidence_ids": [
+          "B01195J43I-440",
+          "B01195J43I-26",
+          "B01195J43I-498",
+          "B01195J43I-322",
+          "B01195J43I-148",
+          "B01195J43I-284"
+        ],
+        "confidence": 0.95,
+        "source": "heuristic"
+      },
+      {
+        "parameter": "accessory_matrix",
+        "current_state": "通用配件，无发质区分",
+        "recommended_state": "按发质（细软/粗硬/卷发）的配件矩阵",
+        "pain_point": "Styling Performance",
+        "reason": "根因：造型工具与用户发质（卷发/粗硬发/细软发）匹配不足：温度/风量/梳齿间距为单一规格，未按核心发质人群分档设计。该痛点 170 条负面评论 (占比 59.9%)，平均 1.82 星",
+        "evidence_ids": [
+          "B01195J43I-440",
+          "B01195J43I-26",
+          "B01195J43I-498",
+          "B01195J43I-322",
+          "B01195J43I-148",
+          "B01195J43I-284"
+        ],
+        "confidence": 0.95,
+        "source": "heuristic"
+      },
+      {
+        "parameter": "mechanism_reliability",
+        "current_state": "泵芯/机构无寿命强化设计",
+        "recommended_state": "加强机构寿命设计与开合疲劳测试（engineering validation required）",
+        "pain_point": "Functional Failure",
+        "reason": "根因：核心机构（泵芯/电机/联动结构）可靠性不足：缺乏出厂寿命测试与批次抽检。该痛点 85 条负面评论 (占比 29.9%)，平均 1.2 星",
+        "evidence_ids": [
+          "B01195J43I-424",
+          "B01195J43I-459",
+          "B01195J43I-249",
+          "B01195J43I-473",
+          "B01195J43I-137",
+          "B01195J43I-208"
+        ],
+        "confidence": 0.95,
+        "source": "heuristic"
+      },
+      {
+        "parameter": "qc_sampling",
+        "current_state": "无功能全检/抽检标准",
+        "recommended_state": "出厂功能全检 + 批次抽检可靠性测试",
+        "pain_point": "Functional Failure",
+        "reason": "根因：核心机构（泵芯/电机/联动结构）可靠性不足：缺乏出厂寿命测试与批次抽检。该痛点 85 条负面评论 (占比 29.9%)，平均 1.2 星",
+        "evidence_ids": [
+          "B01195J43I-424",
+          "B01195J43I-459",
+          "B01195J43I-249",
+          "B01195J43I-473",
+          "B01195J43I-137",
+          "B01195J43I-208"
+        ],
+        "confidence": 0.95,
+        "source": "heuristic"
+      },
+      {
+        "parameter": "cost_engineering",
+        "current_state": "定价高于同类且痛点未解决",
+        "recommended_state": "优先解决 Top 痛点以支撑价格带；推出以旧换新留存策略",
+        "pain_point": "Value & Price",
+        "reason": "根因：价格带与感知质量错位：核心痛点（漏水/清洁）拉低价值感知。该痛点 29 条负面评论 (占比 10.2%)，平均 1.0 星",
+        "evidence_ids": [
+          "B01195J43I-340",
+          "B01195J43I-252",
+          "B01195J43I-359",
+          "B01195J43I-223",
+          "B01195J43I-172",
+          "B01195J43I-370"
+        ],
+        "confidence": 0.83,
+        "source": "heuristic"
+      }
+    ],
+    "selling_points": [
+      "彻底解决造型/护发效果不符：多档温度风量 + 发质适配指引（依据 170 条真实差评）",
+      "彻底解决功能失效 / 无法工作：加强机构寿命设计与开合疲劳测试（依据 85 条真实差评）",
+      "彻底解决性价比质疑：优先解决 Top 痛点以支撑价格带；推出以旧换新留存策略（依据 29 条真实差评）"
+    ],
+    "before_after_profile": {
+      "metrics": [
+        "造型/护发效果不符",
+        "功能失效 / 无法工作",
+        "性价比质疑"
+      ],
+      "v1": [
+        38.0,
+        83.6,
+        89.5
+      ],
+      "v2": [
+        92.9,
+        96.1,
+        96.1
+      ]
+    }
+  },
+  "listing": {
+    "title": "DASKY V2 – upgraded core design, factory-tested long-life mechanism | Redesigned from Real Customer Reviews",
+    "bullets": [
+      "[SOLVED: Styling Performance] Upgraded to a fully redesigned structure — based on 170 real reviews (50 verifiable evidence quotes), avg 1.82 -> target 4.5+",
+      "[SOLVED: Stops Working] Upgraded to factory-tested long-life mechanism — based on 85 real reviews (50 verifiable evidence quotes), avg 1.2 -> target 4.5+",
+      "[SOLVED: Value Concerns] Upgraded to upgrades that justify every cent — based on 29 real reviews (29 verifiable evidence quotes), avg 1.0 -> target 4.5+"
+    ],
+    "faq": [
+      {
+        "q": "Customers reported 'Styling Performance' on V1 — is it fixed?",
+        "a": "Yes. V2 addresses it with a fully redesigned structure (engineering validation required)."
+      },
+      {
+        "q": "Customers reported 'Stops Working' on V1 — is it fixed?",
+        "a": "Yes. V2 addresses it with factory-tested long-life mechanism (engineering validation required)."
+      },
+      {
+        "q": "Customers reported 'Value Concerns' on V1 — is it fixed?",
+        "a": "Yes. V2 addresses it with upgrades that justify every cent (engineering validation required)."
+      }
+    ],
+    "main_image_strategy": [
+      "主图1：白底产品主视觉（V2 双密封结构局部剖面光效）",
+      "场景图：针对「造型/护发效果不符」的 Before/After 对比",
+      "场景图：针对「功能失效 / 无法工作」的 Before/After 对比",
+      "场景图：针对「性价比质疑」的 Before/After 对比"
+    ],
+    "marketing_message": "Every V2 upgrade is backed by real customer reviews — 284 negative voices turned into 5 engineering changes.",
+    "source": "heuristic"
+  }
+}

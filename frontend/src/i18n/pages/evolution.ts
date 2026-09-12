@@ -1,0 +1,346 @@
+/**
+ * Evolution page dictionary — product evolution (V1 → V2) UI strings.
+ * Parameter snake_case keys map to readable labels; unmappable dynamic
+ * names fall back to underscore→space rendering in the page.
+ */
+import { registerDict } from '../core'
+
+registerDict({
+  zh: {
+    /* ---------- header ---------- */
+    'evo.eyebrow': '产品进化',
+    'evo.headline': '从 {neg} 条差评中提炼出 {count} 项参数升级',
+    'evo.subtitle': 'AI 不止于发现问题——更把问题变成下一代产品。',
+    'evo.launchAssets': '上市素材',
+    'evo.insightTag': 'AI 洞察 · 产品进化',
+    'evo.insight': '{count} 项产品参数关联到 {pains} 个有证据支撑的痛点集群，其中 {p0} 项为 P0（高痛点分数 × 高置信度）。每一处改动都可回溯到客户评论。',
+
+    /* ---------- evolution bridge ---------- */
+    'evo.evidenceReviews': '{n} 条证据评论',
+
+    /* ---------- V1 / V2 cards ---------- */
+    'evo.currentProduct': '当前产品',
+    'evo.productV1': '产品 V1',
+    'evo.aiEvolved': 'AI 进化',
+    'evo.productV2': '产品 V2',
+
+    /* ---------- sankey card ---------- */
+    'evo.sankeyTitle': '产品进化桑基图',
+    'evo.sankeyDesc': '客户痛点 → 根因 → 产品参数 · 节点权重为真实评论数 / 证据数 · 点击痛点节点查看证据',
+
+    /* ---------- root-cause categories (transparent keyword classifier) ---------- */
+    'rcCat.reliability': '可靠性耐久',
+    'rcCat.cleaning': '清洁维护',
+    'rcCat.dimension': '尺寸兼容',
+    'rcCat.info': '信息与包装',
+    'rcCat.material': '材质等级',
+    'rcCat.process': '工艺质量',
+    'rcCat.structure': '结构设计',
+    'rcCat.ergonomics': '人机适配',
+    'rcCat.performance': '动力/功效',
+    'rcCat.general': '综合问题',
+
+    /* ---------- sankey tooltips ---------- */
+    'evo.sankey.tipReviews': '负面评论 {n} 条',
+    'evo.sankey.tipScore': '痛点分数 {s}',
+    'evo.sankey.tipClick': '点击查看证据',
+    'evo.sankey.tipRcCat': '按关键词规则自动分类',
+    'evo.sankey.tipSeverity': '严重度 {v}%',
+    'evo.sankey.tipEvCount': '证据 {n} 条',
+    'evo.sankey.tipConf': '置信度 {v}%',
+    'evo.sankey.tipPrio': '推导式优先级：P0 ≥ 45 · P1 ≥ 25（痛点分数 × 置信度）',
+
+    /* ---------- capability matrix card ---------- */
+    'evo.matrixTitle': '能力进化矩阵',
+    'evo.matrixDesc2d': 'V1（灰虚线）vs V2（主色）· 能力维度来自该商品真实痛点 · 0–100 分制',
+    'evo.matrixDesc3d': 'X = 能力维度 · Y = V1 / V2 / 提升量 Δ · Z = 分数 · 拖拽旋转',
+    'evo.matrixProvExtra': 'V1 = 100 − 痛点分数×0.62 · V2 = V1 + 修复空间×(0.55+0.4×置信度)，全部由真实数据推导。',
+    'evo.matrix.delta': '提升量 Δ',
+    'evo.matrix.deltaUnit': '分（V1 → V2）',
+    'evo.matrix.scale': '0–100 分制',
+    'evo.matrixViewAria': '矩阵视图',
+    'evo.matrix2d': '2D 雷达图',
+    'evo.matrix3d': '3D 矩阵',
+    'evo.matrix3dTooltip': '3D 矩阵',
+    'evo.matrix3dUnavailable': '3D 不可用——WebGL 已关闭或系统开启了减弱动态效果',
+    'evo.reset': '重置',
+
+    /* ---------- before / after slider ---------- */
+    'evo.baTitle': '改版前后对比',
+    'evo.baDesc': '拖动手柄揭晓进化后的产品与参数升级标注',
+    'evo.currentProductV1': '当前产品 · V1',
+    'evo.evolvedProductV2': '进化产品 · V2',
+    'evo.sliderAria': '改版前后对比滑块',
+    'evo.sliderNote': '同一产品示意图——V2 侧高亮有证据支撑的参数升级（非虚构产品照片）。',
+
+    /* ---------- root cause analysis ---------- */
+    'evo.rcaTitle': '根因分析',
+    'evo.rcaDesc': 'Top 痛点背后的 {n} 个根因',
+    'evo.severity': '严重度 {v}%',
+    'evo.scenario': '场景：',
+    'evo.users': '人群：',
+
+    /* ---------- parameter table ---------- */
+    'evo.tableTitle': '参数级升级',
+    'evo.tableSub': '优先级 = 痛点分数 × 置信度',
+    'evo.tableTooltip': '推导式优先级：P0 ≥ 45、P1 ≥ 25（痛点分数 × 置信度）。状态反映证据强度，非工程验证结论。',
+    'evo.tableHint': '· 点击行查看完整建议',
+    'evo.searchPlaceholder': '搜索参数…',
+    'evo.filterAria': '按痛点筛选',
+    'evo.sortAria': '参数排序',
+    'evo.allPains': '全部痛点',
+    'evo.sort.priority': '排序：优先级',
+    'evo.sort.confidence': '排序：置信度',
+    'evo.sort.evidence': '排序：证据数',
+    'evo.sort.parameter': '排序：参数名',
+    'evo.col.priority': '优先级',
+    'evo.col.parameter': '参数',
+    'evo.col.current': '现状',
+    'evo.col.recommended': '建议方案',
+    'evo.col.reason': '依据',
+    'evo.col.confidence': '置信度',
+    'evo.col.evidence': '证据',
+    'evo.col.status': '状态',
+    'evo.status.ready': '就绪',
+    'evo.status.validate': '需验证',
+    'evo.status.lowEvidence': '证据不足',
+    'evo.painScoreTitle': '痛点分数 {v}',
+    'evo.empty': '没有参数匹配当前搜索 / 筛选条件。',
+
+    /* ---------- parameter drawer detail ---------- */
+    'evo.field.parameter': '参数',
+    'evo.field.problem': '问题',
+    'evo.field.proposed': '建议',
+    'evo.field.reason': '依据',
+    'evo.field.confidence': '置信度',
+    'evo.field.affectedPain': '关联痛点',
+    'evo.scoreInline': '分数 {v}',
+    'evo.paramNote': '优先级由痛点分数 × 置信度推导（推导式优先级），非工程验证结论。',
+
+    /* ---------- evidence drawer props ---------- */
+    'evo.drawerParamTitle': '参数 · {name}',
+    'evo.drawerParamDesc': '触发痛点：{pain}',
+
+    /* ---------- error / empty states ---------- */
+    'evo.errorTitle': '产品进化不可用',
+    'evo.noData': '暂无分析数据',
+
+    /* ---------- parameter name catalog (backend snake_case enums) ---------- */
+    'evo.param.lid_seal': '杯盖密封',
+    'evo.param.heat_settings': '温度/风量档位',
+    'evo.param.accessory_matrix': '发质配件矩阵',
+    'evo.param.bristle_stiffness': '刷毛硬度',
+    'evo.param.tufting_strength': '植毛牢固度',
+    'evo.param.efficacy_claim': '功效承诺呈现',
+    'evo.param.usage_guide': '使用指引',
+    'evo.param.compatibility_chart': '型号适配对照',
+    'evo.param.part_labeling': '配件型号标识',
+    'evo.param.suction_design': '吸盘结构',
+    'evo.param.surface_guide': '适用面说明',
+    'evo.param.motor_power': '电机功率',
+    'evo.param.battery_capacity': '电池容量',
+    'evo.param.listing_fidelity': 'Listing 图真实性',
+    'evo.param.finish_quality': '表面工艺',
+    'evo.param.ergonomics': '人机握持设计',
+    'evo.param.one_hand_use': '单手操作结构',
+    'evo.param.straw_valve': '吸管单向阀',
+    'evo.param.lid_structure': '杯盖结构',
+    'evo.param.lid_diameter': '杯盖口径',
+    'evo.param.material_grade': '材质等级',
+    'evo.param.base_diameter': '底部直径',
+    'evo.param.base_grip': '底部防滑',
+    'evo.param.vacuum_wall': '真空保温层',
+    'evo.param.lid_thermal_break': '杯盖隔热',
+    'evo.param.mechanism_reliability': '机构可靠性',
+    'evo.param.qc_sampling': '出厂抽检',
+    'evo.param.hinge_durability': '铰链耐久',
+    'evo.param.straw_material': '吸管材质',
+    'evo.param.qc_outgassing': '异味检测',
+    'evo.param.wall_thickness': '杯壁厚度',
+    'evo.param.coating_process': '涂层工艺',
+    'evo.param.sku_matrix': 'SKU 矩阵',
+    'evo.param.listing_dimensions': '详情页尺寸信息',
+    'evo.param.cost_engineering': '成本与工程',
+    'evo.param.packaging_spec': '包装规格',
+    'evo.param.listing_accuracy': '详情页准确性',
+    'evo.param.formulation': '配方',
+    'evo.param.labeling': '成分标注',
+    'evo.param.packaging_airtight': '包装气密性',
+    'evo.param.shelf_life_control': '保质期管控',
+    'evo.param.anti_counterfeit': '防伪溯源',
+    'evo.param.manualReview': '人工评审',
+
+    /* ---------- sankey node-name fallbacks (only when bare names collide) ---------- */
+    'evo.sankey.fbPain': '痛点 · {n}',
+    'evo.sankey.fbRoot': '根因 · {n}',
+    'evo.sankey.fbParam': '参数 · {n}',
+  },
+  en: {
+    /* ---------- header ---------- */
+    'evo.eyebrow': 'Product Evolution',
+    'evo.headline': 'From {neg} negative reviews to {count} parameter upgrades',
+    'evo.subtitle': "AI doesn't just find problems — it turns them into the next product.",
+    'evo.launchAssets': 'Launch Assets',
+    'evo.insightTag': 'AI Insight · Evolution',
+    'evo.insight': '{count} product parameters are linked to {pains} evidence-backed pain clusters — {p0} of them are P0 (high pain score × high confidence). Every change traces back to customer reviews.',
+
+    /* ---------- evolution bridge ---------- */
+    'evo.evidenceReviews': '{n} evidence reviews',
+
+    /* ---------- V1 / V2 cards ---------- */
+    'evo.currentProduct': 'Current Product',
+    'evo.productV1': 'Product V1',
+    'evo.aiEvolved': 'AI Evolved',
+    'evo.productV2': 'Product V2',
+
+    /* ---------- sankey card ---------- */
+    'evo.sankeyTitle': 'Product Evolution Sankey',
+    'evo.sankeyDesc': 'Pain → root cause → parameter · node weights are real review / evidence counts · click a pain node for evidence',
+
+    /* ---------- root-cause categories (transparent keyword classifier) ---------- */
+    'rcCat.reliability': 'Reliability',
+    'rcCat.cleaning': 'Cleaning & maintenance',
+    'rcCat.dimension': 'Fit & dimensions',
+    'rcCat.info': 'Info & packaging',
+    'rcCat.material': 'Material grade',
+    'rcCat.process': 'Process quality',
+    'rcCat.structure': 'Structural design',
+    'rcCat.ergonomics': 'Ergonomics',
+    'rcCat.performance': 'Power & efficacy',
+    'rcCat.general': 'General',
+
+    /* ---------- sankey tooltips ---------- */
+    'evo.sankey.tipReviews': '{n} negative reviews',
+    'evo.sankey.tipScore': 'pain score {s}',
+    'evo.sankey.tipClick': 'Click to view evidence',
+    'evo.sankey.tipRcCat': 'auto-classified by keyword rules',
+    'evo.sankey.tipSeverity': 'severity {v}%',
+    'evo.sankey.tipEvCount': '{n} evidence',
+    'evo.sankey.tipConf': 'confidence {v}%',
+    'evo.sankey.tipPrio': 'Derived priority: P0 ≥ 45 · P1 ≥ 25 (pain score × confidence)',
+
+    /* ---------- capability matrix card ---------- */
+    'evo.matrixTitle': 'Capability Evolution Matrix',
+    'evo.matrixDesc2d': 'V1 (muted dashed) vs V2 (primary) · capabilities come from this product\u2019s real pain points · 0–100 scale',
+    'evo.matrixDesc3d': 'X = capability · Y = V1 / V2 / gain Δ · Z = score · drag to rotate',
+    'evo.matrixProvExtra': 'V1 = 100 − pain score × 0.62 · V2 = V1 + headroom × (0.55 + 0.4 × confidence) — all derived from real data.',
+    'evo.matrix.delta': 'Gain Δ',
+    'evo.matrix.deltaUnit': 'pts (V1 → V2)',
+    'evo.matrix.scale': '0–100 scale',
+    'evo.matrixViewAria': 'Matrix view',
+    'evo.matrix2d': '2D Radar',
+    'evo.matrix3d': '3D Matrix',
+    'evo.matrix3dTooltip': '3D matrix',
+    'evo.matrix3dUnavailable': '3D unavailable — WebGL off or reduced motion',
+    'evo.reset': 'Reset',
+
+    /* ---------- before / after slider ---------- */
+    'evo.baTitle': 'Before / After',
+    'evo.baDesc': 'Drag the handle to reveal the evolved product with parameter upgrade labels',
+    'evo.currentProductV1': 'Current Product · V1',
+    'evo.evolvedProductV2': 'Evolved Product · V2',
+    'evo.sliderAria': 'Before / after comparison slider',
+    'evo.sliderNote': 'Same product visual — V2 side highlights evidence-backed parameter upgrades (no fabricated product photo).',
+
+    /* ---------- root cause analysis ---------- */
+    'evo.rcaTitle': 'Root Cause Analysis',
+    'evo.rcaDesc': '{n} root causes behind the top pain points',
+    'evo.severity': 'severity {v}%',
+    'evo.scenario': 'Scenario: ',
+    'evo.users': 'Users: ',
+
+    /* ---------- parameter table ---------- */
+    'evo.tableTitle': 'Parameter-level Upgrades',
+    'evo.tableSub': 'Priority = pain score × confidence',
+    'evo.tableTooltip': 'Derived prioritization: P0 ≥ 45, P1 ≥ 25 (pain score × confidence). Status reflects evidence strength, not engineering validation.',
+    'evo.tableHint': '· click a row for the full recommendation',
+    'evo.searchPlaceholder': 'Search parameters…',
+    'evo.filterAria': 'Filter by pain point',
+    'evo.sortAria': 'Sort parameters',
+    'evo.allPains': 'All pain points',
+    'evo.sort.priority': 'Sort: Priority',
+    'evo.sort.confidence': 'Sort: Confidence',
+    'evo.sort.evidence': 'Sort: Evidence',
+    'evo.sort.parameter': 'Sort: Parameter',
+    'evo.col.priority': 'Priority',
+    'evo.col.parameter': 'Parameter',
+    'evo.col.current': 'Current',
+    'evo.col.recommended': 'Recommended',
+    'evo.col.reason': 'Reason',
+    'evo.col.confidence': 'Confidence',
+    'evo.col.evidence': 'Evidence',
+    'evo.col.status': 'Status',
+    'evo.status.ready': 'READY',
+    'evo.status.validate': 'VALIDATE',
+    'evo.status.lowEvidence': 'LOW EVIDENCE',
+    'evo.painScoreTitle': 'pain score {v}',
+    'evo.empty': 'No parameters match the current search / filter.',
+
+    /* ---------- parameter drawer detail ---------- */
+    'evo.field.parameter': 'Parameter',
+    'evo.field.problem': 'Problem',
+    'evo.field.proposed': 'Proposed',
+    'evo.field.reason': 'Reason',
+    'evo.field.confidence': 'Confidence',
+    'evo.field.affectedPain': 'Affected pain',
+    'evo.scoreInline': 'score {v}',
+    'evo.paramNote': 'Priority derives from pain score × confidence (derived prioritization) — not engineering validation.',
+
+    /* ---------- evidence drawer props ---------- */
+    'evo.drawerParamTitle': 'Parameter · {name}',
+    'evo.drawerParamDesc': 'triggered by pain point: {pain}',
+
+    /* ---------- error / empty states ---------- */
+    'evo.errorTitle': 'Evolution unavailable',
+    'evo.noData': 'No analysis data',
+
+    /* ---------- parameter name catalog (backend snake_case enums) ---------- */
+    'evo.param.lid_seal': 'Lid seal',
+    'evo.param.heat_settings': 'Heat & airflow settings',
+    'evo.param.accessory_matrix': 'Hair-type accessory matrix',
+    'evo.param.bristle_stiffness': 'Bristle stiffness',
+    'evo.param.tufting_strength': 'Tufting strength',
+    'evo.param.efficacy_claim': 'Efficacy claim',
+    'evo.param.usage_guide': 'Usage guide',
+    'evo.param.compatibility_chart': 'Compatibility chart',
+    'evo.param.part_labeling': 'Part labeling',
+    'evo.param.suction_design': 'Suction design',
+    'evo.param.surface_guide': 'Surface guide',
+    'evo.param.motor_power': 'Motor power',
+    'evo.param.battery_capacity': 'Battery capacity',
+    'evo.param.listing_fidelity': 'Listing fidelity',
+    'evo.param.finish_quality': 'Finish quality',
+    'evo.param.ergonomics': 'Ergonomics',
+    'evo.param.one_hand_use': 'One-hand use',
+    'evo.param.straw_valve': 'Straw valve',
+    'evo.param.lid_structure': 'Lid structure',
+    'evo.param.lid_diameter': 'Lid diameter',
+    'evo.param.material_grade': 'Material grade',
+    'evo.param.base_diameter': 'Base diameter',
+    'evo.param.base_grip': 'Base grip',
+    'evo.param.vacuum_wall': 'Vacuum wall',
+    'evo.param.lid_thermal_break': 'Lid thermal break',
+    'evo.param.mechanism_reliability': 'Mechanism reliability',
+    'evo.param.qc_sampling': 'QC sampling',
+    'evo.param.hinge_durability': 'Hinge durability',
+    'evo.param.straw_material': 'Straw material',
+    'evo.param.qc_outgassing': 'Odor QC check',
+    'evo.param.wall_thickness': 'Wall thickness',
+    'evo.param.coating_process': 'Coating process',
+    'evo.param.sku_matrix': 'SKU matrix',
+    'evo.param.listing_dimensions': 'Listing dimensions',
+    'evo.param.cost_engineering': 'Cost engineering',
+    'evo.param.packaging_spec': 'Packaging spec',
+    'evo.param.listing_accuracy': 'Listing accuracy',
+    'evo.param.formulation': 'Formulation',
+    'evo.param.labeling': 'Labeling',
+    'evo.param.packaging_airtight': 'Packaging airtightness',
+    'evo.param.shelf_life_control': 'Shelf-life control',
+    'evo.param.anti_counterfeit': 'Anti-counterfeit',
+    'evo.param.manualReview': 'Manual review',
+
+    'evo.sankey.fbPain': 'Pain · {n}',
+    'evo.sankey.fbRoot': 'Root · {n}',
+    'evo.sankey.fbParam': 'Param · {n}',
+  },
+})

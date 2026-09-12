@@ -1,0 +1,546 @@
+{
+  "product_id": "B06Y44MMT6",
+  "product_title": "Segbeauty empty bottle 082",
+  "category": "All_Beauty",
+  "data_source": "amazon_reviews_2023",
+  "generated_at": "2026-08-17T16:42:49",
+  "llm_mode": "mock",
+  "stats": {
+    "total_reviews": 619,
+    "negative_reviews": 86,
+    "avg_rating": 4.48,
+    "rating_distribution": {
+      "1": 52,
+      "2": 15,
+      "3": 19,
+      "4": 33,
+      "5": 500
+    },
+    "date_range": [
+      "1494409196",
+      "1667532578"
+    ],
+    "cluster_method": "tfidf_kmeans",
+    "n_clusters_raw": 4
+  },
+  "pain_points": [
+    {
+      "name": "Value & Price",
+      "display_name": "性价比质疑",
+      "label_source": "lexicon",
+      "cluster_ids": [
+        1
+      ],
+      "review_count": 24,
+      "total_negative": 86,
+      "share": 0.2791,
+      "avg_rating": 1.42,
+      "keywords": [
+        "bottle",
+        "spray",
+        "product",
+        "water",
+        "work",
+        "mist",
+        "used",
+        "great",
+        "price",
+        "expensive",
+        "overpriced",
+        "worth it"
+      ],
+      "frequency": 0.2791,
+      "severity": 0.895,
+      "helpfulness": 1.0,
+      "recency": 0.5,
+      "pain_score": 100.0,
+      "score_components": {
+        "frequency": 0.279,
+        "severity": 0.895,
+        "helpfulness": 1.0,
+        "recency": 0.5
+      },
+      "cluster_id": 1,
+      "evidence_review_ids": [
+        "B06Y44MMT6-375",
+        "B06Y44MMT6-523",
+        "B06Y44MMT6-32",
+        "B06Y44MMT6-410",
+        "B06Y44MMT6-448",
+        "B06Y44MMT6-373",
+        "B06Y44MMT6-417",
+        "B06Y44MMT6-507",
+        "B06Y44MMT6-10",
+        "B06Y44MMT6-312",
+        "B06Y44MMT6-606",
+        "B06Y44MMT6-512",
+        "B06Y44MMT6-149",
+        "B06Y44MMT6-97",
+        "B06Y44MMT6-384",
+        "B06Y44MMT6-314",
+        "B06Y44MMT6-412",
+        "B06Y44MMT6-481",
+        "B06Y44MMT6-575",
+        "B06Y44MMT6-600",
+        "B06Y44MMT6-268",
+        "B06Y44MMT6-347",
+        "B06Y44MMT6-578",
+        "B06Y44MMT6-46"
+      ],
+      "representative_review_ids": [
+        "B06Y44MMT6-32",
+        "B06Y44MMT6-375",
+        "B06Y44MMT6-523"
+      ],
+      "evidence_status": "ok"
+    },
+    {
+      "name": "Functional Failure",
+      "display_name": "功能失效 / 无法工作",
+      "label_source": "lexicon",
+      "cluster_ids": [
+        3
+      ],
+      "review_count": 18,
+      "total_negative": 86,
+      "share": 0.2093,
+      "avg_rating": 1.61,
+      "keywords": [
+        "months",
+        "stopped",
+        "bottle",
+        "working",
+        "worked",
+        "great",
+        "spray",
+        "just",
+        "stopped working",
+        "stopped spraying",
+        "quit working",
+        "quit spraying"
+      ],
+      "frequency": 0.2093,
+      "severity": 0.8475,
+      "helpfulness": 0.4188,
+      "recency": 1.0,
+      "pain_score": 59.5,
+      "score_components": {
+        "frequency": 0.209,
+        "severity": 0.847,
+        "helpfulness": 0.419,
+        "recency": 1.0
+      },
+      "cluster_id": 3,
+      "evidence_review_ids": [
+        "B06Y44MMT6-216",
+        "B06Y44MMT6-60",
+        "B06Y44MMT6-162",
+        "B06Y44MMT6-461",
+        "B06Y44MMT6-381",
+        "B06Y44MMT6-279",
+        "B06Y44MMT6-64",
+        "B06Y44MMT6-129",
+        "B06Y44MMT6-380",
+        "B06Y44MMT6-636",
+        "B06Y44MMT6-605",
+        "B06Y44MMT6-168",
+        "B06Y44MMT6-378",
+        "B06Y44MMT6-71",
+        "B06Y44MMT6-39",
+        "B06Y44MMT6-497",
+        "B06Y44MMT6-642",
+        "B06Y44MMT6-475"
+      ],
+      "representative_review_ids": [
+        "B06Y44MMT6-60",
+        "B06Y44MMT6-162",
+        "B06Y44MMT6-216"
+      ],
+      "evidence_status": "ok"
+    },
+    {
+      "name": "Odor & Taste",
+      "display_name": "异味 / 塑料味",
+      "label_source": "lexicon",
+      "cluster_ids": [
+        0
+      ],
+      "review_count": 29,
+      "total_negative": 86,
+      "share": 0.3372,
+      "avg_rating": 1.9,
+      "keywords": [
+        "water",
+        "spray",
+        "bottle",
+        "smell",
+        "smells",
+        "like",
+        "great",
+        "mist",
+        "odor",
+        "odour",
+        "taste",
+        "tastes"
+      ],
+      "frequency": 0.3372,
+      "severity": 0.775,
+      "helpfulness": 0.3,
+      "recency": 0.678,
+      "pain_score": 42.6,
+      "score_components": {
+        "frequency": 0.337,
+        "severity": 0.775,
+        "helpfulness": 0.3,
+        "recency": 0.678
+      },
+      "cluster_id": 0,
+      "evidence_review_ids": [
+        "B06Y44MMT6-533",
+        "B06Y44MMT6-536",
+        "B06Y44MMT6-511",
+        "B06Y44MMT6-333",
+        "B06Y44MMT6-539",
+        "B06Y44MMT6-623",
+        "B06Y44MMT6-309",
+        "B06Y44MMT6-397",
+        "B06Y44MMT6-546",
+        "B06Y44MMT6-285",
+        "B06Y44MMT6-639",
+        "B06Y44MMT6-147",
+        "B06Y44MMT6-608",
+        "B06Y44MMT6-498",
+        "B06Y44MMT6-311",
+        "B06Y44MMT6-440",
+        "B06Y44MMT6-555",
+        "B06Y44MMT6-389",
+        "B06Y44MMT6-183",
+        "B06Y44MMT6-534",
+        "B06Y44MMT6-630",
+        "B06Y44MMT6-602",
+        "B06Y44MMT6-322",
+        "B06Y44MMT6-638",
+        "B06Y44MMT6-89",
+        "B06Y44MMT6-189",
+        "B06Y44MMT6-58",
+        "B06Y44MMT6-631",
+        "B06Y44MMT6-222"
+      ],
+      "representative_review_ids": [
+        "B06Y44MMT6-511",
+        "B06Y44MMT6-533",
+        "B06Y44MMT6-536"
+      ],
+      "evidence_status": "ok"
+    },
+    {
+      "name": "Drying & Clogging",
+      "display_name": "堵塞 / 干涸 / 雾化不佳",
+      "label_source": "lexicon",
+      "cluster_ids": [
+        2
+      ],
+      "review_count": 15,
+      "total_negative": 86,
+      "share": 0.1744,
+      "avg_rating": 1.4,
+      "keywords": [
+        "spray",
+        "continuous",
+        "bottle",
+        "longer",
+        "mist",
+        "seconds",
+        "water",
+        "ounces",
+        "clog",
+        "clogged",
+        "clogs",
+        "clogging"
+      ],
+      "frequency": 0.1744,
+      "severity": 0.9,
+      "helpfulness": 0.3499,
+      "recency": 0.7878,
+      "pain_score": 34.6,
+      "score_components": {
+        "frequency": 0.174,
+        "severity": 0.9,
+        "helpfulness": 0.35,
+        "recency": 0.788
+      },
+      "cluster_id": 2,
+      "evidence_review_ids": [
+        "B06Y44MMT6-73",
+        "B06Y44MMT6-258",
+        "B06Y44MMT6-146",
+        "B06Y44MMT6-152",
+        "B06Y44MMT6-140",
+        "B06Y44MMT6-203",
+        "B06Y44MMT6-158",
+        "B06Y44MMT6-395",
+        "B06Y44MMT6-362",
+        "B06Y44MMT6-329",
+        "B06Y44MMT6-260",
+        "B06Y44MMT6-261",
+        "B06Y44MMT6-634",
+        "B06Y44MMT6-82",
+        "B06Y44MMT6-466"
+      ],
+      "representative_review_ids": [
+        "B06Y44MMT6-73",
+        "B06Y44MMT6-146",
+        "B06Y44MMT6-258"
+      ],
+      "evidence_status": "ok"
+    }
+  ],
+  "root_causes": {
+    "Value & Price": {
+      "pain_point": "Value & Price",
+      "root_cause": "价格带与感知质量错位：核心痛点（漏水/清洁）拉低价值感知",
+      "affected_scenario": "比价 / 复购决策",
+      "affected_users": "价格敏感型用户",
+      "severity": 0.895,
+      "evidence_ids": [
+        "B06Y44MMT6-375",
+        "B06Y44MMT6-523",
+        "B06Y44MMT6-32",
+        "B06Y44MMT6-410",
+        "B06Y44MMT6-448"
+      ],
+      "source": "heuristic"
+    },
+    "Functional Failure": {
+      "pain_point": "Functional Failure",
+      "root_cause": "核心机构（泵芯/电机/联动结构）可靠性不足：缺乏出厂寿命测试与批次抽检",
+      "affected_scenario": "正常使用数天至数月后失效",
+      "affected_users": "所有用户（直接导致退货与差评）",
+      "severity": 0.8475,
+      "evidence_ids": [
+        "B06Y44MMT6-216",
+        "B06Y44MMT6-60",
+        "B06Y44MMT6-162",
+        "B06Y44MMT6-461",
+        "B06Y44MMT6-381"
+      ],
+      "source": "heuristic"
+    },
+    "Odor & Taste": {
+      "pain_point": "Odor & Taste",
+      "root_cause": "密封圈与塑料件材料等级不足，初期挥发物残留",
+      "affected_scenario": "开箱首用 / 长时间存放后",
+      "affected_users": "所有用户（首因效应，直接影响退货率）",
+      "severity": 0.775,
+      "evidence_ids": [
+        "B06Y44MMT6-533",
+        "B06Y44MMT6-536",
+        "B06Y44MMT6-511",
+        "B06Y44MMT6-333",
+        "B06Y44MMT6-539"
+      ],
+      "source": "heuristic"
+    },
+    "Drying & Clogging": {
+      "pain_point": "Drying & Clogging",
+      "root_cause": "包装气密性不足导致内容物挥发/氧化；或库存周期过长",
+      "affected_scenario": "开箱首用 / 中长期使用",
+      "affected_users": "所有用户",
+      "severity": 0.9,
+      "evidence_ids": [
+        "B06Y44MMT6-73",
+        "B06Y44MMT6-258",
+        "B06Y44MMT6-146",
+        "B06Y44MMT6-152",
+        "B06Y44MMT6-140"
+      ],
+      "source": "heuristic"
+    }
+  },
+  "product_v2": {
+    "positioning": "针对 V1 差评中 Top 痛点（性价比质疑、功能失效 / 无法工作、异味 / 塑料味）全面重构的 V2 版本：以真实评论证据驱动参数级改进，主打「痛点清零 + 可验证升级」，面向高频通勤/户外场景用户，用 Evidence 营销建立信任壁垒。",
+    "parameters": [
+      {
+        "parameter": "cost_engineering",
+        "current_state": "定价高于同类且痛点未解决",
+        "recommended_state": "优先解决 Top 痛点以支撑价格带；推出以旧换新留存策略",
+        "pain_point": "Value & Price",
+        "reason": "根因：价格带与感知质量错位：核心痛点（漏水/清洁）拉低价值感知。该痛点 24 条负面评论 (占比 27.9%)，平均 1.42 星",
+        "evidence_ids": [
+          "B06Y44MMT6-375",
+          "B06Y44MMT6-523",
+          "B06Y44MMT6-32",
+          "B06Y44MMT6-410",
+          "B06Y44MMT6-448",
+          "B06Y44MMT6-373"
+        ],
+        "confidence": 0.95,
+        "source": "heuristic"
+      },
+      {
+        "parameter": "mechanism_reliability",
+        "current_state": "泵芯/机构无寿命强化设计",
+        "recommended_state": "加强机构寿命设计与开合疲劳测试（engineering validation required）",
+        "pain_point": "Functional Failure",
+        "reason": "根因：核心机构（泵芯/电机/联动结构）可靠性不足：缺乏出厂寿命测试与批次抽检。该痛点 18 条负面评论 (占比 20.9%)，平均 1.61 星",
+        "evidence_ids": [
+          "B06Y44MMT6-216",
+          "B06Y44MMT6-60",
+          "B06Y44MMT6-162",
+          "B06Y44MMT6-461",
+          "B06Y44MMT6-381",
+          "B06Y44MMT6-279"
+        ],
+        "confidence": 0.92,
+        "source": "heuristic"
+      },
+      {
+        "parameter": "qc_sampling",
+        "current_state": "无功能全检/抽检标准",
+        "recommended_state": "出厂功能全检 + 批次抽检可靠性测试",
+        "pain_point": "Functional Failure",
+        "reason": "根因：核心机构（泵芯/电机/联动结构）可靠性不足：缺乏出厂寿命测试与批次抽检。该痛点 18 条负面评论 (占比 20.9%)，平均 1.61 星",
+        "evidence_ids": [
+          "B06Y44MMT6-216",
+          "B06Y44MMT6-60",
+          "B06Y44MMT6-162",
+          "B06Y44MMT6-461",
+          "B06Y44MMT6-381",
+          "B06Y44MMT6-279"
+        ],
+        "confidence": 0.92,
+        "source": "heuristic"
+      },
+      {
+        "parameter": "material_grade",
+        "current_state": "普通硅胶/PP",
+        "recommended_state": "食品级低挥发硅胶 + 出厂前高温固化工艺",
+        "pain_point": "Odor & Taste",
+        "reason": "根因：密封圈与塑料件材料等级不足，初期挥发物残留。该痛点 29 条负面评论 (占比 33.7%)，平均 1.9 星",
+        "evidence_ids": [
+          "B06Y44MMT6-533",
+          "B06Y44MMT6-536",
+          "B06Y44MMT6-511",
+          "B06Y44MMT6-333",
+          "B06Y44MMT6-539",
+          "B06Y44MMT6-623"
+        ],
+        "confidence": 0.95,
+        "source": "heuristic"
+      },
+      {
+        "parameter": "qc_outgassing",
+        "current_state": "无出厂异味检测",
+        "recommended_state": "增加出厂气味等级抽检标准",
+        "pain_point": "Odor & Taste",
+        "reason": "根因：密封圈与塑料件材料等级不足，初期挥发物残留。该痛点 29 条负面评论 (占比 33.7%)，平均 1.9 星",
+        "evidence_ids": [
+          "B06Y44MMT6-533",
+          "B06Y44MMT6-536",
+          "B06Y44MMT6-511",
+          "B06Y44MMT6-333",
+          "B06Y44MMT6-539",
+          "B06Y44MMT6-623"
+        ],
+        "confidence": 0.95,
+        "source": "heuristic"
+      },
+      {
+        "parameter": "packaging_airtight",
+        "current_state": "常规旋盖/软管",
+        "recommended_state": "加强气密结构 + 防逆流泵头（工程验证 required）",
+        "pain_point": "Drying & Clogging",
+        "reason": "根因：包装气密性不足导致内容物挥发/氧化；或库存周期过长。该痛点 15 条负面评论 (占比 17.4%)，平均 1.4 星",
+        "evidence_ids": [
+          "B06Y44MMT6-73",
+          "B06Y44MMT6-258",
+          "B06Y44MMT6-146",
+          "B06Y44MMT6-152",
+          "B06Y44MMT6-140",
+          "B06Y44MMT6-203"
+        ],
+        "confidence": 0.89,
+        "source": "heuristic"
+      },
+      {
+        "parameter": "shelf_life_control",
+        "current_state": "库存周转无批次管理",
+        "recommended_state": "出厂日期喷码 + 先进先出批次管理",
+        "pain_point": "Drying & Clogging",
+        "reason": "根因：包装气密性不足导致内容物挥发/氧化；或库存周期过长。该痛点 15 条负面评论 (占比 17.4%)，平均 1.4 星",
+        "evidence_ids": [
+          "B06Y44MMT6-73",
+          "B06Y44MMT6-258",
+          "B06Y44MMT6-146",
+          "B06Y44MMT6-152",
+          "B06Y44MMT6-140",
+          "B06Y44MMT6-203"
+        ],
+        "confidence": 0.89,
+        "source": "heuristic"
+      }
+    ],
+    "selling_points": [
+      "彻底解决性价比质疑：优先解决 Top 痛点以支撑价格带；推出以旧换新留存策略（依据 24 条真实差评）",
+      "彻底解决功能失效 / 无法工作：加强机构寿命设计与开合疲劳测试（依据 18 条真实差评）",
+      "彻底解决异味 / 塑料味：食品级低挥发硅胶 + 出厂前高温固化工艺（依据 29 条真实差评）",
+      "彻底解决堵塞 / 干涸 / 雾化不佳：加强气密结构 + 防逆流泵头（依据 15 条真实差评）"
+    ],
+    "before_after_profile": {
+      "metrics": [
+        "性价比质疑",
+        "功能失效 / 无法工作",
+        "异味 / 塑料味",
+        "堵塞 / 干涸 / 雾化不佳"
+      ],
+      "v1": [
+        38.0,
+        63.1,
+        73.6,
+        78.5
+      ],
+      "v2": [
+        92.9,
+        94.2,
+        95.4,
+        95.3
+      ]
+    }
+  },
+  "listing": {
+    "title": "Segbeauty V2 – upgrades that justify every cent, factory-tested long-life mechanism, food-grade odor-free materials | Redesigned from Real Customer Reviews",
+    "bullets": [
+      "[SOLVED: Value Concerns] Upgraded to upgrades that justify every cent — based on 24 real reviews (24 verifiable evidence quotes), avg 1.42 -> target 4.5+",
+      "[SOLVED: Stops Working] Upgraded to factory-tested long-life mechanism — based on 18 real reviews (18 verifiable evidence quotes), avg 1.61 -> target 4.5+",
+      "[SOLVED: Bad Odor] Upgraded to food-grade odor-free materials — based on 29 real reviews (29 verifiable evidence quotes), avg 1.9 -> target 4.5+",
+      "[SOLVED: Clogging/Drying] Upgraded to anti-clog airtight pump system — based on 15 real reviews (15 verifiable evidence quotes), avg 1.4 -> target 4.5+"
+    ],
+    "faq": [
+      {
+        "q": "Customers reported 'Value Concerns' on V1 — is it fixed?",
+        "a": "Yes. V2 addresses it with upgrades that justify every cent (engineering validation required)."
+      },
+      {
+        "q": "Customers reported 'Stops Working' on V1 — is it fixed?",
+        "a": "Yes. V2 addresses it with factory-tested long-life mechanism (engineering validation required)."
+      },
+      {
+        "q": "Customers reported 'Bad Odor' on V1 — is it fixed?",
+        "a": "Yes. V2 addresses it with food-grade odor-free materials (engineering validation required)."
+      },
+      {
+        "q": "Customers reported 'Clogging/Drying' on V1 — is it fixed?",
+        "a": "Yes. V2 addresses it with anti-clog airtight pump system (engineering validation required)."
+      }
+    ],
+    "main_image_strategy": [
+      "主图1：白底产品主视觉（V2 双密封结构局部剖面光效）",
+      "场景图：针对「性价比质疑」的 Before/After 对比",
+      "场景图：针对「功能失效 / 无法工作」的 Before/After 对比",
+      "主图7：食品级材质认证卡片特写",
+      "场景图：针对「堵塞 / 干涸 / 雾化不佳」的 Before/After 对比"
+    ],
+    "marketing_message": "Every V2 upgrade is backed by real customer reviews — 86 negative voices turned into 7 engineering changes.",
+    "source": "heuristic"
+  }
+}

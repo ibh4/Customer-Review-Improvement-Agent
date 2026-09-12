@@ -1,0 +1,417 @@
+{
+  "product_id": "B08B1PR9C7",
+  "product_title": "Poly Gel Nail Kit, opove Nail Builder Gel Extension Nail thickening Solution French Nail Art Equitment - 6 Colors 15ML",
+  "category": "All_Beauty",
+  "data_source": "amazon_reviews_2023",
+  "generated_at": "2026-08-17T16:42:44",
+  "llm_mode": "mock",
+  "stats": {
+    "total_reviews": 737,
+    "negative_reviews": 61,
+    "avg_rating": 4.61,
+    "rating_distribution": {
+      "1": 33,
+      "2": 11,
+      "3": 17,
+      "4": 92,
+      "5": 584
+    },
+    "date_range": [
+      "1594278943",
+      "1676933599"
+    ],
+    "cluster_method": "tfidf_kmeans",
+    "n_clusters_raw": 4
+  },
+  "pain_points": [
+    {
+      "name": "Effectiveness",
+      "display_name": "见效慢/效果不符",
+      "label_source": "lexicon_terms",
+      "cluster_ids": [
+        0,
+        1
+      ],
+      "review_count": 31,
+      "total_negative": 61,
+      "share": 0.5082,
+      "avg_rating": 1.68,
+      "keywords": [
+        "nail",
+        "product",
+        "nails",
+        "easy",
+        "think",
+        "light",
+        "really",
+        "hard",
+        "no results",
+        "no difference",
+        "didn't help",
+        "didn't remove"
+      ],
+      "frequency": 0.5082,
+      "severity": 0.83,
+      "helpfulness": 1.0,
+      "recency": 1.0,
+      "pain_score": 100.0,
+      "score_components": {
+        "frequency": 0.508,
+        "severity": 0.83,
+        "helpfulness": 1.0,
+        "recency": 1.0
+      },
+      "cluster_id": 0,
+      "evidence_review_ids": [
+        "B08B1PR9C7-146",
+        "B08B1PR9C7-406",
+        "B08B1PR9C7-557",
+        "B08B1PR9C7-657",
+        "B08B1PR9C7-394",
+        "B08B1PR9C7-617",
+        "B08B1PR9C7-332",
+        "B08B1PR9C7-246",
+        "B08B1PR9C7-275",
+        "B08B1PR9C7-559",
+        "B08B1PR9C7-738",
+        "B08B1PR9C7-698",
+        "B08B1PR9C7-11",
+        "B08B1PR9C7-31",
+        "B08B1PR9C7-534",
+        "B08B1PR9C7-218",
+        "B08B1PR9C7-260",
+        "B08B1PR9C7-264",
+        "B08B1PR9C7-688",
+        "B08B1PR9C7-641",
+        "B08B1PR9C7-142",
+        "B08B1PR9C7-506",
+        "B08B1PR9C7-487",
+        "B08B1PR9C7-12",
+        "B08B1PR9C7-265",
+        "B08B1PR9C7-239",
+        "B08B1PR9C7-753",
+        "B08B1PR9C7-217",
+        "B08B1PR9C7-305",
+        "B08B1PR9C7-300",
+        "B08B1PR9C7-670"
+      ],
+      "representative_review_ids": [
+        "B08B1PR9C7-146",
+        "B08B1PR9C7-406",
+        "B08B1PR9C7-557"
+      ],
+      "evidence_status": "ok"
+    },
+    {
+      "name": "Value & Price",
+      "display_name": "性价比质疑",
+      "label_source": "lexicon",
+      "cluster_ids": [
+        3
+      ],
+      "review_count": 19,
+      "total_negative": 61,
+      "share": 0.3115,
+      "avg_rating": 1.79,
+      "keywords": [
+        "nails",
+        "money",
+        "product",
+        "white",
+        "waste",
+        "lamp",
+        "great",
+        "colors",
+        "price",
+        "expensive",
+        "overpriced",
+        "worth it"
+      ],
+      "frequency": 0.3115,
+      "severity": 0.8025,
+      "helpfulness": 0.7283,
+      "recency": 0.5,
+      "pain_score": 21.6,
+      "score_components": {
+        "frequency": 0.311,
+        "severity": 0.802,
+        "helpfulness": 0.728,
+        "recency": 0.5
+      },
+      "cluster_id": 3,
+      "evidence_review_ids": [
+        "B08B1PR9C7-266",
+        "B08B1PR9C7-494",
+        "B08B1PR9C7-707",
+        "B08B1PR9C7-597",
+        "B08B1PR9C7-16",
+        "B08B1PR9C7-95",
+        "B08B1PR9C7-302",
+        "B08B1PR9C7-749",
+        "B08B1PR9C7-148",
+        "B08B1PR9C7-175",
+        "B08B1PR9C7-473",
+        "B08B1PR9C7-339",
+        "B08B1PR9C7-440",
+        "B08B1PR9C7-19",
+        "B08B1PR9C7-462",
+        "B08B1PR9C7-102",
+        "B08B1PR9C7-119",
+        "B08B1PR9C7-634",
+        "B08B1PR9C7-88"
+      ],
+      "representative_review_ids": [
+        "B08B1PR9C7-266",
+        "B08B1PR9C7-494",
+        "B08B1PR9C7-707"
+      ],
+      "evidence_status": "ok"
+    },
+    {
+      "name": "Ease of Use",
+      "display_name": "上手难/使用不便",
+      "label_source": "lexicon",
+      "cluster_ids": [
+        2
+      ],
+      "review_count": 11,
+      "total_negative": 61,
+      "share": 0.1803,
+      "avg_rating": 1.82,
+      "keywords": [
+        "hard",
+        "beginners",
+        "don't",
+        "money",
+        "easy",
+        "difficult",
+        "manageable",
+        "days",
+        "hard to use",
+        "difficult to use",
+        "instructions",
+        "confusing"
+      ],
+      "frequency": 0.1803,
+      "severity": 0.795,
+      "helpfulness": 0.3,
+      "recency": 0.5947,
+      "pain_score": 6.1,
+      "score_components": {
+        "frequency": 0.18,
+        "severity": 0.795,
+        "helpfulness": 0.3,
+        "recency": 0.595
+      },
+      "cluster_id": 2,
+      "evidence_review_ids": [
+        "B08B1PR9C7-730",
+        "B08B1PR9C7-117",
+        "B08B1PR9C7-529",
+        "B08B1PR9C7-40",
+        "B08B1PR9C7-244",
+        "B08B1PR9C7-255",
+        "B08B1PR9C7-181",
+        "B08B1PR9C7-151",
+        "B08B1PR9C7-136",
+        "B08B1PR9C7-450",
+        "B08B1PR9C7-109"
+      ],
+      "representative_review_ids": [
+        "B08B1PR9C7-117",
+        "B08B1PR9C7-529",
+        "B08B1PR9C7-730"
+      ],
+      "evidence_status": "ok"
+    }
+  ],
+  "root_causes": {
+    "Effectiveness": {
+      "pain_point": "Effectiveness",
+      "root_cause": "功效浓度/功率与用户预期错位：Listing 承诺效果与实际见效周期未对齐，缺少效果对照与周期说明",
+      "affected_scenario": "护肤/清洁/生发类产品使用 2–8 周",
+      "affected_users": "功效导向用户（差评核心来源）",
+      "severity": 0.83,
+      "evidence_ids": [
+        "B08B1PR9C7-146",
+        "B08B1PR9C7-406",
+        "B08B1PR9C7-557",
+        "B08B1PR9C7-657",
+        "B08B1PR9C7-394"
+      ],
+      "source": "heuristic"
+    },
+    "Value & Price": {
+      "pain_point": "Value & Price",
+      "root_cause": "价格带与感知质量错位：核心痛点（漏水/清洁）拉低价值感知",
+      "affected_scenario": "比价 / 复购决策",
+      "affected_users": "价格敏感型用户",
+      "severity": 0.8025,
+      "evidence_ids": [
+        "B08B1PR9C7-266",
+        "B08B1PR9C7-494",
+        "B08B1PR9C7-707",
+        "B08B1PR9C7-597",
+        "B08B1PR9C7-16"
+      ],
+      "source": "heuristic"
+    },
+    "Ease of Use": {
+      "pain_point": "Ease of Use",
+      "root_cause": "人机工程设计不足：握持/开合/装填等高频动作未做易用性验证",
+      "affected_scenario": "日常高频操作",
+      "affected_users": "所有用户",
+      "severity": 0.795,
+      "evidence_ids": [
+        "B08B1PR9C7-730",
+        "B08B1PR9C7-117",
+        "B08B1PR9C7-529",
+        "B08B1PR9C7-40",
+        "B08B1PR9C7-244"
+      ],
+      "source": "heuristic"
+    }
+  },
+  "product_v2": {
+    "positioning": "针对 V1 差评中 Top 痛点（见效慢/效果不符、性价比质疑、上手难/使用不便）全面重构的 V2 版本：以真实评论证据驱动参数级改进，主打「痛点清零 + 可验证升级」，面向高频通勤/户外场景用户，用 Evidence 营销建立信任壁垒。",
+    "parameters": [
+      {
+        "parameter": "efficacy_claim",
+        "current_state": "Listing 效果承诺单点化",
+        "recommended_state": "效果分层承诺（即时/28 天）+ 使用前后对照实拍",
+        "pain_point": "Effectiveness",
+        "reason": "根因：功效浓度/功率与用户预期错位：Listing 承诺效果与实际见效周期未对齐，缺少效果对照与周期说明。该痛点 31 条负面评论 (占比 50.8%)，平均 1.68 星",
+        "evidence_ids": [
+          "B08B1PR9C7-146",
+          "B08B1PR9C7-406",
+          "B08B1PR9C7-557",
+          "B08B1PR9C7-657",
+          "B08B1PR9C7-394",
+          "B08B1PR9C7-617"
+        ],
+        "confidence": 0.95,
+        "source": "heuristic"
+      },
+      {
+        "parameter": "usage_guide",
+        "current_state": "使用说明简略",
+        "recommended_state": "使用频次/手法/见效周期指引",
+        "pain_point": "Effectiveness",
+        "reason": "根因：功效浓度/功率与用户预期错位：Listing 承诺效果与实际见效周期未对齐，缺少效果对照与周期说明。该痛点 31 条负面评论 (占比 50.8%)，平均 1.68 星",
+        "evidence_ids": [
+          "B08B1PR9C7-146",
+          "B08B1PR9C7-406",
+          "B08B1PR9C7-557",
+          "B08B1PR9C7-657",
+          "B08B1PR9C7-394",
+          "B08B1PR9C7-617"
+        ],
+        "confidence": 0.95,
+        "source": "heuristic"
+      },
+      {
+        "parameter": "cost_engineering",
+        "current_state": "定价高于同类且痛点未解决",
+        "recommended_state": "优先解决 Top 痛点以支撑价格带；推出以旧换新留存策略",
+        "pain_point": "Value & Price",
+        "reason": "根因：价格带与感知质量错位：核心痛点（漏水/清洁）拉低价值感知。该痛点 19 条负面评论 (占比 31.1%)，平均 1.79 星",
+        "evidence_ids": [
+          "B08B1PR9C7-266",
+          "B08B1PR9C7-494",
+          "B08B1PR9C7-707",
+          "B08B1PR9C7-597",
+          "B08B1PR9C7-16",
+          "B08B1PR9C7-95"
+        ],
+        "confidence": 0.95,
+        "source": "heuristic"
+      },
+      {
+        "parameter": "ergonomics",
+        "current_state": "直筒/平板造型",
+        "recommended_state": "人机握持优化（收腰/防滑/配重）",
+        "pain_point": "Ease of Use",
+        "reason": "根因：人机工程设计不足：握持/开合/装填等高频动作未做易用性验证。该痛点 11 条负面评论 (占比 18.0%)，平均 1.82 星",
+        "evidence_ids": [
+          "B08B1PR9C7-730",
+          "B08B1PR9C7-117",
+          "B08B1PR9C7-529",
+          "B08B1PR9C7-40",
+          "B08B1PR9C7-244",
+          "B08B1PR9C7-255"
+        ],
+        "confidence": 0.87,
+        "source": "heuristic"
+      },
+      {
+        "parameter": "one_hand_use",
+        "current_state": "需双手操作",
+        "recommended_state": "单手操作结构（锁定/开合一键化）",
+        "pain_point": "Ease of Use",
+        "reason": "根因：人机工程设计不足：握持/开合/装填等高频动作未做易用性验证。该痛点 11 条负面评论 (占比 18.0%)，平均 1.82 星",
+        "evidence_ids": [
+          "B08B1PR9C7-730",
+          "B08B1PR9C7-117",
+          "B08B1PR9C7-529",
+          "B08B1PR9C7-40",
+          "B08B1PR9C7-244",
+          "B08B1PR9C7-255"
+        ],
+        "confidence": 0.87,
+        "source": "heuristic"
+      }
+    ],
+    "selling_points": [
+      "彻底解决见效慢/效果不符：效果分层承诺（依据 31 条真实差评）",
+      "彻底解决性价比质疑：优先解决 Top 痛点以支撑价格带；推出以旧换新留存策略（依据 19 条真实差评）",
+      "彻底解决上手难/使用不便：人机握持优化（依据 11 条真实差评）"
+    ],
+    "before_after_profile": {
+      "metrics": [
+        "见效慢/效果不符",
+        "性价比质疑",
+        "上手难/使用不便"
+      ],
+      "v1": [
+        38.0,
+        86.6,
+        95.0
+      ],
+      "v2": [
+        92.9,
+        96.3,
+        96.8
+      ]
+    }
+  },
+  "listing": {
+    "title": "Poly V2 – upgraded core design, upgrades that justify every cent | Redesigned from Real Customer Reviews",
+    "bullets": [
+      "[SOLVED: Effectiveness] Upgraded to a fully redesigned structure — based on 31 real reviews (31 verifiable evidence quotes), avg 1.68 -> target 4.5+",
+      "[SOLVED: Value Concerns] Upgraded to upgrades that justify every cent — based on 19 real reviews (19 verifiable evidence quotes), avg 1.79 -> target 4.5+",
+      "[SOLVED: Ease of Use] Upgraded to a fully redesigned structure — based on 11 real reviews (11 verifiable evidence quotes), avg 1.82 -> target 4.5+"
+    ],
+    "faq": [
+      {
+        "q": "Customers reported 'Effectiveness' on V1 — is it fixed?",
+        "a": "Yes. V2 addresses it with a fully redesigned structure (engineering validation required)."
+      },
+      {
+        "q": "Customers reported 'Value Concerns' on V1 — is it fixed?",
+        "a": "Yes. V2 addresses it with upgrades that justify every cent (engineering validation required)."
+      },
+      {
+        "q": "Customers reported 'Ease of Use' on V1 — is it fixed?",
+        "a": "Yes. V2 addresses it with a fully redesigned structure (engineering validation required)."
+      }
+    ],
+    "main_image_strategy": [
+      "主图1：白底产品主视觉（V2 双密封结构局部剖面光效）",
+      "场景图：针对「见效慢/效果不符」的 Before/After 对比",
+      "场景图：针对「性价比质疑」的 Before/After 对比",
+      "场景图：针对「上手难/使用不便」的 Before/After 对比"
+    ],
+    "marketing_message": "Every V2 upgrade is backed by real customer reviews — 61 negative voices turned into 5 engineering changes.",
+    "source": "heuristic"
+  }
+}

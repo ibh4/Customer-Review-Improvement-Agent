@@ -1,0 +1,406 @@
+{
+  "product_id": "B005BZQHEC",
+  "product_title": "Gauge Gear Ear Stretching Balm | 10 ml Jar | Piercing Aftercare | Stretched or Damaged Skin Care | All Natural Moisturizing Salve w/Jojoba",
+  "category": "All_Beauty",
+  "data_source": "amazon_reviews_2023",
+  "generated_at": "2026-08-17T16:44:35",
+  "llm_mode": "mock",
+  "stats": {
+    "total_reviews": 753,
+    "negative_reviews": 50,
+    "avg_rating": 4.75,
+    "rating_distribution": {
+      "1": 10,
+      "2": 9,
+      "3": 31,
+      "4": 61,
+      "5": 642
+    },
+    "date_range": [
+      "1314178016",
+      "1526192772"
+    ],
+    "cluster_method": "tfidf_kmeans",
+    "n_clusters_raw": 4
+  },
+  "pain_points": [
+    {
+      "name": "Effectiveness",
+      "display_name": "见效慢/效果不符",
+      "label_source": "lexicon",
+      "cluster_ids": [
+        0,
+        2
+      ],
+      "review_count": 27,
+      "total_negative": 50,
+      "share": 0.54,
+      "avg_rating": 2.33,
+      "keywords": [
+        "product",
+        "ears",
+        "just",
+        "don't",
+        "really",
+        "size",
+        "help",
+        "think",
+        "no results",
+        "no difference",
+        "didn't help",
+        "didn't remove"
+      ],
+      "frequency": 0.54,
+      "severity": 0.6675,
+      "helpfulness": 0.7908,
+      "recency": 0.5,
+      "pain_score": 100.0,
+      "score_components": {
+        "frequency": 0.54,
+        "severity": 0.667,
+        "helpfulness": 0.791,
+        "recency": 0.5
+      },
+      "cluster_id": 0,
+      "evidence_review_ids": [
+        "B005BZQHEC-634",
+        "B005BZQHEC-693",
+        "B005BZQHEC-111",
+        "B005BZQHEC-726",
+        "B005BZQHEC-358",
+        "B005BZQHEC-671",
+        "B005BZQHEC-405",
+        "B005BZQHEC-746",
+        "B005BZQHEC-138",
+        "B005BZQHEC-646",
+        "B005BZQHEC-230",
+        "B005BZQHEC-650",
+        "B005BZQHEC-409",
+        "B005BZQHEC-451",
+        "B005BZQHEC-169",
+        "B005BZQHEC-527",
+        "B005BZQHEC-541",
+        "B005BZQHEC-627",
+        "B005BZQHEC-258",
+        "B005BZQHEC-705",
+        "B005BZQHEC-490",
+        "B005BZQHEC-18",
+        "B005BZQHEC-54",
+        "B005BZQHEC-359",
+        "B005BZQHEC-151",
+        "B005BZQHEC-570",
+        "B005BZQHEC-263"
+      ],
+      "representative_review_ids": [
+        "B005BZQHEC-111",
+        "B005BZQHEC-634",
+        "B005BZQHEC-693"
+      ],
+      "evidence_status": "ok"
+    },
+    {
+      "name": "Value & Price",
+      "display_name": "性价比质疑",
+      "label_source": "lexicon",
+      "cluster_ids": [
+        1
+      ],
+      "review_count": 16,
+      "total_negative": 50,
+      "share": 0.32,
+      "avg_rating": 2.44,
+      "keywords": [
+        "just",
+        "stretching",
+        "ears",
+        "balm",
+        "product",
+        "does",
+        "used",
+        "stuff",
+        "price",
+        "expensive",
+        "overpriced",
+        "worth it"
+      ],
+      "frequency": 0.32,
+      "severity": 0.64,
+      "helpfulness": 1.0,
+      "recency": 0.5109,
+      "pain_score": 73.4,
+      "score_components": {
+        "frequency": 0.32,
+        "severity": 0.64,
+        "helpfulness": 1.0,
+        "recency": 0.511
+      },
+      "cluster_id": 1,
+      "evidence_review_ids": [
+        "B005BZQHEC-752",
+        "B005BZQHEC-579",
+        "B005BZQHEC-179",
+        "B005BZQHEC-588",
+        "B005BZQHEC-523",
+        "B005BZQHEC-700",
+        "B005BZQHEC-535",
+        "B005BZQHEC-304",
+        "B005BZQHEC-403",
+        "B005BZQHEC-87",
+        "B005BZQHEC-109",
+        "B005BZQHEC-40",
+        "B005BZQHEC-370",
+        "B005BZQHEC-630",
+        "B005BZQHEC-283",
+        "B005BZQHEC-578"
+      ],
+      "representative_review_ids": [
+        "B005BZQHEC-179",
+        "B005BZQHEC-579",
+        "B005BZQHEC-752"
+      ],
+      "evidence_status": "ok"
+    },
+    {
+      "name": "Size & Capacity",
+      "display_name": "尺寸/容量不合适",
+      "label_source": "lexicon",
+      "cluster_ids": [
+        3
+      ],
+      "review_count": 7,
+      "total_negative": 50,
+      "share": 0.14,
+      "avg_rating": 2.71,
+      "keywords": [
+        "stars",
+        "good",
+        "small",
+        "better",
+        "container",
+        "lasts",
+        "forever",
+        "issue",
+        "size",
+        "too big",
+        "too small",
+        "bulky"
+      ],
+      "frequency": 0.14,
+      "severity": 0.5725,
+      "helpfulness": 0.3,
+      "recency": 1.0,
+      "pain_score": 16.9,
+      "score_components": {
+        "frequency": 0.14,
+        "severity": 0.573,
+        "helpfulness": 0.3,
+        "recency": 1.0
+      },
+      "cluster_id": 3,
+      "evidence_review_ids": [
+        "B005BZQHEC-440",
+        "B005BZQHEC-53",
+        "B005BZQHEC-691",
+        "B005BZQHEC-428",
+        "B005BZQHEC-215",
+        "B005BZQHEC-237",
+        "B005BZQHEC-774"
+      ],
+      "representative_review_ids": [
+        "B005BZQHEC-53",
+        "B005BZQHEC-440",
+        "B005BZQHEC-691"
+      ],
+      "evidence_status": "ok"
+    }
+  ],
+  "root_causes": {
+    "Effectiveness": {
+      "pain_point": "Effectiveness",
+      "root_cause": "功效浓度/功率与用户预期错位：Listing 承诺效果与实际见效周期未对齐，缺少效果对照与周期说明",
+      "affected_scenario": "护肤/清洁/生发类产品使用 2–8 周",
+      "affected_users": "功效导向用户（差评核心来源）",
+      "severity": 0.6675,
+      "evidence_ids": [
+        "B005BZQHEC-634",
+        "B005BZQHEC-693",
+        "B005BZQHEC-111",
+        "B005BZQHEC-726",
+        "B005BZQHEC-358"
+      ],
+      "source": "heuristic"
+    },
+    "Value & Price": {
+      "pain_point": "Value & Price",
+      "root_cause": "价格带与感知质量错位：核心痛点（漏水/清洁）拉低价值感知",
+      "affected_scenario": "比价 / 复购决策",
+      "affected_users": "价格敏感型用户",
+      "severity": 0.64,
+      "evidence_ids": [
+        "B005BZQHEC-752",
+        "B005BZQHEC-579",
+        "B005BZQHEC-179",
+        "B005BZQHEC-588",
+        "B005BZQHEC-523"
+      ],
+      "source": "heuristic"
+    },
+    "Size & Capacity": {
+      "pain_point": "Size & Capacity",
+      "root_cause": "单一容量 SKU 覆盖场景有限，尺寸信息在 Listing 中呈现不清晰",
+      "affected_scenario": "书包侧袋 / 短途出行",
+      "affected_users": "学生 / 轻量化出行人群",
+      "severity": 0.5725,
+      "evidence_ids": [
+        "B005BZQHEC-440",
+        "B005BZQHEC-53",
+        "B005BZQHEC-691",
+        "B005BZQHEC-428",
+        "B005BZQHEC-215"
+      ],
+      "source": "heuristic"
+    }
+  },
+  "product_v2": {
+    "positioning": "针对 V1 差评中 Top 痛点（见效慢/效果不符、性价比质疑、尺寸/容量不合适）全面重构的 V2 版本：以真实评论证据驱动参数级改进，主打「痛点清零 + 可验证升级」，面向高频通勤/户外场景用户，用 Evidence 营销建立信任壁垒。",
+    "parameters": [
+      {
+        "parameter": "efficacy_claim",
+        "current_state": "Listing 效果承诺单点化",
+        "recommended_state": "效果分层承诺（即时/28 天）+ 使用前后对照实拍",
+        "pain_point": "Effectiveness",
+        "reason": "根因：功效浓度/功率与用户预期错位：Listing 承诺效果与实际见效周期未对齐，缺少效果对照与周期说明。该痛点 27 条负面评论 (占比 54.0%)，平均 2.33 星",
+        "evidence_ids": [
+          "B005BZQHEC-634",
+          "B005BZQHEC-693",
+          "B005BZQHEC-111",
+          "B005BZQHEC-726",
+          "B005BZQHEC-358",
+          "B005BZQHEC-671"
+        ],
+        "confidence": 0.95,
+        "source": "heuristic"
+      },
+      {
+        "parameter": "usage_guide",
+        "current_state": "使用说明简略",
+        "recommended_state": "使用频次/手法/见效周期指引",
+        "pain_point": "Effectiveness",
+        "reason": "根因：功效浓度/功率与用户预期错位：Listing 承诺效果与实际见效周期未对齐，缺少效果对照与周期说明。该痛点 27 条负面评论 (占比 54.0%)，平均 2.33 星",
+        "evidence_ids": [
+          "B005BZQHEC-634",
+          "B005BZQHEC-693",
+          "B005BZQHEC-111",
+          "B005BZQHEC-726",
+          "B005BZQHEC-358",
+          "B005BZQHEC-671"
+        ],
+        "confidence": 0.95,
+        "source": "heuristic"
+      },
+      {
+        "parameter": "cost_engineering",
+        "current_state": "定价高于同类且痛点未解决",
+        "recommended_state": "优先解决 Top 痛点以支撑价格带；推出以旧换新留存策略",
+        "pain_point": "Value & Price",
+        "reason": "根因：价格带与感知质量错位：核心痛点（漏水/清洁）拉低价值感知。该痛点 16 条负面评论 (占比 32.0%)，平均 2.44 星",
+        "evidence_ids": [
+          "B005BZQHEC-752",
+          "B005BZQHEC-579",
+          "B005BZQHEC-179",
+          "B005BZQHEC-588",
+          "B005BZQHEC-523",
+          "B005BZQHEC-700"
+        ],
+        "confidence": 0.95,
+        "source": "heuristic"
+      },
+      {
+        "parameter": "sku_matrix",
+        "current_state": "单一 24oz 规格",
+        "recommended_state": "多容量矩阵（如 18/24/32oz）+ 场景化推荐",
+        "pain_point": "Size & Capacity",
+        "reason": "根因：单一容量 SKU 覆盖场景有限，尺寸信息在 Listing 中呈现不清晰。该痛点 7 条负面评论 (占比 14.0%)，平均 2.71 星",
+        "evidence_ids": [
+          "B005BZQHEC-440",
+          "B005BZQHEC-53",
+          "B005BZQHEC-691",
+          "B005BZQHEC-428",
+          "B005BZQHEC-215",
+          "B005BZQHEC-237"
+        ],
+        "confidence": 0.74,
+        "source": "heuristic"
+      },
+      {
+        "parameter": "listing_dimensions",
+        "current_state": "尺寸信息不突出",
+        "recommended_state": "Listing 增加实物对比图与精确尺寸表",
+        "pain_point": "Size & Capacity",
+        "reason": "根因：单一容量 SKU 覆盖场景有限，尺寸信息在 Listing 中呈现不清晰。该痛点 7 条负面评论 (占比 14.0%)，平均 2.71 星",
+        "evidence_ids": [
+          "B005BZQHEC-440",
+          "B005BZQHEC-53",
+          "B005BZQHEC-691",
+          "B005BZQHEC-428",
+          "B005BZQHEC-215",
+          "B005BZQHEC-237"
+        ],
+        "confidence": 0.74,
+        "source": "heuristic"
+      }
+    ],
+    "selling_points": [
+      "彻底解决见效慢/效果不符：效果分层承诺（依据 27 条真实差评）",
+      "彻底解决性价比质疑：优先解决 Top 痛点以支撑价格带；推出以旧换新留存策略（依据 16 条真实差评）",
+      "彻底解决尺寸/容量不合适：多容量矩阵（依据 7 条真实差评）"
+    ],
+    "before_after_profile": {
+      "metrics": [
+        "见效慢/效果不符",
+        "性价比质疑",
+        "尺寸/容量不合适"
+      ],
+      "v1": [
+        38.0,
+        54.5,
+        89.5
+      ],
+      "v2": [
+        92.9,
+        94.0,
+        95.8
+      ]
+    }
+  },
+  "listing": {
+    "title": "Gauge V2 – upgraded core design, upgrades that justify every cent, multi-size capacity options | Redesigned from Real Customer Reviews",
+    "bullets": [
+      "[SOLVED: Effectiveness] Upgraded to a fully redesigned structure — based on 27 real reviews (27 verifiable evidence quotes), avg 2.33 -> target 4.5+",
+      "[SOLVED: Value Concerns] Upgraded to upgrades that justify every cent — based on 16 real reviews (16 verifiable evidence quotes), avg 2.44 -> target 4.5+",
+      "[SOLVED: Wrong Size] Upgraded to multi-size capacity options — based on 7 real reviews (7 verifiable evidence quotes), avg 2.71 -> target 4.5+"
+    ],
+    "faq": [
+      {
+        "q": "Customers reported 'Effectiveness' on V1 — is it fixed?",
+        "a": "Yes. V2 addresses it with a fully redesigned structure (engineering validation required)."
+      },
+      {
+        "q": "Customers reported 'Value Concerns' on V1 — is it fixed?",
+        "a": "Yes. V2 addresses it with upgrades that justify every cent (engineering validation required)."
+      },
+      {
+        "q": "Customers reported 'Wrong Size' on V1 — is it fixed?",
+        "a": "Yes. V2 addresses it with multi-size capacity options (engineering validation required)."
+      }
+    ],
+    "main_image_strategy": [
+      "主图1：白底产品主视觉（V2 双密封结构局部剖面光效）",
+      "场景图：针对「见效慢/效果不符」的 Before/After 对比",
+      "场景图：针对「性价比质疑」的 Before/After 对比",
+      "场景图：针对「尺寸/容量不合适」的 Before/After 对比"
+    ],
+    "marketing_message": "Every V2 upgrade is backed by real customer reviews — 50 negative voices turned into 5 engineering changes.",
+    "source": "heuristic"
+  }
+}

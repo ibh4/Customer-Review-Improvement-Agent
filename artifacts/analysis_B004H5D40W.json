@@ -1,0 +1,489 @@
+{
+  "product_id": "B004H5D40W",
+  "product_title": "Easy Feet Foot Cleaner",
+  "category": "All_Beauty",
+  "data_source": "amazon_reviews_2023",
+  "generated_at": "2026-08-17T16:42:46",
+  "llm_mode": "mock",
+  "stats": {
+    "total_reviews": 698,
+    "negative_reviews": 363,
+    "avg_rating": 3.21,
+    "rating_distribution": {
+      "1": 175,
+      "2": 83,
+      "3": 105,
+      "4": 92,
+      "5": 243
+    },
+    "date_range": [
+      "1297850707",
+      "1683287386"
+    ],
+    "cluster_method": "tfidf_kmeans",
+    "n_clusters_raw": 6
+  },
+  "pain_points": [
+    {
+      "name": "Suction & Mounting",
+      "display_name": "吸附/固定不稳",
+      "label_source": "lexicon_terms",
+      "cluster_ids": [
+        0,
+        3,
+        4,
+        5
+      ],
+      "review_count": 229,
+      "total_negative": 363,
+      "share": 0.6309,
+      "avg_rating": 1.83,
+      "keywords": [
+        "suction",
+        "cups",
+        "shower",
+        "stick",
+        "foot",
+        "stone",
+        "floor",
+        "product",
+        "suction cup",
+        "won't stay",
+        "doesn't stick",
+        "won't stick"
+      ],
+      "frequency": 0.6309,
+      "severity": 0.7925,
+      "helpfulness": 1.0,
+      "recency": 0.9258,
+      "pain_score": 100.0,
+      "score_components": {
+        "frequency": 0.631,
+        "severity": 0.792,
+        "helpfulness": 1.0,
+        "recency": 0.926
+      },
+      "cluster_id": 0,
+      "evidence_review_ids": [
+        "B004H5D40W-336",
+        "B004H5D40W-432",
+        "B004H5D40W-608",
+        "B004H5D40W-97",
+        "B004H5D40W-173",
+        "B004H5D40W-323",
+        "B004H5D40W-190",
+        "B004H5D40W-6",
+        "B004H5D40W-395",
+        "B004H5D40W-374",
+        "B004H5D40W-546",
+        "B004H5D40W-29",
+        "B004H5D40W-91",
+        "B004H5D40W-414",
+        "B004H5D40W-284",
+        "B004H5D40W-101",
+        "B004H5D40W-219",
+        "B004H5D40W-741",
+        "B004H5D40W-451",
+        "B004H5D40W-579",
+        "B004H5D40W-185",
+        "B004H5D40W-633",
+        "B004H5D40W-77",
+        "B004H5D40W-107",
+        "B004H5D40W-352",
+        "B004H5D40W-370",
+        "B004H5D40W-181",
+        "B004H5D40W-180",
+        "B004H5D40W-595",
+        "B004H5D40W-346",
+        "B004H5D40W-186",
+        "B004H5D40W-113",
+        "B004H5D40W-169",
+        "B004H5D40W-436",
+        "B004H5D40W-64",
+        "B004H5D40W-707",
+        "B004H5D40W-52",
+        "B004H5D40W-428",
+        "B004H5D40W-740",
+        "B004H5D40W-444",
+        "B004H5D40W-561",
+        "B004H5D40W-389",
+        "B004H5D40W-732",
+        "B004H5D40W-332",
+        "B004H5D40W-531",
+        "B004H5D40W-656",
+        "B004H5D40W-737",
+        "B004H5D40W-562",
+        "B004H5D40W-626",
+        "B004H5D40W-45"
+      ],
+      "representative_review_ids": [
+        "B004H5D40W-336",
+        "B004H5D40W-432",
+        "B004H5D40W-608"
+      ],
+      "evidence_status": "ok"
+    },
+    {
+      "name": "Value & Price",
+      "display_name": "性价比质疑",
+      "label_source": "lexicon",
+      "cluster_ids": [
+        1
+      ],
+      "review_count": 31,
+      "total_negative": 363,
+      "share": 0.0854,
+      "avg_rating": 1.19,
+      "keywords": [
+        "money",
+        "waste",
+        "don't",
+        "foot",
+        "shower",
+        "suction",
+        "pumice",
+        "stone",
+        "price",
+        "expensive",
+        "overpriced",
+        "worth it"
+      ],
+      "frequency": 0.0854,
+      "severity": 0.9525,
+      "helpfulness": 0.7738,
+      "recency": 1.0,
+      "pain_score": 13.6,
+      "score_components": {
+        "frequency": 0.085,
+        "severity": 0.953,
+        "helpfulness": 0.774,
+        "recency": 1.0
+      },
+      "cluster_id": 1,
+      "evidence_review_ids": [
+        "B004H5D40W-9",
+        "B004H5D40W-709",
+        "B004H5D40W-57",
+        "B004H5D40W-369",
+        "B004H5D40W-204",
+        "B004H5D40W-685",
+        "B004H5D40W-225",
+        "B004H5D40W-258",
+        "B004H5D40W-309",
+        "B004H5D40W-341",
+        "B004H5D40W-625",
+        "B004H5D40W-33",
+        "B004H5D40W-297",
+        "B004H5D40W-704",
+        "B004H5D40W-350",
+        "B004H5D40W-742",
+        "B004H5D40W-559",
+        "B004H5D40W-503",
+        "B004H5D40W-729",
+        "B004H5D40W-684",
+        "B004H5D40W-50",
+        "B004H5D40W-249",
+        "B004H5D40W-495",
+        "B004H5D40W-710",
+        "B004H5D40W-192",
+        "B004H5D40W-259",
+        "B004H5D40W-233",
+        "B004H5D40W-692",
+        "B004H5D40W-554",
+        "B004H5D40W-31",
+        "B004H5D40W-443"
+      ],
+      "representative_review_ids": [
+        "B004H5D40W-9",
+        "B004H5D40W-57",
+        "B004H5D40W-709"
+      ],
+      "evidence_status": "ok"
+    },
+    {
+      "name": "Bristle & Comb Quality",
+      "display_name": "刷毛/梳齿不适",
+      "label_source": "lexicon",
+      "cluster_ids": [
+        2
+      ],
+      "review_count": 103,
+      "total_negative": 363,
+      "share": 0.2837,
+      "avg_rating": 1.95,
+      "keywords": [
+        "feet",
+        "foot",
+        "product",
+        "bristles",
+        "good",
+        "clean",
+        "really",
+        "like",
+        "bristle",
+        "shed",
+        "shedding",
+        "falling out"
+      ],
+      "frequency": 0.2837,
+      "severity": 0.7625,
+      "helpfulness": 0.3,
+      "recency": 0.5,
+      "pain_score": 7.0,
+      "score_components": {
+        "frequency": 0.284,
+        "severity": 0.762,
+        "helpfulness": 0.3,
+        "recency": 0.5
+      },
+      "cluster_id": 2,
+      "evidence_review_ids": [
+        "B004H5D40W-317",
+        "B004H5D40W-4",
+        "B004H5D40W-231",
+        "B004H5D40W-421",
+        "B004H5D40W-555",
+        "B004H5D40W-116",
+        "B004H5D40W-418",
+        "B004H5D40W-509",
+        "B004H5D40W-459",
+        "B004H5D40W-391",
+        "B004H5D40W-442",
+        "B004H5D40W-293",
+        "B004H5D40W-207",
+        "B004H5D40W-449",
+        "B004H5D40W-401",
+        "B004H5D40W-676",
+        "B004H5D40W-264",
+        "B004H5D40W-393",
+        "B004H5D40W-331",
+        "B004H5D40W-102",
+        "B004H5D40W-627",
+        "B004H5D40W-632",
+        "B004H5D40W-206",
+        "B004H5D40W-491",
+        "B004H5D40W-636",
+        "B004H5D40W-523",
+        "B004H5D40W-85",
+        "B004H5D40W-56",
+        "B004H5D40W-154",
+        "B004H5D40W-299",
+        "B004H5D40W-134",
+        "B004H5D40W-440",
+        "B004H5D40W-39",
+        "B004H5D40W-261",
+        "B004H5D40W-667",
+        "B004H5D40W-483",
+        "B004H5D40W-351",
+        "B004H5D40W-558",
+        "B004H5D40W-133",
+        "B004H5D40W-238",
+        "B004H5D40W-230",
+        "B004H5D40W-187",
+        "B004H5D40W-157",
+        "B004H5D40W-552",
+        "B004H5D40W-510",
+        "B004H5D40W-92",
+        "B004H5D40W-322",
+        "B004H5D40W-747",
+        "B004H5D40W-229",
+        "B004H5D40W-385"
+      ],
+      "representative_review_ids": [
+        "B004H5D40W-4",
+        "B004H5D40W-231",
+        "B004H5D40W-317"
+      ],
+      "evidence_status": "ok"
+    }
+  ],
+  "root_causes": {
+    "Suction & Mounting": {
+      "pain_point": "Suction & Mounting",
+      "root_cause": "吸盘/底座结构对光滑面与潮湿环境适配不足：负压腔设计弱、无辅助固定方案",
+      "affected_scenario": "浴室墙面 / 光滑地面吸壁使用",
+      "affected_users": "浴室/厨房挂载用户",
+      "severity": 0.7925,
+      "evidence_ids": [
+        "B004H5D40W-336",
+        "B004H5D40W-432",
+        "B004H5D40W-608",
+        "B004H5D40W-97",
+        "B004H5D40W-173"
+      ],
+      "source": "heuristic"
+    },
+    "Value & Price": {
+      "pain_point": "Value & Price",
+      "root_cause": "价格带与感知质量错位：核心痛点（漏水/清洁）拉低价值感知",
+      "affected_scenario": "比价 / 复购决策",
+      "affected_users": "价格敏感型用户",
+      "severity": 0.9525,
+      "evidence_ids": [
+        "B004H5D40W-9",
+        "B004H5D40W-709",
+        "B004H5D40W-57",
+        "B004H5D40W-369",
+        "B004H5D40W-204"
+      ],
+      "source": "heuristic"
+    },
+    "Bristle & Comb Quality": {
+      "pain_point": "Bristle & Comb Quality",
+      "root_cause": "刷毛材质与植毛密度设计单一：过硬伤头皮、过软无梳理力，且植毛牢固度不足导致掉毛",
+      "affected_scenario": "日常梳发 / 湿发梳理 / 造型打底",
+      "affected_users": "敏感头皮 / 长发易打结人群",
+      "severity": 0.7625,
+      "evidence_ids": [
+        "B004H5D40W-317",
+        "B004H5D40W-4",
+        "B004H5D40W-231",
+        "B004H5D40W-421",
+        "B004H5D40W-555"
+      ],
+      "source": "heuristic"
+    }
+  },
+  "product_v2": {
+    "positioning": "针对 V1 差评中 Top 痛点（吸附/固定不稳、性价比质疑、刷毛/梳齿不适）全面重构的 V2 版本：以真实评论证据驱动参数级改进，主打「痛点清零 + 可验证升级」，面向高频通勤/户外场景用户，用 Evidence 营销建立信任壁垒。",
+    "parameters": [
+      {
+        "parameter": "suction_design",
+        "current_state": "普通 PVC 吸盘",
+        "recommended_state": "加强负压吸盘 + 湿面适配 + 备用粘胶贴",
+        "pain_point": "Suction & Mounting",
+        "reason": "根因：吸盘/底座结构对光滑面与潮湿环境适配不足：负压腔设计弱、无辅助固定方案。该痛点 229 条负面评论 (占比 63.1%)，平均 1.83 星",
+        "evidence_ids": [
+          "B004H5D40W-336",
+          "B004H5D40W-432",
+          "B004H5D40W-608",
+          "B004H5D40W-97",
+          "B004H5D40W-173",
+          "B004H5D40W-323"
+        ],
+        "confidence": 0.95,
+        "source": "heuristic"
+      },
+      {
+        "parameter": "surface_guide",
+        "current_state": "无适配面说明",
+        "recommended_state": "Listing 明示适用/不适用表面类型",
+        "pain_point": "Suction & Mounting",
+        "reason": "根因：吸盘/底座结构对光滑面与潮湿环境适配不足：负压腔设计弱、无辅助固定方案。该痛点 229 条负面评论 (占比 63.1%)，平均 1.83 星",
+        "evidence_ids": [
+          "B004H5D40W-336",
+          "B004H5D40W-432",
+          "B004H5D40W-608",
+          "B004H5D40W-97",
+          "B004H5D40W-173",
+          "B004H5D40W-323"
+        ],
+        "confidence": 0.95,
+        "source": "heuristic"
+      },
+      {
+        "parameter": "cost_engineering",
+        "current_state": "定价高于同类且痛点未解决",
+        "recommended_state": "优先解决 Top 痛点以支撑价格带；推出以旧换新留存策略",
+        "pain_point": "Value & Price",
+        "reason": "根因：价格带与感知质量错位：核心痛点（漏水/清洁）拉低价值感知。该痛点 31 条负面评论 (占比 8.5%)，平均 1.19 星",
+        "evidence_ids": [
+          "B004H5D40W-9",
+          "B004H5D40W-709",
+          "B004H5D40W-57",
+          "B004H5D40W-369",
+          "B004H5D40W-204",
+          "B004H5D40W-685"
+        ],
+        "confidence": 0.82,
+        "source": "heuristic"
+      },
+      {
+        "parameter": "bristle_stiffness",
+        "current_state": "单一硬度刷毛",
+        "recommended_state": "软硬分区植毛 / 双面刷毛设计",
+        "pain_point": "Bristle & Comb Quality",
+        "reason": "根因：刷毛材质与植毛密度设计单一：过硬伤头皮、过软无梳理力，且植毛牢固度不足导致掉毛。该痛点 103 条负面评论 (占比 28.4%)，平均 1.95 星",
+        "evidence_ids": [
+          "B004H5D40W-317",
+          "B004H5D40W-4",
+          "B004H5D40W-231",
+          "B004H5D40W-421",
+          "B004H5D40W-555",
+          "B004H5D40W-116"
+        ],
+        "confidence": 0.95,
+        "source": "heuristic"
+      },
+      {
+        "parameter": "tufting_strength",
+        "current_state": "常规植毛胶工艺",
+        "recommended_state": "加强植毛工艺 + 出厂拉力测试标准",
+        "pain_point": "Bristle & Comb Quality",
+        "reason": "根因：刷毛材质与植毛密度设计单一：过硬伤头皮、过软无梳理力，且植毛牢固度不足导致掉毛。该痛点 103 条负面评论 (占比 28.4%)，平均 1.95 星",
+        "evidence_ids": [
+          "B004H5D40W-317",
+          "B004H5D40W-4",
+          "B004H5D40W-231",
+          "B004H5D40W-421",
+          "B004H5D40W-555",
+          "B004H5D40W-116"
+        ],
+        "confidence": 0.95,
+        "source": "heuristic"
+      }
+    ],
+    "selling_points": [
+      "彻底解决吸附/固定不稳：加强负压吸盘 + 湿面适配 + 备用粘胶贴（依据 229 条真实差评）",
+      "彻底解决性价比质疑：优先解决 Top 痛点以支撑价格带；推出以旧换新留存策略（依据 31 条真实差评）",
+      "彻底解决刷毛/梳齿不适：软硬分区植毛 / 双面刷毛设计（依据 103 条真实差评）"
+    ],
+    "before_after_profile": {
+      "metrics": [
+        "吸附/固定不稳",
+        "性价比质疑",
+        "刷毛/梳齿不适"
+      ],
+      "v1": [
+        38.0,
+        91.6,
+        95.0
+      ],
+      "v2": [
+        92.9,
+        96.3,
+        96.9
+      ]
+    }
+  },
+  "listing": {
+    "title": "Easy V2 – upgraded core design, upgrades that justify every cent | Redesigned from Real Customer Reviews",
+    "bullets": [
+      "[SOLVED: Suction & Mounting] Upgraded to a fully redesigned structure — based on 229 real reviews (50 verifiable evidence quotes), avg 1.83 -> target 4.5+",
+      "[SOLVED: Value Concerns] Upgraded to upgrades that justify every cent — based on 31 real reviews (31 verifiable evidence quotes), avg 1.19 -> target 4.5+",
+      "[SOLVED: Bristle & Comb Quality] Upgraded to a fully redesigned structure — based on 103 real reviews (50 verifiable evidence quotes), avg 1.95 -> target 4.5+"
+    ],
+    "faq": [
+      {
+        "q": "Customers reported 'Suction & Mounting' on V1 — is it fixed?",
+        "a": "Yes. V2 addresses it with a fully redesigned structure (engineering validation required)."
+      },
+      {
+        "q": "Customers reported 'Value Concerns' on V1 — is it fixed?",
+        "a": "Yes. V2 addresses it with upgrades that justify every cent (engineering validation required)."
+      },
+      {
+        "q": "Customers reported 'Bristle & Comb Quality' on V1 — is it fixed?",
+        "a": "Yes. V2 addresses it with a fully redesigned structure (engineering validation required)."
+      }
+    ],
+    "main_image_strategy": [
+      "主图1：白底产品主视觉（V2 双密封结构局部剖面光效）",
+      "场景图：针对「吸附/固定不稳」的 Before/After 对比",
+      "场景图：针对「性价比质疑」的 Before/After 对比",
+      "场景图：针对「刷毛/梳齿不适」的 Before/After 对比"
+    ],
+    "marketing_message": "Every V2 upgrade is backed by real customer reviews — 363 negative voices turned into 5 engineering changes.",
+    "source": "heuristic"
+  }
+}

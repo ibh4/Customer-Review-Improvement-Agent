@@ -1,0 +1,354 @@
+{
+  "product_id": "B01IMEH6GG",
+  "product_title": "Sally Hansen Miracle Gel Set 6-Piece Random Collection",
+  "category": "All_Beauty",
+  "data_source": "amazon_reviews_2023",
+  "generated_at": "2026-08-17T16:43:14",
+  "llm_mode": "mock",
+  "stats": {
+    "total_reviews": 489,
+    "negative_reviews": 245,
+    "avg_rating": 3.26,
+    "rating_distribution": {
+      "1": 116,
+      "2": 71,
+      "3": 58,
+      "4": 58,
+      "5": 186
+    },
+    "date_range": [
+      "1470277611",
+      "1676778181"
+    ],
+    "cluster_method": "tfidf_kmeans",
+    "n_clusters_raw": 6
+  },
+  "pain_points": [
+    {
+      "name": "Shade Mismatch",
+      "display_name": "色号/颜色与图片不符",
+      "label_source": "lexicon",
+      "cluster_ids": [
+        0,
+        1,
+        2,
+        4,
+        5
+      ],
+      "review_count": 194,
+      "total_negative": 245,
+      "share": 0.7918,
+      "avg_rating": 1.76,
+      "keywords": [
+        "colors",
+        "color",
+        "polish",
+        "like",
+        "received",
+        "bottles",
+        "random",
+        "nail",
+        "shade",
+        "colour",
+        "tone",
+        "swatch"
+      ],
+      "frequency": 0.7918,
+      "severity": 0.81,
+      "helpfulness": 1.0,
+      "recency": 0.5,
+      "pain_score": 100.0,
+      "score_components": {
+        "frequency": 0.792,
+        "severity": 0.81,
+        "helpfulness": 1.0,
+        "recency": 0.5
+      },
+      "cluster_id": 0,
+      "evidence_review_ids": [
+        "B01IMEH6GG-392",
+        "B01IMEH6GG-291",
+        "B01IMEH6GG-344",
+        "B01IMEH6GG-117",
+        "B01IMEH6GG-48",
+        "B01IMEH6GG-97",
+        "B01IMEH6GG-65",
+        "B01IMEH6GG-429",
+        "B01IMEH6GG-413",
+        "B01IMEH6GG-272",
+        "B01IMEH6GG-394",
+        "B01IMEH6GG-483",
+        "B01IMEH6GG-70",
+        "B01IMEH6GG-149",
+        "B01IMEH6GG-373",
+        "B01IMEH6GG-116",
+        "B01IMEH6GG-30",
+        "B01IMEH6GG-371",
+        "B01IMEH6GG-386",
+        "B01IMEH6GG-78",
+        "B01IMEH6GG-448",
+        "B01IMEH6GG-237",
+        "B01IMEH6GG-19",
+        "B01IMEH6GG-374",
+        "B01IMEH6GG-294",
+        "B01IMEH6GG-381",
+        "B01IMEH6GG-484",
+        "B01IMEH6GG-160",
+        "B01IMEH6GG-18",
+        "B01IMEH6GG-378",
+        "B01IMEH6GG-443",
+        "B01IMEH6GG-403",
+        "B01IMEH6GG-85",
+        "B01IMEH6GG-485",
+        "B01IMEH6GG-181",
+        "B01IMEH6GG-227",
+        "B01IMEH6GG-315",
+        "B01IMEH6GG-140",
+        "B01IMEH6GG-67",
+        "B01IMEH6GG-408",
+        "B01IMEH6GG-313",
+        "B01IMEH6GG-452",
+        "B01IMEH6GG-131",
+        "B01IMEH6GG-404",
+        "B01IMEH6GG-201",
+        "B01IMEH6GG-363",
+        "B01IMEH6GG-375",
+        "B01IMEH6GG-179",
+        "B01IMEH6GG-264",
+        "B01IMEH6GG-358"
+      ],
+      "representative_review_ids": [
+        "B01IMEH6GG-291",
+        "B01IMEH6GG-344",
+        "B01IMEH6GG-392"
+      ],
+      "evidence_status": "ok"
+    },
+    {
+      "name": "Durability",
+      "display_name": "耐用性 / 掉漆变形",
+      "label_source": "lexicon",
+      "cluster_ids": [
+        3
+      ],
+      "review_count": 51,
+      "total_negative": 245,
+      "share": 0.2082,
+      "avg_rating": 1.78,
+      "keywords": [
+        "polish",
+        "colors",
+        "nail",
+        "color",
+        "bottles",
+        "broken",
+        "like",
+        "love",
+        "dent",
+        "dented",
+        "scratch",
+        "scratched"
+      ],
+      "frequency": 0.2082,
+      "severity": 0.805,
+      "helpfulness": 0.3,
+      "recency": 1.0,
+      "pain_score": 15.7,
+      "score_components": {
+        "frequency": 0.208,
+        "severity": 0.805,
+        "helpfulness": 0.3,
+        "recency": 1.0
+      },
+      "cluster_id": 3,
+      "evidence_review_ids": [
+        "B01IMEH6GG-61",
+        "B01IMEH6GG-497",
+        "B01IMEH6GG-45",
+        "B01IMEH6GG-7",
+        "B01IMEH6GG-433",
+        "B01IMEH6GG-35",
+        "B01IMEH6GG-450",
+        "B01IMEH6GG-137",
+        "B01IMEH6GG-127",
+        "B01IMEH6GG-445",
+        "B01IMEH6GG-99",
+        "B01IMEH6GG-473",
+        "B01IMEH6GG-222",
+        "B01IMEH6GG-376",
+        "B01IMEH6GG-383",
+        "B01IMEH6GG-63",
+        "B01IMEH6GG-11",
+        "B01IMEH6GG-308",
+        "B01IMEH6GG-128",
+        "B01IMEH6GG-106",
+        "B01IMEH6GG-310",
+        "B01IMEH6GG-464",
+        "B01IMEH6GG-81",
+        "B01IMEH6GG-166",
+        "B01IMEH6GG-130",
+        "B01IMEH6GG-253",
+        "B01IMEH6GG-333",
+        "B01IMEH6GG-407",
+        "B01IMEH6GG-428",
+        "B01IMEH6GG-423",
+        "B01IMEH6GG-302",
+        "B01IMEH6GG-287",
+        "B01IMEH6GG-16",
+        "B01IMEH6GG-288",
+        "B01IMEH6GG-362",
+        "B01IMEH6GG-314",
+        "B01IMEH6GG-210",
+        "B01IMEH6GG-178",
+        "B01IMEH6GG-290",
+        "B01IMEH6GG-427",
+        "B01IMEH6GG-496",
+        "B01IMEH6GG-152",
+        "B01IMEH6GG-439",
+        "B01IMEH6GG-481",
+        "B01IMEH6GG-365",
+        "B01IMEH6GG-283",
+        "B01IMEH6GG-451",
+        "B01IMEH6GG-410",
+        "B01IMEH6GG-379",
+        "B01IMEH6GG-274"
+      ],
+      "representative_review_ids": [
+        "B01IMEH6GG-45",
+        "B01IMEH6GG-61",
+        "B01IMEH6GG-497"
+      ],
+      "evidence_status": "ok"
+    }
+  ],
+  "root_causes": {
+    "Shade Mismatch": {
+      "pain_point": "Shade Mismatch",
+      "root_cause": "Listing 图片过度调色 / 未提供多肤色试色参考",
+      "affected_scenario": "线上选购决策",
+      "affected_users": "新客（直接影响退货率）",
+      "severity": 0.81,
+      "evidence_ids": [
+        "B01IMEH6GG-392",
+        "B01IMEH6GG-291",
+        "B01IMEH6GG-344",
+        "B01IMEH6GG-117",
+        "B01IMEH6GG-48"
+      ],
+      "source": "heuristic"
+    },
+    "Durability": {
+      "pain_point": "Durability",
+      "root_cause": "外壁涂层附着力不足；杯身钢材厚度偏低，跌落易凹陷",
+      "affected_scenario": "日常跌落 / 洗碗机冲刷",
+      "affected_users": "儿童 / 户外高强度用户",
+      "severity": 0.805,
+      "evidence_ids": [
+        "B01IMEH6GG-61",
+        "B01IMEH6GG-497",
+        "B01IMEH6GG-45",
+        "B01IMEH6GG-7",
+        "B01IMEH6GG-433"
+      ],
+      "source": "heuristic"
+    }
+  },
+  "product_v2": {
+    "positioning": "针对 V1 差评中 Top 痛点（色号/颜色与图片不符、耐用性 / 掉漆变形）全面重构的 V2 版本：以真实评论证据驱动参数级改进，主打「痛点清零 + 可验证升级」，面向高频通勤/户外场景用户，用 Evidence 营销建立信任壁垒。",
+    "parameters": [
+      {
+        "parameter": "listing_accuracy",
+        "current_state": "单图单角度展示",
+        "recommended_state": "多肤色试色图 + 自然光实拍 + 色卡对照",
+        "pain_point": "Shade Mismatch",
+        "reason": "根因：Listing 图片过度调色 / 未提供多肤色试色参考。该痛点 194 条负面评论 (占比 79.2%)，平均 1.76 星",
+        "evidence_ids": [
+          "B01IMEH6GG-392",
+          "B01IMEH6GG-291",
+          "B01IMEH6GG-344",
+          "B01IMEH6GG-117",
+          "B01IMEH6GG-48",
+          "B01IMEH6GG-97"
+        ],
+        "confidence": 0.95,
+        "source": "heuristic"
+      },
+      {
+        "parameter": "wall_thickness",
+        "current_state": "0.3mm 级薄壁（工程验证 required）",
+        "recommended_state": "适度增厚 + 底部加强结构",
+        "pain_point": "Durability",
+        "reason": "根因：外壁涂层附着力不足；杯身钢材厚度偏低，跌落易凹陷。该痛点 51 条负面评论 (占比 20.8%)，平均 1.78 星",
+        "evidence_ids": [
+          "B01IMEH6GG-61",
+          "B01IMEH6GG-497",
+          "B01IMEH6GG-45",
+          "B01IMEH6GG-7",
+          "B01IMEH6GG-433",
+          "B01IMEH6GG-35"
+        ],
+        "confidence": 0.92,
+        "source": "heuristic"
+      },
+      {
+        "parameter": "coating_process",
+        "current_state": "普通喷涂",
+        "recommended_state": "静电粉末喷涂 / 阳极氧化（提升附着力）",
+        "pain_point": "Durability",
+        "reason": "根因：外壁涂层附着力不足；杯身钢材厚度偏低，跌落易凹陷。该痛点 51 条负面评论 (占比 20.8%)，平均 1.78 星",
+        "evidence_ids": [
+          "B01IMEH6GG-61",
+          "B01IMEH6GG-497",
+          "B01IMEH6GG-45",
+          "B01IMEH6GG-7",
+          "B01IMEH6GG-433",
+          "B01IMEH6GG-35"
+        ],
+        "confidence": 0.92,
+        "source": "heuristic"
+      }
+    ],
+    "selling_points": [
+      "彻底解决色号/颜色与图片不符：多肤色试色图 + 自然光实拍 + 色卡对照（依据 194 条真实差评）",
+      "彻底解决耐用性 / 掉漆变形：适度增厚 + 底部加强结构（依据 51 条真实差评）"
+    ],
+    "before_after_profile": {
+      "metrics": [
+        "色号/颜色与图片不符",
+        "耐用性 / 掉漆变形"
+      ],
+      "v1": [
+        38.0,
+        90.3
+      ],
+      "v2": [
+        92.9,
+        96.4
+      ]
+    }
+  },
+  "listing": {
+    "title": "Sally V2 – true-tone multi-skin-tone swatches, impact-resistant coating & thicker walls | Redesigned from Real Customer Reviews",
+    "bullets": [
+      "[SOLVED: Shade Mismatch] Upgraded to true-tone multi-skin-tone swatches — based on 194 real reviews (50 verifiable evidence quotes), avg 1.76 -> target 4.5+",
+      "[SOLVED: Durability] Upgraded to impact-resistant coating & thicker walls — based on 51 real reviews (50 verifiable evidence quotes), avg 1.78 -> target 4.5+"
+    ],
+    "faq": [
+      {
+        "q": "Customers reported 'Shade Mismatch' on V1 — is it fixed?",
+        "a": "Yes. V2 addresses it with true-tone multi-skin-tone swatches (engineering validation required)."
+      },
+      {
+        "q": "Customers reported 'Durability' on V1 — is it fixed?",
+        "a": "Yes. V2 addresses it with impact-resistant coating & thicker walls (engineering validation required)."
+      }
+    ],
+    "main_image_strategy": [
+      "主图1：白底产品主视觉（V2 双密封结构局部剖面光效）",
+      "场景图：针对「色号/颜色与图片不符」的 Before/After 对比",
+      "主图6：1.2m 跌落测试 + 涂层截面放大图"
+    ],
+    "marketing_message": "Every V2 upgrade is backed by real customer reviews — 245 negative voices turned into 3 engineering changes.",
+    "source": "heuristic"
+  }
+}

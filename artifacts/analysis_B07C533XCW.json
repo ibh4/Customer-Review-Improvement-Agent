@@ -1,0 +1,784 @@
+{
+  "product_id": "B07C533XCW",
+  "product_title": "Segbeauty empty bottle 160083",
+  "category": "All_Beauty",
+  "data_source": "amazon_reviews_2023",
+  "generated_at": "2026-08-17T16:42:23",
+  "llm_mode": "mock",
+  "stats": {
+    "total_reviews": 1420,
+    "negative_reviews": 211,
+    "avg_rating": 4.44,
+    "rating_distribution": {
+      "1": 119,
+      "2": 33,
+      "3": 59,
+      "4": 99,
+      "5": 1110
+    },
+    "date_range": [
+      "1532693357",
+      "1672684914"
+    ],
+    "cluster_method": "tfidf_kmeans",
+    "n_clusters_raw": 6
+  },
+  "pain_points": [
+    {
+      "name": "Functional Failure",
+      "display_name": "功能失效 / 无法工作",
+      "label_source": "lexicon",
+      "cluster_ids": [
+        0,
+        5
+      ],
+      "review_count": 77,
+      "total_negative": 211,
+      "share": 0.3649,
+      "avg_rating": 1.43,
+      "keywords": [
+        "stopped",
+        "working",
+        "spray",
+        "bottle",
+        "worked",
+        "product",
+        "work",
+        "months",
+        "stopped working",
+        "stopped spraying",
+        "quit working",
+        "quit spraying"
+      ],
+      "frequency": 0.3649,
+      "severity": 0.8925,
+      "helpfulness": 0.4457,
+      "recency": 0.7668,
+      "pain_score": 100.0,
+      "score_components": {
+        "frequency": 0.365,
+        "severity": 0.893,
+        "helpfulness": 0.446,
+        "recency": 0.767
+      },
+      "cluster_id": 0,
+      "evidence_review_ids": [
+        "B07C533XCW-623",
+        "B07C533XCW-472",
+        "B07C533XCW-1044",
+        "B07C533XCW-1472",
+        "B07C533XCW-905",
+        "B07C533XCW-1201",
+        "B07C533XCW-1352",
+        "B07C533XCW-1009",
+        "B07C533XCW-1362",
+        "B07C533XCW-850",
+        "B07C533XCW-1035",
+        "B07C533XCW-227",
+        "B07C533XCW-1195",
+        "B07C533XCW-610",
+        "B07C533XCW-953",
+        "B07C533XCW-890",
+        "B07C533XCW-1339",
+        "B07C533XCW-153",
+        "B07C533XCW-659",
+        "B07C533XCW-621",
+        "B07C533XCW-496",
+        "B07C533XCW-353",
+        "B07C533XCW-1334",
+        "B07C533XCW-1149",
+        "B07C533XCW-1070",
+        "B07C533XCW-473",
+        "B07C533XCW-686",
+        "B07C533XCW-1242",
+        "B07C533XCW-354",
+        "B07C533XCW-559",
+        "B07C533XCW-230",
+        "B07C533XCW-1464",
+        "B07C533XCW-52",
+        "B07C533XCW-719",
+        "B07C533XCW-1398",
+        "B07C533XCW-1469",
+        "B07C533XCW-507",
+        "B07C533XCW-1498",
+        "B07C533XCW-947",
+        "B07C533XCW-1047",
+        "B07C533XCW-1478",
+        "B07C533XCW-250",
+        "B07C533XCW-691",
+        "B07C533XCW-1049",
+        "B07C533XCW-226",
+        "B07C533XCW-1373",
+        "B07C533XCW-814",
+        "B07C533XCW-881",
+        "B07C533XCW-1258",
+        "B07C533XCW-342"
+      ],
+      "representative_review_ids": [
+        "B07C533XCW-472",
+        "B07C533XCW-623",
+        "B07C533XCW-1044"
+      ],
+      "evidence_status": "ok"
+    },
+    {
+      "name": "Cleaning Difficulty",
+      "display_name": "难以清洁",
+      "label_source": "lexicon",
+      "cluster_ids": [
+        3
+      ],
+      "review_count": 36,
+      "total_negative": 211,
+      "share": 0.1706,
+      "avg_rating": 1.97,
+      "keywords": [
+        "water",
+        "smell",
+        "bottle",
+        "spray",
+        "like",
+        "hair",
+        "odor",
+        "mildew",
+        "clean",
+        "cleaning",
+        "mold",
+        "gunk"
+      ],
+      "frequency": 0.1706,
+      "severity": 0.7575,
+      "helpfulness": 1.0,
+      "recency": 0.5114,
+      "pain_score": 59.4,
+      "score_components": {
+        "frequency": 0.171,
+        "severity": 0.758,
+        "helpfulness": 1.0,
+        "recency": 0.511
+      },
+      "cluster_id": 3,
+      "evidence_review_ids": [
+        "B07C533XCW-1121",
+        "B07C533XCW-3",
+        "B07C533XCW-840",
+        "B07C533XCW-1126",
+        "B07C533XCW-880",
+        "B07C533XCW-547",
+        "B07C533XCW-1487",
+        "B07C533XCW-684",
+        "B07C533XCW-350",
+        "B07C533XCW-546",
+        "B07C533XCW-259",
+        "B07C533XCW-288",
+        "B07C533XCW-1109",
+        "B07C533XCW-622",
+        "B07C533XCW-829",
+        "B07C533XCW-1434",
+        "B07C533XCW-1096",
+        "B07C533XCW-971",
+        "B07C533XCW-582",
+        "B07C533XCW-530",
+        "B07C533XCW-817",
+        "B07C533XCW-791",
+        "B07C533XCW-361",
+        "B07C533XCW-856",
+        "B07C533XCW-90",
+        "B07C533XCW-386",
+        "B07C533XCW-72",
+        "B07C533XCW-1286",
+        "B07C533XCW-277",
+        "B07C533XCW-9",
+        "B07C533XCW-1301",
+        "B07C533XCW-937",
+        "B07C533XCW-1454",
+        "B07C533XCW-1090",
+        "B07C533XCW-1377",
+        "B07C533XCW-1421"
+      ],
+      "representative_review_ids": [
+        "B07C533XCW-3",
+        "B07C533XCW-840",
+        "B07C533XCW-1121"
+      ],
+      "evidence_status": "ok"
+    },
+    {
+      "name": "Drying & Clogging",
+      "display_name": "堵塞 / 干涸 / 雾化不佳",
+      "label_source": "lexicon",
+      "cluster_ids": [
+        1
+      ],
+      "review_count": 48,
+      "total_negative": 211,
+      "share": 0.2275,
+      "avg_rating": 1.98,
+      "keywords": [
+        "spray",
+        "bottle",
+        "mist",
+        "continuous",
+        "fine",
+        "just",
+        "water",
+        "like",
+        "clog",
+        "clogged",
+        "clogs",
+        "clogging"
+      ],
+      "frequency": 0.2275,
+      "severity": 0.755,
+      "helpfulness": 0.6045,
+      "recency": 0.5,
+      "pain_score": 46.6,
+      "score_components": {
+        "frequency": 0.227,
+        "severity": 0.755,
+        "helpfulness": 0.605,
+        "recency": 0.5
+      },
+      "cluster_id": 1,
+      "evidence_review_ids": [
+        "B07C533XCW-213",
+        "B07C533XCW-61",
+        "B07C533XCW-1276",
+        "B07C533XCW-709",
+        "B07C533XCW-0",
+        "B07C533XCW-1452",
+        "B07C533XCW-78",
+        "B07C533XCW-1485",
+        "B07C533XCW-1365",
+        "B07C533XCW-555",
+        "B07C533XCW-1167",
+        "B07C533XCW-404",
+        "B07C533XCW-60",
+        "B07C533XCW-1086",
+        "B07C533XCW-972",
+        "B07C533XCW-614",
+        "B07C533XCW-662",
+        "B07C533XCW-300",
+        "B07C533XCW-1257",
+        "B07C533XCW-162",
+        "B07C533XCW-46",
+        "B07C533XCW-416",
+        "B07C533XCW-132",
+        "B07C533XCW-1335",
+        "B07C533XCW-1504",
+        "B07C533XCW-1435",
+        "B07C533XCW-142",
+        "B07C533XCW-224",
+        "B07C533XCW-1298",
+        "B07C533XCW-1505",
+        "B07C533XCW-1057",
+        "B07C533XCW-1092",
+        "B07C533XCW-165",
+        "B07C533XCW-1251",
+        "B07C533XCW-1229",
+        "B07C533XCW-828",
+        "B07C533XCW-1411",
+        "B07C533XCW-169",
+        "B07C533XCW-695",
+        "B07C533XCW-1299",
+        "B07C533XCW-179",
+        "B07C533XCW-737",
+        "B07C533XCW-1290",
+        "B07C533XCW-1510",
+        "B07C533XCW-157",
+        "B07C533XCW-754",
+        "B07C533XCW-1119",
+        "B07C533XCW-1406"
+      ],
+      "representative_review_ids": [
+        "B07C533XCW-61",
+        "B07C533XCW-213",
+        "B07C533XCW-1276"
+      ],
+      "evidence_status": "ok"
+    },
+    {
+      "name": "Durability",
+      "display_name": "耐用性 / 掉漆变形",
+      "label_source": "lexicon",
+      "cluster_ids": [
+        4
+      ],
+      "review_count": 19,
+      "total_negative": 211,
+      "share": 0.09,
+      "avg_rating": 1.32,
+      "keywords": [
+        "broke",
+        "water",
+        "bottle",
+        "using",
+        "just",
+        "spray",
+        "thing",
+        "days",
+        "dent",
+        "dented",
+        "scratch",
+        "scratched"
+      ],
+      "frequency": 0.09,
+      "severity": 0.92,
+      "helpfulness": 0.3357,
+      "recency": 1.0,
+      "pain_score": 25.0,
+      "score_components": {
+        "frequency": 0.09,
+        "severity": 0.92,
+        "helpfulness": 0.336,
+        "recency": 1.0
+      },
+      "cluster_id": 4,
+      "evidence_review_ids": [
+        "B07C533XCW-166",
+        "B07C533XCW-1241",
+        "B07C533XCW-1414",
+        "B07C533XCW-1080",
+        "B07C533XCW-236",
+        "B07C533XCW-381",
+        "B07C533XCW-407",
+        "B07C533XCW-92",
+        "B07C533XCW-666",
+        "B07C533XCW-571",
+        "B07C533XCW-534",
+        "B07C533XCW-1030",
+        "B07C533XCW-1172",
+        "B07C533XCW-1224",
+        "B07C533XCW-1500",
+        "B07C533XCW-231",
+        "B07C533XCW-360",
+        "B07C533XCW-1374",
+        "B07C533XCW-900"
+      ],
+      "representative_review_ids": [
+        "B07C533XCW-166",
+        "B07C533XCW-1241",
+        "B07C533XCW-1414"
+      ],
+      "evidence_status": "ok"
+    },
+    {
+      "name": "Size & Capacity",
+      "display_name": "尺寸/容量不合适",
+      "label_source": "lexicon",
+      "cluster_ids": [
+        2
+      ],
+      "review_count": 31,
+      "total_negative": 211,
+      "share": 0.1469,
+      "avg_rating": 1.97,
+      "keywords": [
+        "bottle",
+        "small",
+        "product",
+        "water",
+        "spray",
+        "like",
+        "hold",
+        "time",
+        "size",
+        "too big",
+        "too small",
+        "bulky"
+      ],
+      "frequency": 0.1469,
+      "severity": 0.7575,
+      "helpfulness": 0.3,
+      "recency": 0.7194,
+      "pain_score": 21.6,
+      "score_components": {
+        "frequency": 0.147,
+        "severity": 0.758,
+        "helpfulness": 0.3,
+        "recency": 0.719
+      },
+      "cluster_id": 2,
+      "evidence_review_ids": [
+        "B07C533XCW-893",
+        "B07C533XCW-1098",
+        "B07C533XCW-761",
+        "B07C533XCW-1007",
+        "B07C533XCW-234",
+        "B07C533XCW-1255",
+        "B07C533XCW-797",
+        "B07C533XCW-974",
+        "B07C533XCW-950",
+        "B07C533XCW-1144",
+        "B07C533XCW-1118",
+        "B07C533XCW-37",
+        "B07C533XCW-1407",
+        "B07C533XCW-1054",
+        "B07C533XCW-146",
+        "B07C533XCW-6",
+        "B07C533XCW-1380",
+        "B07C533XCW-1163",
+        "B07C533XCW-1178",
+        "B07C533XCW-155",
+        "B07C533XCW-1187",
+        "B07C533XCW-1223",
+        "B07C533XCW-1390",
+        "B07C533XCW-732",
+        "B07C533XCW-489",
+        "B07C533XCW-639",
+        "B07C533XCW-1058",
+        "B07C533XCW-1024",
+        "B07C533XCW-1220",
+        "B07C533XCW-1424",
+        "B07C533XCW-967"
+      ],
+      "representative_review_ids": [
+        "B07C533XCW-761",
+        "B07C533XCW-893",
+        "B07C533XCW-1098"
+      ],
+      "evidence_status": "ok"
+    }
+  ],
+  "root_causes": {
+    "Functional Failure": {
+      "pain_point": "Functional Failure",
+      "root_cause": "核心机构（泵芯/电机/联动结构）可靠性不足：缺乏出厂寿命测试与批次抽检",
+      "affected_scenario": "正常使用数天至数月后失效",
+      "affected_users": "所有用户（直接导致退货与差评）",
+      "severity": 0.8925,
+      "evidence_ids": [
+        "B07C533XCW-623",
+        "B07C533XCW-472",
+        "B07C533XCW-1044",
+        "B07C533XCW-1472",
+        "B07C533XCW-905"
+      ],
+      "source": "heuristic"
+    },
+    "Cleaning Difficulty": {
+      "pain_point": "Cleaning Difficulty",
+      "root_cause": "杯盖零件不可拆卸 + 密封圈缝隙过深，残留物与霉菌滋生",
+      "affected_scenario": "日常保养 / 洗碗机清洗",
+      "affected_users": "日常高频使用者 / 有婴幼儿家庭",
+      "severity": 0.7575,
+      "evidence_ids": [
+        "B07C533XCW-1121",
+        "B07C533XCW-3",
+        "B07C533XCW-840",
+        "B07C533XCW-1126",
+        "B07C533XCW-880"
+      ],
+      "source": "heuristic"
+    },
+    "Drying & Clogging": {
+      "pain_point": "Drying & Clogging",
+      "root_cause": "包装气密性不足导致内容物挥发/氧化；或库存周期过长",
+      "affected_scenario": "开箱首用 / 中长期使用",
+      "affected_users": "所有用户",
+      "severity": 0.755,
+      "evidence_ids": [
+        "B07C533XCW-213",
+        "B07C533XCW-61",
+        "B07C533XCW-1276",
+        "B07C533XCW-709",
+        "B07C533XCW-0"
+      ],
+      "source": "heuristic"
+    },
+    "Durability": {
+      "pain_point": "Durability",
+      "root_cause": "外壁涂层附着力不足；杯身钢材厚度偏低，跌落易凹陷",
+      "affected_scenario": "日常跌落 / 洗碗机冲刷",
+      "affected_users": "儿童 / 户外高强度用户",
+      "severity": 0.92,
+      "evidence_ids": [
+        "B07C533XCW-166",
+        "B07C533XCW-1241",
+        "B07C533XCW-1414",
+        "B07C533XCW-1080",
+        "B07C533XCW-236"
+      ],
+      "source": "heuristic"
+    },
+    "Size & Capacity": {
+      "pain_point": "Size & Capacity",
+      "root_cause": "单一容量 SKU 覆盖场景有限，尺寸信息在 Listing 中呈现不清晰",
+      "affected_scenario": "书包侧袋 / 短途出行",
+      "affected_users": "学生 / 轻量化出行人群",
+      "severity": 0.7575,
+      "evidence_ids": [
+        "B07C533XCW-893",
+        "B07C533XCW-1098",
+        "B07C533XCW-761",
+        "B07C533XCW-1007",
+        "B07C533XCW-234"
+      ],
+      "source": "heuristic"
+    }
+  },
+  "product_v2": {
+    "positioning": "针对 V1 差评中 Top 痛点（功能失效 / 无法工作、难以清洁、堵塞 / 干涸 / 雾化不佳）全面重构的 V2 版本：以真实评论证据驱动参数级改进，主打「痛点清零 + 可验证升级」，面向高频通勤/户外场景用户，用 Evidence 营销建立信任壁垒。",
+    "parameters": [
+      {
+        "parameter": "mechanism_reliability",
+        "current_state": "泵芯/机构无寿命强化设计",
+        "recommended_state": "加强机构寿命设计与开合疲劳测试（engineering validation required）",
+        "pain_point": "Functional Failure",
+        "reason": "根因：核心机构（泵芯/电机/联动结构）可靠性不足：缺乏出厂寿命测试与批次抽检。该痛点 77 条负面评论 (占比 36.5%)，平均 1.43 星",
+        "evidence_ids": [
+          "B07C533XCW-623",
+          "B07C533XCW-472",
+          "B07C533XCW-1044",
+          "B07C533XCW-1472",
+          "B07C533XCW-905",
+          "B07C533XCW-1201"
+        ],
+        "confidence": 0.95,
+        "source": "heuristic"
+      },
+      {
+        "parameter": "qc_sampling",
+        "current_state": "无功能全检/抽检标准",
+        "recommended_state": "出厂功能全检 + 批次抽检可靠性测试",
+        "pain_point": "Functional Failure",
+        "reason": "根因：核心机构（泵芯/电机/联动结构）可靠性不足：缺乏出厂寿命测试与批次抽检。该痛点 77 条负面评论 (占比 36.5%)，平均 1.43 星",
+        "evidence_ids": [
+          "B07C533XCW-623",
+          "B07C533XCW-472",
+          "B07C533XCW-1044",
+          "B07C533XCW-1472",
+          "B07C533XCW-905",
+          "B07C533XCW-1201"
+        ],
+        "confidence": 0.95,
+        "source": "heuristic"
+      },
+      {
+        "parameter": "lid_structure",
+        "current_state": "一体式杯盖，密封圈不可拆",
+        "recommended_state": "全拆解式杯盖（密封圈/吸管可单独取出）",
+        "pain_point": "Cleaning Difficulty",
+        "reason": "根因：杯盖零件不可拆卸 + 密封圈缝隙过深，残留物与霉菌滋生。该痛点 36 条负面评论 (占比 17.1%)，平均 1.97 星",
+        "evidence_ids": [
+          "B07C533XCW-1121",
+          "B07C533XCW-3",
+          "B07C533XCW-840",
+          "B07C533XCW-1126",
+          "B07C533XCW-880",
+          "B07C533XCW-547"
+        ],
+        "confidence": 0.89,
+        "source": "heuristic"
+      },
+      {
+        "parameter": "lid_diameter",
+        "current_state": "窄口径，刷子难以直达底部（具体口径需工程验证）",
+        "recommended_state": "广口设计（目标口径需工程验证 required），支持刷子直达底部",
+        "pain_point": "Cleaning Difficulty",
+        "reason": "根因：杯盖零件不可拆卸 + 密封圈缝隙过深，残留物与霉菌滋生。该痛点 36 条负面评论 (占比 17.1%)，平均 1.97 星",
+        "evidence_ids": [
+          "B07C533XCW-1121",
+          "B07C533XCW-3",
+          "B07C533XCW-840",
+          "B07C533XCW-1126",
+          "B07C533XCW-880",
+          "B07C533XCW-547"
+        ],
+        "confidence": 0.89,
+        "source": "heuristic"
+      },
+      {
+        "parameter": "material_grade",
+        "current_state": "普通塑料件",
+        "recommended_state": "食品级 PP/硅胶，通过洗碗机认证",
+        "pain_point": "Cleaning Difficulty",
+        "reason": "根因：杯盖零件不可拆卸 + 密封圈缝隙过深，残留物与霉菌滋生。该痛点 36 条负面评论 (占比 17.1%)，平均 1.97 星",
+        "evidence_ids": [
+          "B07C533XCW-1121",
+          "B07C533XCW-3",
+          "B07C533XCW-840",
+          "B07C533XCW-1126",
+          "B07C533XCW-880",
+          "B07C533XCW-547"
+        ],
+        "confidence": 0.89,
+        "source": "heuristic"
+      },
+      {
+        "parameter": "packaging_airtight",
+        "current_state": "常规旋盖/软管",
+        "recommended_state": "加强气密结构 + 防逆流泵头（工程验证 required）",
+        "pain_point": "Drying & Clogging",
+        "reason": "根因：包装气密性不足导致内容物挥发/氧化；或库存周期过长。该痛点 48 条负面评论 (占比 22.8%)，平均 1.98 星",
+        "evidence_ids": [
+          "B07C533XCW-213",
+          "B07C533XCW-61",
+          "B07C533XCW-1276",
+          "B07C533XCW-709",
+          "B07C533XCW-0",
+          "B07C533XCW-1452"
+        ],
+        "confidence": 0.93,
+        "source": "heuristic"
+      },
+      {
+        "parameter": "shelf_life_control",
+        "current_state": "库存周转无批次管理",
+        "recommended_state": "出厂日期喷码 + 先进先出批次管理",
+        "pain_point": "Drying & Clogging",
+        "reason": "根因：包装气密性不足导致内容物挥发/氧化；或库存周期过长。该痛点 48 条负面评论 (占比 22.8%)，平均 1.98 星",
+        "evidence_ids": [
+          "B07C533XCW-213",
+          "B07C533XCW-61",
+          "B07C533XCW-1276",
+          "B07C533XCW-709",
+          "B07C533XCW-0",
+          "B07C533XCW-1452"
+        ],
+        "confidence": 0.93,
+        "source": "heuristic"
+      },
+      {
+        "parameter": "wall_thickness",
+        "current_state": "0.3mm 级薄壁（工程验证 required）",
+        "recommended_state": "适度增厚 + 底部加强结构",
+        "pain_point": "Durability",
+        "reason": "根因：外壁涂层附着力不足；杯身钢材厚度偏低，跌落易凹陷。该痛点 19 条负面评论 (占比 9.0%)，平均 1.32 星",
+        "evidence_ids": [
+          "B07C533XCW-166",
+          "B07C533XCW-1241",
+          "B07C533XCW-1414",
+          "B07C533XCW-1080",
+          "B07C533XCW-236",
+          "B07C533XCW-381"
+        ],
+        "confidence": 0.82,
+        "source": "heuristic"
+      },
+      {
+        "parameter": "coating_process",
+        "current_state": "普通喷涂",
+        "recommended_state": "静电粉末喷涂 / 阳极氧化（提升附着力）",
+        "pain_point": "Durability",
+        "reason": "根因：外壁涂层附着力不足；杯身钢材厚度偏低，跌落易凹陷。该痛点 19 条负面评论 (占比 9.0%)，平均 1.32 星",
+        "evidence_ids": [
+          "B07C533XCW-166",
+          "B07C533XCW-1241",
+          "B07C533XCW-1414",
+          "B07C533XCW-1080",
+          "B07C533XCW-236",
+          "B07C533XCW-381"
+        ],
+        "confidence": 0.82,
+        "source": "heuristic"
+      },
+      {
+        "parameter": "sku_matrix",
+        "current_state": "单一 24oz 规格",
+        "recommended_state": "多容量矩阵（如 18/24/32oz）+ 场景化推荐",
+        "pain_point": "Size & Capacity",
+        "reason": "根因：单一容量 SKU 覆盖场景有限，尺寸信息在 Listing 中呈现不清晰。该痛点 31 条负面评论 (占比 14.7%)，平均 1.97 星",
+        "evidence_ids": [
+          "B07C533XCW-893",
+          "B07C533XCW-1098",
+          "B07C533XCW-761",
+          "B07C533XCW-1007",
+          "B07C533XCW-234",
+          "B07C533XCW-1255"
+        ],
+        "confidence": 0.87,
+        "source": "heuristic"
+      },
+      {
+        "parameter": "listing_dimensions",
+        "current_state": "尺寸信息不突出",
+        "recommended_state": "Listing 增加实物对比图与精确尺寸表",
+        "pain_point": "Size & Capacity",
+        "reason": "根因：单一容量 SKU 覆盖场景有限，尺寸信息在 Listing 中呈现不清晰。该痛点 31 条负面评论 (占比 14.7%)，平均 1.97 星",
+        "evidence_ids": [
+          "B07C533XCW-893",
+          "B07C533XCW-1098",
+          "B07C533XCW-761",
+          "B07C533XCW-1007",
+          "B07C533XCW-234",
+          "B07C533XCW-1255"
+        ],
+        "confidence": 0.87,
+        "source": "heuristic"
+      }
+    ],
+    "selling_points": [
+      "彻底解决功能失效 / 无法工作：加强机构寿命设计与开合疲劳测试（依据 77 条真实差评）",
+      "彻底解决难以清洁：全拆解式杯盖（依据 36 条真实差评）",
+      "彻底解决堵塞 / 干涸 / 雾化不佳：加强气密结构 + 防逆流泵头（依据 48 条真实差评）",
+      "彻底解决耐用性 / 掉漆变形：适度增厚 + 底部加强结构（依据 19 条真实差评）",
+      "彻底解决尺寸/容量不合适：多容量矩阵（依据 31 条真实差评）"
+    ],
+    "before_after_profile": {
+      "metrics": [
+        "功能失效 / 无法工作",
+        "难以清洁",
+        "堵塞 / 干涸 / 雾化不佳",
+        "耐用性 / 掉漆变形",
+        "尺寸/容量不合适"
+      ],
+      "v1": [
+        38.0,
+        63.2,
+        71.1,
+        84.5,
+        86.6
+      ],
+      "v2": [
+        92.9,
+        93.8,
+        95.0,
+        95.5,
+        95.9
+      ]
+    }
+  },
+  "listing": {
+    "title": "Segbeauty V2 – factory-tested long-life mechanism, fully detachable easy-clean lid | Redesigned from Real Customer Reviews",
+    "bullets": [
+      "[SOLVED: Stops Working] Upgraded to factory-tested long-life mechanism — based on 77 real reviews (50 verifiable evidence quotes), avg 1.43 -> target 4.5+",
+      "[SOLVED: Hard to Clean] Upgraded to fully detachable easy-clean lid — based on 36 real reviews (36 verifiable evidence quotes), avg 1.97 -> target 4.5+",
+      "[SOLVED: Clogging/Drying] Upgraded to anti-clog airtight pump system — based on 48 real reviews (48 verifiable evidence quotes), avg 1.98 -> target 4.5+",
+      "[SOLVED: Durability] Upgraded to impact-resistant coating & thicker walls — based on 19 real reviews (19 verifiable evidence quotes), avg 1.32 -> target 4.5+",
+      "[SOLVED: Wrong Size] Upgraded to multi-size capacity options — based on 31 real reviews (31 verifiable evidence quotes), avg 1.97 -> target 4.5+"
+    ],
+    "faq": [
+      {
+        "q": "Customers reported 'Stops Working' on V1 — is it fixed?",
+        "a": "Yes. V2 addresses it with factory-tested long-life mechanism (engineering validation required)."
+      },
+      {
+        "q": "Is the lid easy to clean?",
+        "a": "Yes. V2 lid fully disassembles — gasket and straw are removable and dishwasher-safe."
+      },
+      {
+        "q": "Customers reported 'Clogging/Drying' on V1 — is it fixed?",
+        "a": "Yes. V2 addresses it with anti-clog airtight pump system (engineering validation required)."
+      },
+      {
+        "q": "Customers reported 'Durability' on V1 — is it fixed?",
+        "a": "Yes. V2 addresses it with impact-resistant coating & thicker walls (engineering validation required)."
+      },
+      {
+        "q": "Customers reported 'Wrong Size' on V1 — is it fixed?",
+        "a": "Yes. V2 addresses it with multi-size capacity options (engineering validation required)."
+      }
+    ],
+    "main_image_strategy": [
+      "主图1：白底产品主视觉（V2 双密封结构局部剖面光效）",
+      "场景图：针对「功能失效 / 无法工作」的 Before/After 对比",
+      "主图3：杯盖 3 秒全拆解俯拍 + 洗碗机场景图",
+      "场景图：针对「堵塞 / 干涸 / 雾化不佳」的 Before/After 对比",
+      "主图6：1.2m 跌落测试 + 涂层截面放大图",
+      "场景图：针对「尺寸/容量不合适」的 Before/After 对比"
+    ],
+    "marketing_message": "Every V2 upgrade is backed by real customer reviews — 211 negative voices turned into 11 engineering changes.",
+    "source": "heuristic"
+  }
+}

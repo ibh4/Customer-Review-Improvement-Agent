@@ -1,0 +1,361 @@
+{
+  "product_id": "B000X20Y4C",
+  "product_title": "Soft 'N Style Butterfly Clamps, Assorted Colors, 1 Dozen",
+  "category": "All_Beauty",
+  "data_source": "amazon_reviews_2023",
+  "generated_at": "2026-08-17T16:43:16",
+  "llm_mode": "mock",
+  "stats": {
+    "total_reviews": 476,
+    "negative_reviews": 98,
+    "avg_rating": 4.22,
+    "rating_distribution": {
+      "1": 45,
+      "2": 21,
+      "3": 32,
+      "4": 64,
+      "5": 314
+    },
+    "date_range": [
+      "1216041064",
+      "1642043622"
+    ],
+    "cluster_method": "tfidf_kmeans",
+    "n_clusters_raw": 4
+  },
+  "pain_points": [
+    {
+      "name": "Styling Performance",
+      "display_name": "造型/护发效果不符",
+      "label_source": "lexicon",
+      "cluster_ids": [
+        1,
+        3
+      ],
+      "review_count": 42,
+      "total_negative": 98,
+      "share": 0.4286,
+      "avg_rating": 1.98,
+      "keywords": [
+        "hair",
+        "hold",
+        "clips",
+        "clamps",
+        "flimsy",
+        "don't",
+        "good",
+        "long",
+        "straighten",
+        "straightener",
+        "straightening",
+        "curly"
+      ],
+      "frequency": 0.4286,
+      "severity": 0.755,
+      "helpfulness": 1.0,
+      "recency": 1.0,
+      "pain_score": 100.0,
+      "score_components": {
+        "frequency": 0.429,
+        "severity": 0.755,
+        "helpfulness": 1.0,
+        "recency": 1.0
+      },
+      "cluster_id": 1,
+      "evidence_review_ids": [
+        "B000X20Y4C-398",
+        "B000X20Y4C-217",
+        "B000X20Y4C-79",
+        "B000X20Y4C-499",
+        "B000X20Y4C-165",
+        "B000X20Y4C-333",
+        "B000X20Y4C-92",
+        "B000X20Y4C-169",
+        "B000X20Y4C-138",
+        "B000X20Y4C-491",
+        "B000X20Y4C-422",
+        "B000X20Y4C-476",
+        "B000X20Y4C-251",
+        "B000X20Y4C-504",
+        "B000X20Y4C-465",
+        "B000X20Y4C-198",
+        "B000X20Y4C-430",
+        "B000X20Y4C-409",
+        "B000X20Y4C-370",
+        "B000X20Y4C-38",
+        "B000X20Y4C-58",
+        "B000X20Y4C-152",
+        "B000X20Y4C-140",
+        "B000X20Y4C-301",
+        "B000X20Y4C-323",
+        "B000X20Y4C-143",
+        "B000X20Y4C-243",
+        "B000X20Y4C-390",
+        "B000X20Y4C-82",
+        "B000X20Y4C-340",
+        "B000X20Y4C-345",
+        "B000X20Y4C-477",
+        "B000X20Y4C-266",
+        "B000X20Y4C-495",
+        "B000X20Y4C-216",
+        "B000X20Y4C-63",
+        "B000X20Y4C-328",
+        "B000X20Y4C-155",
+        "B000X20Y4C-428",
+        "B000X20Y4C-489",
+        "B000X20Y4C-404",
+        "B000X20Y4C-234"
+      ],
+      "representative_review_ids": [
+        "B000X20Y4C-79",
+        "B000X20Y4C-217",
+        "B000X20Y4C-398"
+      ],
+      "evidence_status": "ok"
+    },
+    {
+      "name": "Durability",
+      "display_name": "耐用性 / 掉漆变形",
+      "label_source": "lexicon",
+      "cluster_ids": [
+        0,
+        2
+      ],
+      "review_count": 56,
+      "total_negative": 98,
+      "share": 0.5714,
+      "avg_rating": 1.79,
+      "keywords": [
+        "cheap",
+        "plastic",
+        "stars",
+        "star",
+        "broken",
+        "quality",
+        "clips",
+        "easily",
+        "dent",
+        "dented",
+        "scratch",
+        "scratched"
+      ],
+      "frequency": 0.5714,
+      "severity": 0.8025,
+      "helpfulness": 0.3,
+      "recency": 0.5,
+      "pain_score": 21.3,
+      "score_components": {
+        "frequency": 0.571,
+        "severity": 0.802,
+        "helpfulness": 0.3,
+        "recency": 0.5
+      },
+      "cluster_id": 0,
+      "evidence_review_ids": [
+        "B000X20Y4C-194",
+        "B000X20Y4C-330",
+        "B000X20Y4C-225",
+        "B000X20Y4C-26",
+        "B000X20Y4C-204",
+        "B000X20Y4C-123",
+        "B000X20Y4C-182",
+        "B000X20Y4C-497",
+        "B000X20Y4C-89",
+        "B000X20Y4C-76",
+        "B000X20Y4C-448",
+        "B000X20Y4C-259",
+        "B000X20Y4C-500",
+        "B000X20Y4C-396",
+        "B000X20Y4C-303",
+        "B000X20Y4C-436",
+        "B000X20Y4C-479",
+        "B000X20Y4C-282",
+        "B000X20Y4C-173",
+        "B000X20Y4C-150",
+        "B000X20Y4C-188",
+        "B000X20Y4C-49",
+        "B000X20Y4C-411",
+        "B000X20Y4C-287",
+        "B000X20Y4C-503",
+        "B000X20Y4C-470",
+        "B000X20Y4C-178",
+        "B000X20Y4C-419",
+        "B000X20Y4C-288",
+        "B000X20Y4C-371",
+        "B000X20Y4C-107",
+        "B000X20Y4C-184",
+        "B000X20Y4C-72",
+        "B000X20Y4C-232",
+        "B000X20Y4C-238",
+        "B000X20Y4C-443",
+        "B000X20Y4C-254",
+        "B000X20Y4C-406",
+        "B000X20Y4C-358",
+        "B000X20Y4C-197",
+        "B000X20Y4C-423",
+        "B000X20Y4C-237",
+        "B000X20Y4C-450",
+        "B000X20Y4C-219",
+        "B000X20Y4C-142",
+        "B000X20Y4C-505",
+        "B000X20Y4C-461",
+        "B000X20Y4C-490",
+        "B000X20Y4C-227",
+        "B000X20Y4C-133"
+      ],
+      "representative_review_ids": [
+        "B000X20Y4C-194",
+        "B000X20Y4C-225",
+        "B000X20Y4C-330"
+      ],
+      "evidence_status": "ok"
+    }
+  ],
+  "root_causes": {
+    "Styling Performance": {
+      "pain_point": "Styling Performance",
+      "root_cause": "造型工具与用户发质（卷发/粗硬发/细软发）匹配不足：温度/风量/梳齿间距为单一规格，未按核心发质人群分档设计",
+      "affected_scenario": "日常吹风 / 卷发打理 / 直发造型",
+      "affected_users": "卷发人群 / 细软发质 / 短发用户",
+      "severity": 0.755,
+      "evidence_ids": [
+        "B000X20Y4C-398",
+        "B000X20Y4C-217",
+        "B000X20Y4C-79",
+        "B000X20Y4C-499",
+        "B000X20Y4C-165"
+      ],
+      "source": "heuristic"
+    },
+    "Durability": {
+      "pain_point": "Durability",
+      "root_cause": "外壁涂层附着力不足；杯身钢材厚度偏低，跌落易凹陷",
+      "affected_scenario": "日常跌落 / 洗碗机冲刷",
+      "affected_users": "儿童 / 户外高强度用户",
+      "severity": 0.8025,
+      "evidence_ids": [
+        "B000X20Y4C-194",
+        "B000X20Y4C-330",
+        "B000X20Y4C-225",
+        "B000X20Y4C-26",
+        "B000X20Y4C-204"
+      ],
+      "source": "heuristic"
+    }
+  },
+  "product_v2": {
+    "positioning": "针对 V1 差评中 Top 痛点（造型/护发效果不符、耐用性 / 掉漆变形）全面重构的 V2 版本：以真实评论证据驱动参数级改进，主打「痛点清零 + 可验证升级」，面向高频通勤/户外场景用户，用 Evidence 营销建立信任壁垒。",
+    "parameters": [
+      {
+        "parameter": "heat_settings",
+        "current_state": "单一温度/风量档",
+        "recommended_state": "多档温度风量 + 发质适配指引（工程验证 required）",
+        "pain_point": "Styling Performance",
+        "reason": "根因：造型工具与用户发质（卷发/粗硬发/细软发）匹配不足：温度/风量/梳齿间距为单一规格，未按核心发质人群分档设计。该痛点 42 条负面评论 (占比 42.9%)，平均 1.98 星",
+        "evidence_ids": [
+          "B000X20Y4C-398",
+          "B000X20Y4C-217",
+          "B000X20Y4C-79",
+          "B000X20Y4C-499",
+          "B000X20Y4C-165",
+          "B000X20Y4C-333"
+        ],
+        "confidence": 0.95,
+        "source": "heuristic"
+      },
+      {
+        "parameter": "accessory_matrix",
+        "current_state": "通用配件，无发质区分",
+        "recommended_state": "按发质（细软/粗硬/卷发）的配件矩阵",
+        "pain_point": "Styling Performance",
+        "reason": "根因：造型工具与用户发质（卷发/粗硬发/细软发）匹配不足：温度/风量/梳齿间距为单一规格，未按核心发质人群分档设计。该痛点 42 条负面评论 (占比 42.9%)，平均 1.98 星",
+        "evidence_ids": [
+          "B000X20Y4C-398",
+          "B000X20Y4C-217",
+          "B000X20Y4C-79",
+          "B000X20Y4C-499",
+          "B000X20Y4C-165",
+          "B000X20Y4C-333"
+        ],
+        "confidence": 0.95,
+        "source": "heuristic"
+      },
+      {
+        "parameter": "wall_thickness",
+        "current_state": "0.3mm 级薄壁（工程验证 required）",
+        "recommended_state": "适度增厚 + 底部加强结构",
+        "pain_point": "Durability",
+        "reason": "根因：外壁涂层附着力不足；杯身钢材厚度偏低，跌落易凹陷。该痛点 56 条负面评论 (占比 57.1%)，平均 1.79 星",
+        "evidence_ids": [
+          "B000X20Y4C-194",
+          "B000X20Y4C-330",
+          "B000X20Y4C-225",
+          "B000X20Y4C-26",
+          "B000X20Y4C-204",
+          "B000X20Y4C-123"
+        ],
+        "confidence": 0.95,
+        "source": "heuristic"
+      },
+      {
+        "parameter": "coating_process",
+        "current_state": "普通喷涂",
+        "recommended_state": "静电粉末喷涂 / 阳极氧化（提升附着力）",
+        "pain_point": "Durability",
+        "reason": "根因：外壁涂层附着力不足；杯身钢材厚度偏低，跌落易凹陷。该痛点 56 条负面评论 (占比 57.1%)，平均 1.79 星",
+        "evidence_ids": [
+          "B000X20Y4C-194",
+          "B000X20Y4C-330",
+          "B000X20Y4C-225",
+          "B000X20Y4C-26",
+          "B000X20Y4C-204",
+          "B000X20Y4C-123"
+        ],
+        "confidence": 0.95,
+        "source": "heuristic"
+      }
+    ],
+    "selling_points": [
+      "彻底解决造型/护发效果不符：多档温度风量 + 发质适配指引（依据 42 条真实差评）",
+      "彻底解决耐用性 / 掉漆变形：适度增厚 + 底部加强结构（依据 56 条真实差评）"
+    ],
+    "before_after_profile": {
+      "metrics": [
+        "造型/护发效果不符",
+        "耐用性 / 掉漆变形"
+      ],
+      "v1": [
+        38.0,
+        86.8
+      ],
+      "v2": [
+        92.9,
+        96.3
+      ]
+    }
+  },
+  "listing": {
+    "title": "Soft V2 – upgraded core design, impact-resistant coating & thicker walls | Redesigned from Real Customer Reviews",
+    "bullets": [
+      "[SOLVED: Styling Performance] Upgraded to a fully redesigned structure — based on 42 real reviews (42 verifiable evidence quotes), avg 1.98 -> target 4.5+",
+      "[SOLVED: Durability] Upgraded to impact-resistant coating & thicker walls — based on 56 real reviews (50 verifiable evidence quotes), avg 1.79 -> target 4.5+"
+    ],
+    "faq": [
+      {
+        "q": "Customers reported 'Styling Performance' on V1 — is it fixed?",
+        "a": "Yes. V2 addresses it with a fully redesigned structure (engineering validation required)."
+      },
+      {
+        "q": "Customers reported 'Durability' on V1 — is it fixed?",
+        "a": "Yes. V2 addresses it with impact-resistant coating & thicker walls (engineering validation required)."
+      }
+    ],
+    "main_image_strategy": [
+      "主图1：白底产品主视觉（V2 双密封结构局部剖面光效）",
+      "场景图：针对「造型/护发效果不符」的 Before/After 对比",
+      "主图6：1.2m 跌落测试 + 涂层截面放大图"
+    ],
+    "marketing_message": "Every V2 upgrade is backed by real customer reviews — 98 negative voices turned into 4 engineering changes.",
+    "source": "heuristic"
+  }
+}

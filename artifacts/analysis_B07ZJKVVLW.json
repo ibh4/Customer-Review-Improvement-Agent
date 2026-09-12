@@ -1,0 +1,703 @@
+{
+  "product_id": "B07ZJKVVLW",
+  "product_title": "4 Point Eyebrow Pen, Micro Ink Tat Brow Pen Waterproof Eyebrow Pencil With Micro-Fork Tips for Daily Natural Eye Brown Makeup (Dark Brown/ Chestnut)",
+  "category": "All_Beauty",
+  "data_source": "amazon_reviews_2023",
+  "generated_at": "2026-08-17T16:42:37",
+  "llm_mode": "mock",
+  "stats": {
+    "total_reviews": 806,
+    "negative_reviews": 168,
+    "avg_rating": 4.26,
+    "rating_distribution": {
+      "1": 98,
+      "2": 42,
+      "3": 28,
+      "4": 20,
+      "5": 618
+    },
+    "date_range": [
+      "1576580686",
+      "1647731527"
+    ],
+    "cluster_method": "tfidf_kmeans",
+    "n_clusters_raw": 5
+  },
+  "pain_points": [
+    {
+      "name": "Functional Failure",
+      "display_name": "功能失效 / 无法工作",
+      "label_source": "lexicon_terms",
+      "cluster_ids": [
+        0
+      ],
+      "review_count": 63,
+      "total_negative": 168,
+      "share": 0.375,
+      "avg_rating": 1.59,
+      "keywords": [
+        "like",
+        "work",
+        "does",
+        "product",
+        "dried",
+        "good",
+        "look",
+        "hair",
+        "stopped working",
+        "stopped spraying",
+        "quit working",
+        "quit spraying"
+      ],
+      "frequency": 0.375,
+      "severity": 0.8525,
+      "helpfulness": 0.9993,
+      "recency": 0.8229,
+      "pain_score": 100.0,
+      "score_components": {
+        "frequency": 0.375,
+        "severity": 0.853,
+        "helpfulness": 0.999,
+        "recency": 0.823
+      },
+      "cluster_id": 0,
+      "evidence_review_ids": [
+        "B07ZJKVVLW-352",
+        "B07ZJKVVLW-50",
+        "B07ZJKVVLW-747",
+        "B07ZJKVVLW-258",
+        "B07ZJKVVLW-375",
+        "B07ZJKVVLW-663",
+        "B07ZJKVVLW-756",
+        "B07ZJKVVLW-444",
+        "B07ZJKVVLW-611",
+        "B07ZJKVVLW-58",
+        "B07ZJKVVLW-435",
+        "B07ZJKVVLW-43",
+        "B07ZJKVVLW-768",
+        "B07ZJKVVLW-618",
+        "B07ZJKVVLW-660",
+        "B07ZJKVVLW-807",
+        "B07ZJKVVLW-53",
+        "B07ZJKVVLW-741",
+        "B07ZJKVVLW-555",
+        "B07ZJKVVLW-254",
+        "B07ZJKVVLW-324",
+        "B07ZJKVVLW-224",
+        "B07ZJKVVLW-586",
+        "B07ZJKVVLW-368",
+        "B07ZJKVVLW-820",
+        "B07ZJKVVLW-446",
+        "B07ZJKVVLW-335",
+        "B07ZJKVVLW-413",
+        "B07ZJKVVLW-313",
+        "B07ZJKVVLW-152",
+        "B07ZJKVVLW-725",
+        "B07ZJKVVLW-209",
+        "B07ZJKVVLW-187",
+        "B07ZJKVVLW-620",
+        "B07ZJKVVLW-754",
+        "B07ZJKVVLW-69",
+        "B07ZJKVVLW-790",
+        "B07ZJKVVLW-563",
+        "B07ZJKVVLW-37",
+        "B07ZJKVVLW-478",
+        "B07ZJKVVLW-499",
+        "B07ZJKVVLW-535",
+        "B07ZJKVVLW-60",
+        "B07ZJKVVLW-724",
+        "B07ZJKVVLW-87",
+        "B07ZJKVVLW-646",
+        "B07ZJKVVLW-449",
+        "B07ZJKVVLW-738",
+        "B07ZJKVVLW-49",
+        "B07ZJKVVLW-156"
+      ],
+      "representative_review_ids": [
+        "B07ZJKVVLW-50",
+        "B07ZJKVVLW-352",
+        "B07ZJKVVLW-747"
+      ],
+      "evidence_status": "ok"
+    },
+    {
+      "name": "Shade Mismatch",
+      "display_name": "色号/颜色与图片不符",
+      "label_source": "lexicon",
+      "cluster_ids": [
+        2
+      ],
+      "review_count": 33,
+      "total_negative": 168,
+      "share": 0.1964,
+      "avg_rating": 1.7,
+      "keywords": [
+        "color",
+        "brown",
+        "product",
+        "dark",
+        "like",
+        "eyebrow",
+        "smudge",
+        "waterproof",
+        "shade",
+        "colour",
+        "tone",
+        "swatch"
+      ],
+      "frequency": 0.1964,
+      "severity": 0.825,
+      "helpfulness": 0.9033,
+      "recency": 1.0,
+      "pain_score": 55.7,
+      "score_components": {
+        "frequency": 0.196,
+        "severity": 0.825,
+        "helpfulness": 0.903,
+        "recency": 1.0
+      },
+      "cluster_id": 2,
+      "evidence_review_ids": [
+        "B07ZJKVVLW-827",
+        "B07ZJKVVLW-217",
+        "B07ZJKVVLW-697",
+        "B07ZJKVVLW-574",
+        "B07ZJKVVLW-734",
+        "B07ZJKVVLW-479",
+        "B07ZJKVVLW-521",
+        "B07ZJKVVLW-386",
+        "B07ZJKVVLW-675",
+        "B07ZJKVVLW-638",
+        "B07ZJKVVLW-78",
+        "B07ZJKVVLW-163",
+        "B07ZJKVVLW-757",
+        "B07ZJKVVLW-45",
+        "B07ZJKVVLW-822",
+        "B07ZJKVVLW-10",
+        "B07ZJKVVLW-57",
+        "B07ZJKVVLW-132",
+        "B07ZJKVVLW-452",
+        "B07ZJKVVLW-256",
+        "B07ZJKVVLW-513",
+        "B07ZJKVVLW-202",
+        "B07ZJKVVLW-691",
+        "B07ZJKVVLW-547",
+        "B07ZJKVVLW-81",
+        "B07ZJKVVLW-24",
+        "B07ZJKVVLW-829",
+        "B07ZJKVVLW-248",
+        "B07ZJKVVLW-89",
+        "B07ZJKVVLW-150",
+        "B07ZJKVVLW-823",
+        "B07ZJKVVLW-30",
+        "B07ZJKVVLW-416"
+      ],
+      "representative_review_ids": [
+        "B07ZJKVVLW-217",
+        "B07ZJKVVLW-697",
+        "B07ZJKVVLW-827"
+      ],
+      "evidence_status": "ok"
+    },
+    {
+      "name": "Value & Price",
+      "display_name": "性价比质疑",
+      "label_source": "lexicon",
+      "cluster_ids": [
+        1
+      ],
+      "review_count": 23,
+      "total_negative": 168,
+      "share": 0.1369,
+      "avg_rating": 1.13,
+      "keywords": [
+        "money",
+        "waste",
+        "product",
+        "just",
+        "don't",
+        "time",
+        "good",
+        "like",
+        "price",
+        "expensive",
+        "overpriced",
+        "worth it"
+      ],
+      "frequency": 0.1369,
+      "severity": 0.9675,
+      "helpfulness": 1.0,
+      "recency": 0.679,
+      "pain_score": 34.2,
+      "score_components": {
+        "frequency": 0.137,
+        "severity": 0.968,
+        "helpfulness": 1.0,
+        "recency": 0.679
+      },
+      "cluster_id": 1,
+      "evidence_review_ids": [
+        "B07ZJKVVLW-412",
+        "B07ZJKVVLW-266",
+        "B07ZJKVVLW-36",
+        "B07ZJKVVLW-826",
+        "B07ZJKVVLW-56",
+        "B07ZJKVVLW-628",
+        "B07ZJKVVLW-498",
+        "B07ZJKVVLW-665",
+        "B07ZJKVVLW-330",
+        "B07ZJKVVLW-595",
+        "B07ZJKVVLW-688",
+        "B07ZJKVVLW-463",
+        "B07ZJKVVLW-33",
+        "B07ZJKVVLW-681",
+        "B07ZJKVVLW-70",
+        "B07ZJKVVLW-545",
+        "B07ZJKVVLW-764",
+        "B07ZJKVVLW-32",
+        "B07ZJKVVLW-291",
+        "B07ZJKVVLW-307",
+        "B07ZJKVVLW-765",
+        "B07ZJKVVLW-226",
+        "B07ZJKVVLW-12"
+      ],
+      "representative_review_ids": [
+        "B07ZJKVVLW-36",
+        "B07ZJKVVLW-266",
+        "B07ZJKVVLW-412"
+      ],
+      "evidence_status": "ok"
+    },
+    {
+      "name": "Effectiveness",
+      "display_name": "见效慢/效果不符",
+      "label_source": "lexicon",
+      "cluster_ids": [
+        3
+      ],
+      "review_count": 22,
+      "total_negative": 168,
+      "share": 0.131,
+      "avg_rating": 1.77,
+      "keywords": [
+        "pencil",
+        "lines",
+        "eyebrow",
+        "just",
+        "like",
+        "better",
+        "look",
+        "does",
+        "no results",
+        "no difference",
+        "didn't help",
+        "didn't remove"
+      ],
+      "frequency": 0.131,
+      "severity": 0.8075,
+      "helpfulness": 0.7252,
+      "recency": 0.5388,
+      "pain_score": 15.7,
+      "score_components": {
+        "frequency": 0.131,
+        "severity": 0.807,
+        "helpfulness": 0.725,
+        "recency": 0.539
+      },
+      "cluster_id": 3,
+      "evidence_review_ids": [
+        "B07ZJKVVLW-72",
+        "B07ZJKVVLW-95",
+        "B07ZJKVVLW-104",
+        "B07ZJKVVLW-722",
+        "B07ZJKVVLW-178",
+        "B07ZJKVVLW-750",
+        "B07ZJKVVLW-670",
+        "B07ZJKVVLW-177",
+        "B07ZJKVVLW-283",
+        "B07ZJKVVLW-308",
+        "B07ZJKVVLW-133",
+        "B07ZJKVVLW-776",
+        "B07ZJKVVLW-831",
+        "B07ZJKVVLW-229",
+        "B07ZJKVVLW-115",
+        "B07ZJKVVLW-136",
+        "B07ZJKVVLW-450",
+        "B07ZJKVVLW-508",
+        "B07ZJKVVLW-166",
+        "B07ZJKVVLW-153",
+        "B07ZJKVVLW-709",
+        "B07ZJKVVLW-813"
+      ],
+      "representative_review_ids": [
+        "B07ZJKVVLW-72",
+        "B07ZJKVVLW-95",
+        "B07ZJKVVLW-104"
+      ],
+      "evidence_status": "ok"
+    },
+    {
+      "name": "Drying & Clogging",
+      "display_name": "堵塞 / 干涸 / 雾化不佳",
+      "label_source": "lexicon",
+      "cluster_ids": [
+        4
+      ],
+      "review_count": 27,
+      "total_negative": 168,
+      "share": 0.1607,
+      "avg_rating": 1.67,
+      "keywords": [
+        "dried",
+        "product",
+        "cheap",
+        "great",
+        "quickly",
+        "uses",
+        "concept",
+        "good",
+        "clog",
+        "clogged",
+        "clogs",
+        "clogging"
+      ],
+      "frequency": 0.1607,
+      "severity": 0.8325,
+      "helpfulness": 0.3,
+      "recency": 0.5,
+      "pain_score": 7.6,
+      "score_components": {
+        "frequency": 0.161,
+        "severity": 0.833,
+        "helpfulness": 0.3,
+        "recency": 0.5
+      },
+      "cluster_id": 4,
+      "evidence_review_ids": [
+        "B07ZJKVVLW-367",
+        "B07ZJKVVLW-91",
+        "B07ZJKVVLW-172",
+        "B07ZJKVVLW-111",
+        "B07ZJKVVLW-232",
+        "B07ZJKVVLW-515",
+        "B07ZJKVVLW-363",
+        "B07ZJKVVLW-85",
+        "B07ZJKVVLW-671",
+        "B07ZJKVVLW-632",
+        "B07ZJKVVLW-546",
+        "B07ZJKVVLW-65",
+        "B07ZJKVVLW-687",
+        "B07ZJKVVLW-733",
+        "B07ZJKVVLW-298",
+        "B07ZJKVVLW-378",
+        "B07ZJKVVLW-82",
+        "B07ZJKVVLW-516",
+        "B07ZJKVVLW-231",
+        "B07ZJKVVLW-711",
+        "B07ZJKVVLW-113",
+        "B07ZJKVVLW-173",
+        "B07ZJKVVLW-182",
+        "B07ZJKVVLW-20",
+        "B07ZJKVVLW-373",
+        "B07ZJKVVLW-720",
+        "B07ZJKVVLW-579"
+      ],
+      "representative_review_ids": [
+        "B07ZJKVVLW-91",
+        "B07ZJKVVLW-172",
+        "B07ZJKVVLW-367"
+      ],
+      "evidence_status": "ok"
+    }
+  ],
+  "root_causes": {
+    "Functional Failure": {
+      "pain_point": "Functional Failure",
+      "root_cause": "核心机构（泵芯/电机/联动结构）可靠性不足：缺乏出厂寿命测试与批次抽检",
+      "affected_scenario": "正常使用数天至数月后失效",
+      "affected_users": "所有用户（直接导致退货与差评）",
+      "severity": 0.8525,
+      "evidence_ids": [
+        "B07ZJKVVLW-352",
+        "B07ZJKVVLW-50",
+        "B07ZJKVVLW-747",
+        "B07ZJKVVLW-258",
+        "B07ZJKVVLW-375"
+      ],
+      "source": "heuristic"
+    },
+    "Shade Mismatch": {
+      "pain_point": "Shade Mismatch",
+      "root_cause": "Listing 图片过度调色 / 未提供多肤色试色参考",
+      "affected_scenario": "线上选购决策",
+      "affected_users": "新客（直接影响退货率）",
+      "severity": 0.825,
+      "evidence_ids": [
+        "B07ZJKVVLW-827",
+        "B07ZJKVVLW-217",
+        "B07ZJKVVLW-697",
+        "B07ZJKVVLW-574",
+        "B07ZJKVVLW-734"
+      ],
+      "source": "heuristic"
+    },
+    "Value & Price": {
+      "pain_point": "Value & Price",
+      "root_cause": "价格带与感知质量错位：核心痛点（漏水/清洁）拉低价值感知",
+      "affected_scenario": "比价 / 复购决策",
+      "affected_users": "价格敏感型用户",
+      "severity": 0.9675,
+      "evidence_ids": [
+        "B07ZJKVVLW-412",
+        "B07ZJKVVLW-266",
+        "B07ZJKVVLW-36",
+        "B07ZJKVVLW-826",
+        "B07ZJKVVLW-56"
+      ],
+      "source": "heuristic"
+    },
+    "Effectiveness": {
+      "pain_point": "Effectiveness",
+      "root_cause": "功效浓度/功率与用户预期错位：Listing 承诺效果与实际见效周期未对齐，缺少效果对照与周期说明",
+      "affected_scenario": "护肤/清洁/生发类产品使用 2–8 周",
+      "affected_users": "功效导向用户（差评核心来源）",
+      "severity": 0.8075,
+      "evidence_ids": [
+        "B07ZJKVVLW-72",
+        "B07ZJKVVLW-95",
+        "B07ZJKVVLW-104",
+        "B07ZJKVVLW-722",
+        "B07ZJKVVLW-178"
+      ],
+      "source": "heuristic"
+    },
+    "Drying & Clogging": {
+      "pain_point": "Drying & Clogging",
+      "root_cause": "包装气密性不足导致内容物挥发/氧化；或库存周期过长",
+      "affected_scenario": "开箱首用 / 中长期使用",
+      "affected_users": "所有用户",
+      "severity": 0.8325,
+      "evidence_ids": [
+        "B07ZJKVVLW-367",
+        "B07ZJKVVLW-91",
+        "B07ZJKVVLW-172",
+        "B07ZJKVVLW-111",
+        "B07ZJKVVLW-232"
+      ],
+      "source": "heuristic"
+    }
+  },
+  "product_v2": {
+    "positioning": "针对 V1 差评中 Top 痛点（功能失效 / 无法工作、色号/颜色与图片不符、性价比质疑）全面重构的 V2 版本：以真实评论证据驱动参数级改进，主打「痛点清零 + 可验证升级」，面向高频通勤/户外场景用户，用 Evidence 营销建立信任壁垒。",
+    "parameters": [
+      {
+        "parameter": "mechanism_reliability",
+        "current_state": "泵芯/机构无寿命强化设计",
+        "recommended_state": "加强机构寿命设计与开合疲劳测试（engineering validation required）",
+        "pain_point": "Functional Failure",
+        "reason": "根因：核心机构（泵芯/电机/联动结构）可靠性不足：缺乏出厂寿命测试与批次抽检。该痛点 63 条负面评论 (占比 37.5%)，平均 1.59 星",
+        "evidence_ids": [
+          "B07ZJKVVLW-352",
+          "B07ZJKVVLW-50",
+          "B07ZJKVVLW-747",
+          "B07ZJKVVLW-258",
+          "B07ZJKVVLW-375",
+          "B07ZJKVVLW-663"
+        ],
+        "confidence": 0.95,
+        "source": "heuristic"
+      },
+      {
+        "parameter": "qc_sampling",
+        "current_state": "无功能全检/抽检标准",
+        "recommended_state": "出厂功能全检 + 批次抽检可靠性测试",
+        "pain_point": "Functional Failure",
+        "reason": "根因：核心机构（泵芯/电机/联动结构）可靠性不足：缺乏出厂寿命测试与批次抽检。该痛点 63 条负面评论 (占比 37.5%)，平均 1.59 星",
+        "evidence_ids": [
+          "B07ZJKVVLW-352",
+          "B07ZJKVVLW-50",
+          "B07ZJKVVLW-747",
+          "B07ZJKVVLW-258",
+          "B07ZJKVVLW-375",
+          "B07ZJKVVLW-663"
+        ],
+        "confidence": 0.95,
+        "source": "heuristic"
+      },
+      {
+        "parameter": "listing_accuracy",
+        "current_state": "单图单角度展示",
+        "recommended_state": "多肤色试色图 + 自然光实拍 + 色卡对照",
+        "pain_point": "Shade Mismatch",
+        "reason": "根因：Listing 图片过度调色 / 未提供多肤色试色参考。该痛点 33 条负面评论 (占比 19.6%)，平均 1.7 星",
+        "evidence_ids": [
+          "B07ZJKVVLW-827",
+          "B07ZJKVVLW-217",
+          "B07ZJKVVLW-697",
+          "B07ZJKVVLW-574",
+          "B07ZJKVVLW-734",
+          "B07ZJKVVLW-479"
+        ],
+        "confidence": 0.91,
+        "source": "heuristic"
+      },
+      {
+        "parameter": "cost_engineering",
+        "current_state": "定价高于同类且痛点未解决",
+        "recommended_state": "优先解决 Top 痛点以支撑价格带；推出以旧换新留存策略",
+        "pain_point": "Value & Price",
+        "reason": "根因：价格带与感知质量错位：核心痛点（漏水/清洁）拉低价值感知。该痛点 23 条负面评论 (占比 13.7%)，平均 1.13 星",
+        "evidence_ids": [
+          "B07ZJKVVLW-412",
+          "B07ZJKVVLW-266",
+          "B07ZJKVVLW-36",
+          "B07ZJKVVLW-826",
+          "B07ZJKVVLW-56",
+          "B07ZJKVVLW-628"
+        ],
+        "confidence": 0.86,
+        "source": "heuristic"
+      },
+      {
+        "parameter": "efficacy_claim",
+        "current_state": "Listing 效果承诺单点化",
+        "recommended_state": "效果分层承诺（即时/28 天）+ 使用前后对照实拍",
+        "pain_point": "Effectiveness",
+        "reason": "根因：功效浓度/功率与用户预期错位：Listing 承诺效果与实际见效周期未对齐，缺少效果对照与周期说明。该痛点 22 条负面评论 (占比 13.1%)，平均 1.77 星",
+        "evidence_ids": [
+          "B07ZJKVVLW-72",
+          "B07ZJKVVLW-95",
+          "B07ZJKVVLW-104",
+          "B07ZJKVVLW-722",
+          "B07ZJKVVLW-178",
+          "B07ZJKVVLW-750"
+        ],
+        "confidence": 0.85,
+        "source": "heuristic"
+      },
+      {
+        "parameter": "usage_guide",
+        "current_state": "使用说明简略",
+        "recommended_state": "使用频次/手法/见效周期指引",
+        "pain_point": "Effectiveness",
+        "reason": "根因：功效浓度/功率与用户预期错位：Listing 承诺效果与实际见效周期未对齐，缺少效果对照与周期说明。该痛点 22 条负面评论 (占比 13.1%)，平均 1.77 星",
+        "evidence_ids": [
+          "B07ZJKVVLW-72",
+          "B07ZJKVVLW-95",
+          "B07ZJKVVLW-104",
+          "B07ZJKVVLW-722",
+          "B07ZJKVVLW-178",
+          "B07ZJKVVLW-750"
+        ],
+        "confidence": 0.85,
+        "source": "heuristic"
+      },
+      {
+        "parameter": "packaging_airtight",
+        "current_state": "常规旋盖/软管",
+        "recommended_state": "加强气密结构 + 防逆流泵头（工程验证 required）",
+        "pain_point": "Drying & Clogging",
+        "reason": "根因：包装气密性不足导致内容物挥发/氧化；或库存周期过长。该痛点 27 条负面评论 (占比 16.1%)，平均 1.67 星",
+        "evidence_ids": [
+          "B07ZJKVVLW-367",
+          "B07ZJKVVLW-91",
+          "B07ZJKVVLW-172",
+          "B07ZJKVVLW-111",
+          "B07ZJKVVLW-232",
+          "B07ZJKVVLW-515"
+        ],
+        "confidence": 0.88,
+        "source": "heuristic"
+      },
+      {
+        "parameter": "shelf_life_control",
+        "current_state": "库存周转无批次管理",
+        "recommended_state": "出厂日期喷码 + 先进先出批次管理",
+        "pain_point": "Drying & Clogging",
+        "reason": "根因：包装气密性不足导致内容物挥发/氧化；或库存周期过长。该痛点 27 条负面评论 (占比 16.1%)，平均 1.67 星",
+        "evidence_ids": [
+          "B07ZJKVVLW-367",
+          "B07ZJKVVLW-91",
+          "B07ZJKVVLW-172",
+          "B07ZJKVVLW-111",
+          "B07ZJKVVLW-232",
+          "B07ZJKVVLW-515"
+        ],
+        "confidence": 0.88,
+        "source": "heuristic"
+      }
+    ],
+    "selling_points": [
+      "彻底解决功能失效 / 无法工作：加强机构寿命设计与开合疲劳测试（依据 63 条真实差评）",
+      "彻底解决色号/颜色与图片不符：多肤色试色图 + 自然光实拍 + 色卡对照（依据 33 条真实差评）",
+      "彻底解决性价比质疑：优先解决 Top 痛点以支撑价格带；推出以旧换新留存策略（依据 23 条真实差评）",
+      "彻底解决见效慢/效果不符：效果分层承诺（依据 22 条真实差评）",
+      "彻底解决堵塞 / 干涸 / 雾化不佳：加强气密结构 + 防逆流泵头（依据 27 条真实差评）"
+    ],
+    "before_after_profile": {
+      "metrics": [
+        "功能失效 / 无法工作",
+        "色号/颜色与图片不符",
+        "性价比质疑",
+        "见效慢/效果不符",
+        "堵塞 / 干涸 / 雾化不佳"
+      ],
+      "v1": [
+        38.0,
+        65.5,
+        78.8,
+        90.3,
+        95.0
+      ],
+      "v2": [
+        92.9,
+        94.3,
+        95.1,
+        96.3,
+        96.8
+      ]
+    }
+  },
+  "listing": {
+    "title": "4 V2 – factory-tested long-life mechanism, true-tone multi-skin-tone swatches, upgrades that justify every cent | Redesigned from Real Customer Reviews",
+    "bullets": [
+      "[SOLVED: Stops Working] Upgraded to factory-tested long-life mechanism — based on 63 real reviews (50 verifiable evidence quotes), avg 1.59 -> target 4.5+",
+      "[SOLVED: Shade Mismatch] Upgraded to true-tone multi-skin-tone swatches — based on 33 real reviews (33 verifiable evidence quotes), avg 1.7 -> target 4.5+",
+      "[SOLVED: Value Concerns] Upgraded to upgrades that justify every cent — based on 23 real reviews (23 verifiable evidence quotes), avg 1.13 -> target 4.5+",
+      "[SOLVED: Effectiveness] Upgraded to a fully redesigned structure — based on 22 real reviews (22 verifiable evidence quotes), avg 1.77 -> target 4.5+",
+      "[SOLVED: Clogging/Drying] Upgraded to anti-clog airtight pump system — based on 27 real reviews (27 verifiable evidence quotes), avg 1.67 -> target 4.5+"
+    ],
+    "faq": [
+      {
+        "q": "Customers reported 'Stops Working' on V1 — is it fixed?",
+        "a": "Yes. V2 addresses it with factory-tested long-life mechanism (engineering validation required)."
+      },
+      {
+        "q": "Customers reported 'Shade Mismatch' on V1 — is it fixed?",
+        "a": "Yes. V2 addresses it with true-tone multi-skin-tone swatches (engineering validation required)."
+      },
+      {
+        "q": "Customers reported 'Value Concerns' on V1 — is it fixed?",
+        "a": "Yes. V2 addresses it with upgrades that justify every cent (engineering validation required)."
+      },
+      {
+        "q": "Customers reported 'Effectiveness' on V1 — is it fixed?",
+        "a": "Yes. V2 addresses it with a fully redesigned structure (engineering validation required)."
+      },
+      {
+        "q": "Customers reported 'Clogging/Drying' on V1 — is it fixed?",
+        "a": "Yes. V2 addresses it with anti-clog airtight pump system (engineering validation required)."
+      }
+    ],
+    "main_image_strategy": [
+      "主图1：白底产品主视觉（V2 双密封结构局部剖面光效）",
+      "场景图：针对「功能失效 / 无法工作」的 Before/After 对比",
+      "场景图：针对「色号/颜色与图片不符」的 Before/After 对比",
+      "场景图：针对「性价比质疑」的 Before/After 对比",
+      "场景图：针对「见效慢/效果不符」的 Before/After 对比",
+      "场景图：针对「堵塞 / 干涸 / 雾化不佳」的 Before/After 对比"
+    ],
+    "marketing_message": "Every V2 upgrade is backed by real customer reviews — 168 negative voices turned into 8 engineering changes.",
+    "source": "heuristic"
+  }
+}

@@ -1,0 +1,11 @@
+.git
+.venv
+frontend/node_modules
+frontend/dist
+__pycache__
+*.pyc
+*.pyo
+*.log
+shots
+*.pptx
+data/raw/*.zip
